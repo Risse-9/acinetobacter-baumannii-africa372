@@ -1,4 +1,0 @@
-sample_id	molecule_type	primary_cluster_id	secondary_cluster_id	contig_id	size	gc	md5	mge_id	mge_acs	mge_type	mge_subtype	mge_length	mge_start	mge_end	contig_start	contig_end	length	sstrand	qcovhsp	pident	evalue	bitscore
-ERR6938736	chromosome			NODE_59_length_5560_cov_198.837392	5560	0.48776978417266187	ec222c7e2e48fd8ec227aad24eb766b5	01399	CP016586.1	16s-rRNA	16S	1554	7	1544	3851	5383						
-ERR6938736	chromosome			NODE_71_length_1318_cov_222.557834	1318	0.3945371775417299	1647e7d67fde26977c4878d78906520f	00345	CP001182	ISAba26	IS256	1318	1	1318	1	1318						
-ERR6938736	chromosome			NODE_74_length_1039_cov_254.957447	1039	0.3965351299326275	bd01cf3c03b553517cd214ca8a92f859	00966	CP001182	ISAlw1	IS5	1039	1	1039	1	1039						

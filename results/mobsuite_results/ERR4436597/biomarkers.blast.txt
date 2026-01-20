@@ -1,3 +1,0 @@
-qseqid	sseqid	qlen	slen	qstart	qend	sstart	send	length	mismatch	pident	qcovhsp	qcovs	sstrand	evalue	bitscore	biomarker
-000454__KY202458_00008|rep_cluster_1172	NODE_59_length_8830_cov_201.651701	951	8830	1	951	574	1524	951	0	100.0	100.0	100.0	minus	0.0	1757	replicon
-NZ_ALIG01000010_00048|MOBP	NODE_89_length_1274_cov_62.837447	284	1274	1	284	378	1229	284	39	86.268	100.0	100.0	plus	0.0	515	relaxase

@@ -1,2 +1,0 @@
-qseqid	sseqid	qlen	slen	qstart	qend	sstart	send	length	mismatch	pident	qcovhsp	qcovs	sstrand	evalue	bitscore	biomarker
-NZ_ALIG01000010_00048|MOBP	NODE_53_length_1276_cov_74.873407	284	1276	1	284	379	1230	284	39	86.268	100.0	100.0	plus	0.0	515	relaxase

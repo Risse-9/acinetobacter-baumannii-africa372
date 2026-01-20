@@ -1,2 +1,0 @@
-sample_id	molecule_type	primary_cluster_id	secondary_cluster_id	contig_id	size	gc	md5	mge_id	mge_acs	mge_type	mge_subtype	mge_length	mge_start	mge_end	contig_start	contig_end	length	sstrand	qcovhsp	pident	evalue	bitscore
-SRR28167569	chromosome			NODE_14_length_5289_cov_213.325241	5289	0.49083002457931557	f80bd96df7771966240909a44d6e3065	01399	CP016586.1	16s-rRNA	16S	1554	1	1544	172	1710						

@@ -1,2 +1,0 @@
-qseqid	sseqid	qlen	slen	qstart	qend	sstart	send	length	mismatch	pident	qcovhsp	qcovs	sstrand	evalue	bitscore	biomarker
-000454__KY202458_00008|rep_cluster_1172	NODE_43_length_3783_cov_87.551574	951	3783	1	951	1859	2809	951	0	100.0	100.0	100.0	plus	0.0	1757	replicon

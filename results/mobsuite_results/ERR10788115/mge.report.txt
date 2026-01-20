@@ -1,3 +1,0 @@
-sample_id	molecule_type	primary_cluster_id	secondary_cluster_id	contig_id	size	gc	md5	mge_id	mge_acs	mge_type	mge_subtype	mge_length	mge_start	mge_end	contig_start	contig_end	length	sstrand	qcovhsp	pident	evalue	bitscore
-ERR10788115	chromosome			NODE_1_length_957595_cov_6.890609	957595	0.38209054976268675	04c00d7a1cc4fddcc70ab3c532f2e453	00516	MF399199	ISMca3	IS3	1309	1	1309	760005	761313						
-ERR10788115	chromosome			NODE_22_length_5234_cov_39.936514	5234	0.49235766144440196	38800b230dc4f965caaf2ca7604306b5	01399	CP016586.1	16s-rRNA	16S	1554	7	1544	3524	5056						

@@ -1,2 +1,0 @@
-qseqid	sseqid	qlen	slen	qstart	qend	sstart	send	length	mismatch	pident	qcovhsp	qcovs	sstrand	evalue	bitscore	biomarker
-NZ_AFDA02000006_00006|MOBP	NODE_151_length_6177_cov_14.738072	604	6177	1	604	3980	5791	604	15	97.517	100.0	100.0	minus	0.0	1193	relaxase
