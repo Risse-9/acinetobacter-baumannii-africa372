@@ -2,7 +2,7 @@
 
 This repository contains the bioinformatics pipeline, data processing scripts, and downstream analysis used to investigate the antimicrobial resistance (AMR) profiles and phylogenetic relationships of **372 *Acinetobacter baumannii* genomes** collected from across Africa.
 
-## 📌 Project Overview
+## Project Overview
 
 The goal of this study is to characterize the genomic population structure of African *A. baumannii* isolates, identifying dominant Sequence Types (STs), analyzing the prevalence of resistance genes, and determining plasmid-borne resistance mechanisms.
 
@@ -16,7 +16,7 @@ The goal of this study is to characterize the genomic population structure of Af
 
 ---
 
-## 📂 Repository Structure
+## Repository Structure
 
 * **`data/`**: Contains metadata, reference genomes, and intermediate mapping files.
 * *Note: Raw genome FASTA files are excluded due to size constraints.*
@@ -27,7 +27,7 @@ The goal of this study is to characterize the genomic population structure of Af
 
 ---
 
-## 🛠️ Installation & Dependencies
+## Installation & Dependencies
 
 The analysis runs on a Linux/WSL environment using **Conda/Mamba**. You can recreate the necessary environments using the commands below.
 
@@ -52,7 +52,7 @@ conda create -n analysis_env -c conda-forge pandas matplotlib seaborn openpyxl
 
 ---
 
-## 🚀 Usage / Workflow
+## Usage / Workflow
 
 The scripts in the `scripts/` folder.
 
@@ -100,13 +100,13 @@ Generates the final tables and figures.
 
 ---
 
-## 📊 Key Results
+## Key Results
 
 * **Phylogeny:** High-resolution core SNP tree revealing the population structure of African isolates.
 * **Resistance Burden:** Analysis of the Gene Burden across different STs.
 * **Plasmid Association:** Detailed breakdown of chromosomal vs. plasmid location for genes.
 
-## 📄 License
+## License
 
 This project is for academic research purposes.
 
