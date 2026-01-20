@@ -12,6 +12,7 @@ mkdir -p "$OUTPUT_DIR"
 
 echo "Input: $INPUT_DIR"
 
-mlst "$INPUT_DIR"/*.fasta | sed 's/\.fasta//g' > "$OUTPUT_FILE"
+# Use | as the delimiter in sed because INPUT_DIR contains slashes (/)
+mlst "$INPUT_DIR"/*.fasta | sed -e "s|$INPUT_DIR/||g" -e 's/\.fasta//g' > "$OUTPUT_FILE"
 
 echo "MLST results saved to $OUTPUT_FILE"

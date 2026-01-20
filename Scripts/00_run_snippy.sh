@@ -1,13 +1,11 @@
 #!/bin/bash
-# Description: Runs Snippy on all genomes in a folder.
-# Uses conservative resource limits (4GB RAM) to prevent crashing.
+# Description: Runs Snippy pipeline.
+# FIX: Uses --prefix to direct output since --outdir is not supported.
 
 set -e 
 
 # --- CONFIGURATION ---
-# Point to the reference file inside the main folder
 REF_GENOME="../data/fasta_372/ERR10710700.fasta"
-# Point to the folder containing ALL 372 fastas
 GENOME_DIR="../data/fasta_372"
 
 # Output directories
@@ -21,33 +19,29 @@ RAM_IN_GB=4
 # 1. Setup
 mkdir -p "$FINAL_OUTPUT_DIR"
 mkdir -p "$INTERMEDIATE_DIR"
-
-# Extract just the filename of the reference (e.g., "ERR10710700.fasta")
-# Use to compare inside the loop.
 REF_FILENAME=$(basename "$REF_GENOME")
 
 echo "Starting Snippy pipeline..."
 echo "Reference: $REF_FILENAME"
-echo "Input Folder: $GENOME_DIR"
 
-SNIPPY_DIRS=()
-
-# 2. Loop through every fasta file in the folder
+# 2. Loop through every fasta file
 for genome_file in "$GENOME_DIR"/*.fasta; do
   
-  # Get the current file's name
   current_file=$(basename "$genome_file")
 
-  # --- LOGIC CHECK ---
+  # Skip reference genome
   if [ "$current_file" == "$REF_FILENAME" ]; then
-      echo "Skipping reference genome ($current_file) to avoid self-mapping."
       continue
   fi
-  # -------------------------------------------
 
-  # Prepare output name
   sample_name=$(basename "$genome_file" .fasta)
   output_dir="$INTERMEDIATE_DIR/snippy_$sample_name"
+
+  # Skip if already done
+  if [ -f "$output_dir/snps.tab" ]; then
+      echo "Skipping $sample_name (Already completed)"
+      continue
+  fi
 
   echo "Processing: $sample_name"
 
@@ -58,19 +52,18 @@ for genome_file in "$GENOME_DIR"/*.fasta; do
          --cpus $CPUS_TO_USE \
          --ram $RAM_IN_GB \
          --force
-
-  # Add to list
-  SNIPPY_DIRS+=("$output_dir")
 done
 
 echo "------------------------------------------------"
 echo "Individual runs complete. Starting Core Alignment..."
 
 # 3. Run snippy-core
-# Note: The reference is automatically included in the final alignment by snippy-core
-snippy-core --outdir "$FINAL_OUTPUT_DIR" \
+# FIX: We use --prefix to specify the folder AND the filename start.
+# This forces the files (core.aln, core.txt) to land in FINAL_OUTPUT_DIR.
+
+snippy-core --prefix "$FINAL_OUTPUT_DIR/core" \
             --ref "$REF_GENOME" \
-            "${SNIPPY_DIRS[@]}"
+            "$INTERMEDIATE_DIR"/snippy_*
 
 echo "------------------------------------------------"
 echo "PIPELINE COMPLETE!"

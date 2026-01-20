@@ -1,6 +1,5 @@
 # Ignore huge data folders
 data/genomes/
-data/fasta_372/
 data/renamed_outputs/
 data/renamed_outputs_short/
 data/datasets/
@@ -19,3 +18,4 @@ env/
 *.zip
 *.rocrate.zip
 results/multiqc/multiqc_data/*.json
+results/snippy_final_core/core.full.aln

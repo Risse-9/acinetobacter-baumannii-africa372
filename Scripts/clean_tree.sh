@@ -1,14 +1,27 @@
 #!/bin/bash
-# Rename Reference back to 'ERR10710700' and remove snippy prefix from sample names
+# Description: Removes 'snippy_' prefixes from the IQ-TREE output 
+# to make labels clean for Microreact (e.g., "snippy_SRR123" -> "SRR123").
 
-# Input: The raw tree file from IQ-TREE
-INPUT_TREE="../results/snippy_final_core/core.aln.treefile"
-# Output: The clean tree file for Microreact
-OUTPUT_TREE="../results/snippy_final_core/final_core.tre"
+set -e
 
+# --- CONFIGURATION ---
+INPUT_TREE="../results/iqtree_out/final_core.treefile"
+OUTPUT_TREE="../results/iqtree_out/final_core.tre"
 
+# 1. Check if file exists
+if [ ! -f "$INPUT_TREE" ]; then
+    echo "Error: Cannot find tree file at $INPUT_TREE"
+    exit 1
+fi
+
+echo "Cleaning tree labels..."
+
+# 2. Rename Reference and remove snippy_ prefix
 sed -e 's/Reference/ERR10710700/g' \
     -e 's/snippy_//g' \
     "$INPUT_TREE" > "$OUTPUT_TREE"
 
-echo "Tree formatted successfully."
+echo "------------------------------------------------"
+echo "Success! Clean tree saved to:"
+echo "$OUTPUT_TREE"
+echo "------------------------------------------------"
