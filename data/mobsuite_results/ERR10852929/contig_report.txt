@@ -1,0 +1,28 @@
+sample_id	molecule_type	primary_cluster_id	secondary_cluster_id	contig_id	size	gc	md5	circularity_status	rep_type(s)	rep_type_accession(s)	relaxase_type(s)	relaxase_type_accession(s)	mpf_type	mpf_type_accession(s)	orit_type(s)	orit_accession(s)	predicted_mobility	mash_nearest_neighbor	mash_neighbor_distance	mash_neighbor_identification	repetitive_dna_id	repetitive_dna_type	filtering_reason
+ERR10852929	chromosome	-	-	NODE_10_length_89910_cov_11.109875	89910	0.39760871983094204	57d95ab4423ab2449fa4ee2c55707816	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR10852929	chromosome	-	-	NODE_11_length_63242_cov_7.514610	63242	0.3857088643622909	23127c0b9db2fb304d82b0207d3ba42b	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR10852929	chromosome	-	-	NODE_12_length_50437_cov_11.465612	50437	0.38362709915339926	47fdc3cefdb19fd96e40480bb51b6a66	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR10852929	chromosome	-	-	NODE_13_length_42166_cov_7.802792	42166	0.3725987762652374	0c1b3e0d1df3bb9ce4bee2efebf81f87	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR10852929	chromosome	-	-	NODE_14_length_34378_cov_9.457073	34378	0.39885973587759616	ec69007a090b0dd8cc133098b4290e6d	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR10852929	plasmid	AC967	-	NODE_15_length_29357_cov_13.583704	29357	0.35139830364138025	1d4f316e0763cbcabd8838a9f17473d3	not tested	rep_cluster_1218	000512__CP014652_00146	MOBQ	CP038011_00018	-	-	-	-	-	CP018872	0.0473443	Acinetobacter haemolyticus	-	-	-
+ERR10852929	plasmid	AB406	-	NODE_16_length_29264_cov_13.871867	29264	0.4073264078731547	b0bb4abb50a4344121c5f09e4d405a07	not tested	-	-	-	-	-	-	-	-	-	CP040913	0.0489202	Acinetobacter pittii	-	-	-
+ERR10852929	chromosome	-	-	NODE_17_length_26821_cov_9.931854	26821	0.3940941799336341	273e03ef36ffc25171d0914ba2577c34	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR10852929	plasmid	AB406	-	NODE_18_length_6181_cov_11.274416	6181	0.4502507684840641	b1706c9966582ad3f14882906d60c309	not tested	-	-	-	-	-	-	-	-	-	CP040913	0.0489202	Acinetobacter pittii	-	-	-
+ERR10852929	chromosome	-	-	NODE_19_length_5518_cov_53.496217	5518	0.48930772018847407	0b458dc29660ed1f870fb7aa3d992e96	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR10852929	chromosome	-	-	NODE_1_length_891604_cov_8.730485	891604	0.3853381097437876	223fe14e7a8f10c367a3e6710e0bf761	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR10852929	chromosome	-	-	NODE_20_length_2638_cov_9.661678	2638	0.35595147839272173	f997870d36aa6a6bc3f7c047185fea97	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR10852929	chromosome	-	-	NODE_21_length_2311_cov_14.052893	2311	0.3954997836434444	96e34f3ab026c5930423fb54f2437000	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR10852929	plasmid	AB406	-	NODE_22_length_1275_cov_41.269558	1275	0.3764705882352941	4dda27d84e99886d7770a01ea6895861	not tested	-	-	MOBP	NZ_ALIG01000010_00048	-	-	-	-	-	CP040913	0.0489202	Acinetobacter pittii	JX076770	ISAba21	repetitve element
+ERR10852929	chromosome	-	-	NODE_23_length_887_cov_10.611675	887	0.46223224351747466	dcb5cfdf6ed931aaadd63b48f07385f5	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR10852929	chromosome	-	-	NODE_24_length_772_cov_41.355126	772	0.37823834196891193	1b34c63e80d24cffca7d17524b515c01	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR10852929	chromosome	-	-	NODE_25_length_633_cov_21.308989	633	0.31121642969984203	1a95b0dbfef54341274b840b40a5af70	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR10852929	chromosome	-	-	NODE_26_length_512_cov_15.397094	512	0.4375	b9eae00714bf996403ff439d8560d1c8	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR10852929	chromosome	-	-	NODE_27_length_509_cov_31.734146	509	0.3831041257367387	071820bde70b3efb9bb20ce569bac5d4	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR10852929	chromosome	-	-	NODE_2_length_579509_cov_9.104556	579509	0.3807015939355558	d9693d9f3e3878acd20c1c90d41c1618	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR10852929	chromosome	-	-	NODE_3_length_488610_cov_11.000794	488610	0.3912629704672438	06f76cc6fd513c14392a1a0af1c51215	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR10852929	chromosome	-	-	NODE_4_length_461870_cov_7.982745	461870	0.38287613397709314	6d660935da2e34837d713f17366d5a71	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR10852929	chromosome	-	-	NODE_5_length_403826_cov_10.553518	403826	0.3979312872375726	7767aef6c82ae397d263252f6c773d58	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR10852929	chromosome	-	-	NODE_6_length_335598_cov_10.056876	335598	0.3880142355543103	21671ede7579033f2e9236aaf7b2def6	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR10852929	chromosome	-	-	NODE_7_length_155931_cov_9.991568	155931	0.3915642175064612	df4bbb8a8a2d0769f69de3750c0e870a	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR10852929	chromosome	-	-	NODE_8_length_154103_cov_11.224507	154103	0.39771451561617877	6070340e00fd51307736faaed5ccfcee	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR10852929	chromosome	-	-	NODE_9_length_143259_cov_8.793630	143259	0.3796131482140738	8b46e253145012b19c6a148b692f436a	not tested	rep_cluster_463	001812__CP017939	-	-	-	-	-	-	-	-	-	-	-	-	-

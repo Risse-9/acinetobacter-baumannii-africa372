@@ -1,0 +1,21 @@
+# Ignore huge data folders
+data/genomes/
+data/fasta_372/
+data/renamed_outputs/
+data/renamed_outputs_short/
+data/datasets/
+
+# Ignore heavy results
+results/snippy_out/
+
+# Ignore python cache and envs
+__pycache__/
+*.pyc
+.ipynb_checkpoints
+.venv/
+env/
+
+# Too large for GitHub
+*.zip
+*.rocrate.zip
+results/multiqc/multiqc_data/*.json

@@ -1,0 +1,38 @@
+sample_id	molecule_type	primary_cluster_id	secondary_cluster_id	contig_id	size	gc	md5	circularity_status	rep_type(s)	rep_type_accession(s)	relaxase_type(s)	relaxase_type_accession(s)	mpf_type	mpf_type_accession(s)	orit_type(s)	orit_accession(s)	predicted_mobility	mash_nearest_neighbor	mash_neighbor_distance	mash_neighbor_identification	repetitive_dna_id	repetitive_dna_type	filtering_reason
+ERR10783166	chromosome	-	-	NODE_10_length_141838_cov_8.559042	141838	0.39480252118614195	20bb036652b85204a457597d6b31d35f	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR10783166	chromosome	-	-	NODE_11_length_113288_cov_7.993392	113288	0.39492267495233385	2000a35b1bd989ae94c3962c5963f201	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR10783166	chromosome	-	-	NODE_12_length_94655_cov_12.650863	94655	0.39342876762981355	0cbd170c00d8291215f6906591bc0db8	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR10783166	chromosome	-	-	NODE_13_length_89910_cov_11.965060	89910	0.39760871983094204	7d2a6566ab5cbccefdc109fcbf85230a	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR10783166	chromosome	-	-	NODE_14_length_76416_cov_10.571275	76416	0.3835322445561139	2403bf3a193c935cf1453ff35160cada	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR10783166	chromosome	-	-	NODE_15_length_62468_cov_7.686864	62468	0.3854933726067747	92dc7f66371a177791a6b318798b3732	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR10783166	chromosome	-	-	NODE_16_length_59405_cov_12.112619	59405	0.4047975759616194	5f547aef94794a61a16062ff36de87d0	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR10783166	chromosome	-	-	NODE_17_length_53513_cov_9.183884	53513	0.36563078130547716	ccdb4f7c6c958723134e8a34b1789e18	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR10783166	chromosome	-	-	NODE_18_length_50436_cov_12.651727	50436	0.38363470536918076	238579dad0c3d9a3f7a4480ac390831b	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR10783166	chromosome	-	-	NODE_19_length_42166_cov_8.269348	42166	0.3725987762652374	fd8dcf3426120072b05f795fe2415c11	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR10783166	chromosome	-	-	NODE_1_length_891532_cov_9.272965	891532	0.38531538968876045	eadad6f4d94f800b40237a5894ca3efe	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR10783166	plasmid	AB406	-	NODE_20_length_29264_cov_15.242722	29264	0.4073264078731547	b0bb4abb50a4344121c5f09e4d405a07	not tested	-	-	-	-	-	-	-	-	-	CP040913	0.0489202	Acinetobacter pittii	-	-	-
+ERR10783166	plasmid	AC967	-	NODE_21_length_29118_cov_13.602364	29118	0.3506547208821502	2b84adb42a171a199cedcc168b3ecc88	not tested	rep_cluster_1218	000512__CP014652_00146	MOBQ	CP038011_00018	-	-	-	-	-	CP018872	0.0473443	Acinetobacter haemolyticus	-	-	-
+ERR10783166	chromosome	-	-	NODE_22_length_26849_cov_11.213421	26849	0.3939439085254572	13910f0c74f33700cc4aed5579e97639	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR10783166	chromosome	-	-	NODE_23_length_14162_cov_11.339188	14162	0.37360542296285837	113e0fce6c8e54a6bbec8fac872d49c1	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR10783166	chromosome	-	-	NODE_24_length_8813_cov_8.361143	8813	0.34812209236355385	3f527cf9a5441e6f0df4848603436802	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR10783166	plasmid	AB406	-	NODE_25_length_6181_cov_11.751398	6181	0.4502507684840641	11bd1d38f939374298b7413489db4540	not tested	-	-	-	-	-	-	-	-	-	CP040913	0.0489202	Acinetobacter pittii	-	-	-
+ERR10783166	chromosome	-	-	NODE_26_length_5540_cov_2.933652	5540	0.44855595667870035	311561b6682fa4764671739692ac9c23	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR10783166	chromosome	-	-	NODE_27_length_5518_cov_58.336593	5518	0.48930772018847407	0b458dc29660ed1f870fb7aa3d992e96	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR10783166	chromosome	-	-	NODE_28_length_2638_cov_11.453328	2638	0.35595147839272173	3698f7d860ff4fde3fda5e6b03e550fd	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR10783166	chromosome	-	-	NODE_29_length_2311_cov_14.459765	2311	0.3954997836434444	37a09e29a14db54abb37ba020aba1c71	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR10783166	chromosome	-	-	NODE_2_length_488453_cov_11.878242	488453	0.3913293602455098	d7ff1cd563b59604f591c5839f3917b3	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR10783166	chromosome	-	-	NODE_30_length_1721_cov_9.712084	1721	0.3346891342242882	dbe287fa45195c46d6e03db8f98a1132	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR10783166	chromosome	-	-	NODE_31_length_1282_cov_38.120034	1282	0.38065522620904835	7bdefa2fff23fa7990240796332a8afa	not tested	-	-	-	-	-	-	-	-	-	-	-	-	KF702385	ISAba14	repetitve element
+ERR10783166	plasmid	AB406	-	NODE_32_length_1275_cov_45.451531	1275	0.3764705882352941	4dda27d84e99886d7770a01ea6895861	not tested	-	-	MOBP	NZ_ALIG01000010_00048	-	-	-	-	-	CP040913	0.0489202	Acinetobacter pittii	JX076770	ISAba21	repetitve element
+ERR10783166	chromosome	-	-	NODE_33_length_999_cov_16.081111	999	0.4044044044044044	82e25bcf71091f0d2d547a6ad248ce11	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR10783166	chromosome	-	-	NODE_34_length_887_cov_12.428934	887	0.46223224351747466	4c02427a40ca9bbff59a7c5b67fdc234	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR10783166	chromosome	-	-	NODE_35_length_749_cov_18.536923	749	0.3177570093457944	9dfa5dce3c0b9155cfe3b80820481b89	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR10783166	chromosome	-	-	NODE_36_length_537_cov_55.737443	537	0.4245810055865922	6bc19eb541a30824a21e747104def304	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR10783166	chromosome	-	-	NODE_37_length_512_cov_17.745763	512	0.4375	ed50e62b7160d3aa0bd6e5b7ee490079	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR10783166	chromosome	-	-	NODE_3_length_404932_cov_11.448427	404932	0.3979255592443285	fe98343c47e7a758fa6a15896cdc4d29	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR10783166	chromosome	-	-	NODE_4_length_282655_cov_10.094516	282655	0.3820735525640799	e44431eb9021699363e3353aab21fced	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR10783166	chromosome	-	-	NODE_5_length_259304_cov_11.080022	259304	0.3894238559292609	56aa1360f0172bee47ac20dcaf66b5fa	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR10783166	chromosome	-	-	NODE_6_length_240879_cov_9.366658	240879	0.3826111865293363	3f81e5f6b7518195f2a938587ab8c5af	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR10783166	chromosome	-	-	NODE_7_length_198125_cov_8.140148	198125	0.3693425867507886	8eeacb8669b3ac09ee7d91f5ea6e4371	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR10783166	chromosome	-	-	NODE_8_length_176122_cov_10.483096	176122	0.39446520025891146	33554adab889d82f48099d6346779e80	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR10783166	chromosome	-	-	NODE_9_length_143259_cov_9.081985	143259	0.3796131482140738	8b46e253145012b19c6a148b692f436a	not tested	rep_cluster_463	001812__CP017939	-	-	-	-	-	-	-	-	-	-	-	-	-

@@ -1,0 +1,2 @@
+qseqid	sseqid	qlen	slen	qstart	qend	sstart	send	length	mismatch	pident	qcovhsp	qcovs	sstrand	evalue	bitscore	biomarker
+NZ_AEOY01000096_00007|MOBP	NODE_2_length_390837_cov_25.778752	300	390837	1	300	217552	218451	300	26	91.333	100.0	100.0	plus	0.0	569	relaxase

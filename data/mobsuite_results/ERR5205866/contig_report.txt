@@ -1,0 +1,111 @@
+sample_id	molecule_type	primary_cluster_id	secondary_cluster_id	contig_id	size	gc	md5	circularity_status	rep_type(s)	rep_type_accession(s)	relaxase_type(s)	relaxase_type_accession(s)	mpf_type	mpf_type_accession(s)	orit_type(s)	orit_accession(s)	predicted_mobility	mash_nearest_neighbor	mash_neighbor_distance	mash_neighbor_identification	repetitive_dna_id	repetitive_dna_type	filtering_reason
+ERR5205866	chromosome	-	-	NODE_100_length_671_cov_142.216783	671	0.4798807749627422	00e86d539fca0ba2846d4c40b3342967	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR5205866	chromosome	-	-	NODE_101_length_644_cov_53.020183	644	0.4254658385093168	1d86f7f214de41eda4a8afde4d52c078	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR5205866	chromosome	-	-	NODE_102_length_614_cov_56.864078	614	0.44788273615635177	975cb97333b4e00d4000cdbaa205d39b	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR5205866	chromosome	-	-	NODE_103_length_594_cov_50.121212	594	0.3771043771043771	33fec76c31ad4edcca039dad7df5769d	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR5205866	chromosome	-	-	NODE_104_length_591_cov_23.682927	591	0.47715736040609136	8265b75cbbdfe6489d8a78df365c2cf3	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR5205866	chromosome	-	-	NODE_105_length_563_cov_131.219828	563	0.5115452930728241	51826ca7f382de2c4d9d3897972ccbf5	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR5205866	chromosome	-	-	NODE_106_length_554_cov_26.057143	554	0.3844765342960289	8f051973f70ae3947c75545e00184020	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR5205866	chromosome	-	-	NODE_107_length_539_cov_52.513636	539	0.44341372912801486	1deccfc424293fede03d48601da6cdcb	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR5205866	chromosome	-	-	NODE_108_length_531_cov_39.942130	531	0.4689265536723164	86286e889f69f4341fb600eb74ad508f	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR5205866	chromosome	-	-	NODE_109_length_515_cov_83.838942	515	0.3766990291262136	5396d2f2d7945503328a573cdb2e4e6f	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR5205866	chromosome	-	-	NODE_10_length_136793_cov_22.088965	136793	0.38847017025725	81b31caa0844b3915456e8866cf604c9	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR5205866	chromosome	-	-	NODE_110_length_507_cov_28.500000	507	0.46153846153846156	a3f3405c8aa046d0bac01d1b7a31e20e	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR5205866	chromosome	-	-	NODE_11_length_130061_cov_22.251774	130061	0.3995552546128868	f86dee70ed939d2c251bbb1933fb80ad	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR5205866	chromosome	-	-	NODE_12_length_126213_cov_22.364694	126213	0.3841284178333452	267eddbfdacba43f561e1b87e1b7ad3d	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR5205866	plasmid	AB114	AJ690	NODE_13_length_110354_cov_13.114534	110354	0.4159613607118908	1a545ec576865523859df223fbb55e61	not tested	rep_cluster_718	002191__CP004359_00001	MOBP	NC_020524_00069	-	-	-	-	-	CP021327	0.00136596	Acinetobacter baumannii	-	-	-
+ERR5205866	chromosome	-	-	NODE_14_length_108866_cov_22.303787	108866	0.38549730614346395	291ac17993ffda43292ea6275521ebd3	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR5205866	chromosome	-	-	NODE_15_length_108122_cov_22.719217	108122	0.39139120622999946	bf8909d2b6cde68f6e6f14978ae29485	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR5205866	plasmid	AE272	AO018	NODE_16_length_99060_cov_21.588080	99060	0.3737129012719564	03048648db817af92b5593994784d2ff	not tested	-	-	-	-	-	-	-	-	-	CP036285	0.00126265	Acinetobacter baumannii	-	-	-
+ERR5205866	chromosome	-	-	NODE_17_length_94474_cov_22.921717	94474	0.39256303321548786	9e27163a3dd6791bcc887edbfa5ba2c1	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR5205866	chromosome	-	-	NODE_18_length_89167_cov_21.472280	89167	0.3682976886067716	5a3c26fc79930000fa0aefe7afd05778	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR5205866	chromosome	-	-	NODE_19_length_86045_cov_22.551428	86045	0.39317798826195594	edc3530eb617d0e9f6b78320b9fb905d	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR5205866	chromosome	-	-	NODE_1_length_330174_cov_21.117382	330174	0.38757140174574617	74d8f83549fad6007344e84e2842bca8	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR5205866	chromosome	-	-	NODE_20_length_75949_cov_23.075517	75949	0.40574596110547867	5f9d39aac5793b80b6201b046bbfcacc	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR5205866	chromosome	-	-	NODE_21_length_73244_cov_23.848247	73244	0.3943121620883622	6dd7dece0230ffcfa91ae10b16ab6b0d	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR5205866	chromosome	-	-	NODE_22_length_70867_cov_20.512541	70867	0.3780744210986778	90c04127a616417aed01bb9509df5485	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR5205866	chromosome	-	-	NODE_23_length_66849_cov_21.037738	66849	0.3818007748807013	a756d4da032badd2c7c3fa32a94d25d9	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR5205866	chromosome	-	-	NODE_24_length_62158_cov_23.357208	62158	0.38601628109012515	327f1d22d78e0a71542b561cf94f9ee3	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR5205866	chromosome	-	-	NODE_25_length_58187_cov_20.649899	58187	0.37594308006943133	1cf86cfbef0ecc47296c3dbc3bd0be0a	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR5205866	chromosome	-	-	NODE_26_length_54086_cov_23.767388	54086	0.39365085234626335	17b513d4829bdf459a094e8c9b528865	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR5205866	chromosome	-	-	NODE_27_length_50511_cov_22.504959	50511	0.3847082813644553	52c339d75434b07eae100842efb01022	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR5205866	chromosome	-	-	NODE_28_length_48078_cov_22.322037	48078	0.385415366695786	ea338068750db0b48399190b5450927e	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR5205866	chromosome	-	-	NODE_29_length_47609_cov_21.182130	47609	0.38427608225335547	0898795e6b800fcf1051901ad7eaa869	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR5205866	chromosome	-	-	NODE_2_length_251218_cov_23.396187	251218	0.40522175958729073	0e0414e9b429138653015fb8828ed299	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR5205866	chromosome	-	-	NODE_30_length_31977_cov_23.355167	31977	0.3894048847609219	862ea2a0fd112c674f2bc0b5a40854ff	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR5205866	chromosome	-	-	NODE_31_length_29635_cov_23.766251	29635	0.3941285641977392	84ace6554fe115bba1925ad1bae9f31a	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR5205866	chromosome	-	-	NODE_32_length_25489_cov_21.987239	25489	0.3780846639726941	c77dea5c6ae8766d31b48cffbc8adbcb	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR5205866	chromosome	-	-	NODE_33_length_25254_cov_22.597456	25254	0.3907895778886513	db62dc1283583d5abfce78551dfa05cc	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR5205866	chromosome	-	-	NODE_34_length_24828_cov_21.504549	24828	0.3820686321894635	50a376a5494aeae5dd43846072789d89	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR5205866	chromosome	-	-	NODE_35_length_24339_cov_22.683540	24339	0.392620896503554	a025ff60dd3e1a302fba59f6e4f62e59	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR5205866	chromosome	-	-	NODE_36_length_23987_cov_20.762307	23987	0.3645307875099012	47a1c704cb449513c3619250ee271a8a	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR5205866	chromosome	-	-	NODE_37_length_23616_cov_23.650466	23616	0.3968072493224932	c44f6e5dfab996ecdf67eb8a4e8cf5b4	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR5205866	plasmid	AH171	-	NODE_38_length_21656_cov_22.377047	21656	0.40261359438492794	bc8488169ab84b89238e728deca4fb55	not tested	-	-	-	-	-	-	-	-	-	CP039027	0.0323015	Acinetobacter baumannii ATCC 17978	-	-	-
+ERR5205866	chromosome	-	-	NODE_39_length_21579_cov_22.010615	21579	0.37749664025209695	0a3892de0dd8752f811a1e3c15c94e02	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR5205866	chromosome	-	-	NODE_3_length_211016_cov_22.984544	211016	0.3975670091367479	3aac14bf745e163fd38ebc7a0da6872c	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR5205866	chromosome	-	-	NODE_40_length_19577_cov_40.519098	19577	0.3870358073249221	a103f5cfc8e595e463120ed8897da872	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR5205866	chromosome	-	-	NODE_41_length_19011_cov_21.873149	19011	0.38435642522749985	eb1fd617d062d44d72100bb62aa4468a	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR5205866	chromosome	-	-	NODE_42_length_17906_cov_23.050486	17906	0.40667932536579915	761fbe802284f4e4992bd780414b774e	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR5205866	chromosome	-	-	NODE_43_length_17298_cov_25.507937	17298	0.37969707480633597	b60222a317065bd635ff644a2be5f243	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR5205866	chromosome	-	-	NODE_44_length_16286_cov_23.934948	16286	0.38094068525113595	9a216202029cfb63b47845620dd44ca4	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR5205866	chromosome	-	-	NODE_45_length_14685_cov_21.217126	14685	0.39632277834525026	4d3bbdca4a80b2874a0512fa2d757e7f	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR5205866	chromosome	-	-	NODE_46_length_13968_cov_24.258346	13968	0.4202462772050401	a0283efc6de629d8cf6c30eef8dd84fe	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR5205866	chromosome	-	-	NODE_47_length_13126_cov_24.290857	13126	0.390141703489258	6f51ab4677c0878209b2172fd660b481	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR5205866	chromosome	-	-	NODE_48_length_9890_cov_21.057910	9890	0.4045500505561173	d498e05dcacdb2872a3511cc387d9cba	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR5205866	chromosome	-	-	NODE_49_length_9413_cov_20.779042	9413	0.36757675555083397	85d3a4f7804a696bdb388d4ee688a2fd	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR5205866	chromosome	-	-	NODE_4_length_208409_cov_21.438995	208409	0.3796141241501087	c8858b73d33c3127565de47ee29fea1f	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR5205866	chromosome	-	-	NODE_50_length_9148_cov_22.274063	9148	0.36565369479667686	4faf7e3101d218f720bc582d2553f80c	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR5205866	chromosome	-	-	NODE_51_length_8774_cov_22.410490	8774	0.3179849555504901	2b9e9fe1972405bd04d73979d8e3c0ee	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR5205866	plasmid	AC302	-	NODE_52_length_8317_cov_16.912874	8317	0.5849464951304557	a27b6884ea2f6e1c7262b8c22db6b7af	not tested	-	-	-	-	-	-	-	-	-	CP042870	0.0374354	Escherichia coli	JQ899055,MG764534	Tn3,TnAs3	repetitve element
+ERR5205866	chromosome	-	-	NODE_53_length_7440_cov_33.811197	7440	0.38938172043010755	5aac32c1bff14953c71e57ad7ad61743	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR5205866	chromosome	-	-	NODE_54_length_5743_cov_24.017009	5743	0.3943931742991468	f4ec1d73ecb821d8248e3ea8d559114b	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR5205866	chromosome	-	-	NODE_55_length_5342_cov_20.470723	5342	0.3998502433545489	3b1789b9e43c5ccffc4777e956c9d154	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR5205866	chromosome	-	-	NODE_56_length_4760_cov_54.198884	4760	0.3846638655462185	da4d943f406fd21fd0617ba5fe9e6059	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR5205866	chromosome	-	-	NODE_57_length_4466_cov_24.811770	4466	0.40282131661442006	474643cc0713c9cb964320ce9d7b7f1c	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR5205866	chromosome	-	-	NODE_58_length_4422_cov_23.761046	4422	0.3817277250113071	11aeb7a835e39b4b3277215e9282e325	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR5205866	chromosome	-	-	NODE_59_length_4232_cov_27.519961	4232	0.401937618147448	524b9ed5a232b0ff46e9f0f8dc7540b0	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR5205866	chromosome	-	-	NODE_5_length_169007_cov_21.299690	169007	0.38758749637588974	2d9490de542c610322a588538a637630	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR5205866	chromosome	-	-	NODE_60_length_4140_cov_26.929968	4140	0.4036231884057971	7e5de42aa7d17dcdb7562567ebb2013c	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR5205866	chromosome	-	-	NODE_61_length_3935_cov_60.994786	3935	0.4094027954256671	90eee6700963eca8be000e16ec2b5234	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR5205866	chromosome	-	-	NODE_62_length_3770_cov_30.822664	3770	0.35517241379310344	b4abc1bdbb709ea36577941d3ffd7add	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR5205866	chromosome	-	-	NODE_63_length_3763_cov_20.409662	3763	0.5293648684560192	fed4721ee8f6fc17f9ff3adafae7b4d7	not tested	-	-	-	-	-	-	-	-	-	-	-	-	CP001182	IS15	repetitve element
+ERR5205866	plasmid	AE581	-	NODE_64_length_3674_cov_14.914406	3674	0.6173108328796951	7cf3e089e1fd43693fc8d68ffe61d954	not tested	-	-	-	-	-	-	-	-	-	JQ739157	0.0341361	Acinetobacter pittii	KY978629,CP030858,MF458176	IS5D,ISAba125,ISKox3	repetitve element
+ERR5205866	chromosome	-	-	NODE_65_length_3532_cov_36.773959	3532	0.3856172140430351	7135c9698239c6c13806249ba347feae	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR5205866	chromosome	-	-	NODE_66_length_2988_cov_23.582208	2988	0.3614457831325301	d3d0bbe5303a39d236454811ca303c90	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR5205866	chromosome	-	-	NODE_67_length_2893_cov_25.308518	2893	0.40926374006221916	e85fc8d6640554aa9c3f24ba534d531c	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR5205866	plasmid	AE581	-	NODE_68_length_2848_cov_22.604947	2848	0.3609550561797753	33002bdeb8475fa2002e019a14484c63	not tested	-	-	-	-	-	-	-	-	-	JQ739157	0.0341361	Acinetobacter pittii	-	-	-
+ERR5205866	chromosome	-	-	NODE_69_length_2748_cov_27.508116	2748	0.39810771470160117	7450f3735fef16aa9a9fa0e19f0edcfd	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR5205866	chromosome	-	-	NODE_6_length_168631_cov_23.802512	168631	0.3952298213258535	2025b4e55faa92762ee10acc0e7f4db5	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR5205866	chromosome	-	-	NODE_70_length_2654_cov_29.362818	2654	0.3877166541070083	b9778d0046b66a2d37c323140ef871a3	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR5205866	plasmid	AC302	-	NODE_71_length_2485_cov_21.031014	2485	0.4853118712273642	3d62d9148d177411465ed6293f0fb949	not tested	-	-	-	-	-	-	-	-	-	CP042870	0.0374354	Escherichia coli	CP001182,MG053108,KX242350,JQ899055	IS15,ISAeme2,Tn2,Tn3	repetitve element
+ERR5205866	plasmid	AC302	-	NODE_72_length_2230_cov_19.961520	2230	0.5031390134529148	79a198eab792a7959b15557729f019f3	not tested	-	-	-	-	-	-	-	-	-	CP042870	0.0374354	Escherichia coli	-	-	-
+ERR5205866	plasmid	AC302	-	NODE_73_length_1971_cov_17.057692	1971	0.5905631659056316	5852de16ae732546ed43760ac689754d	not tested	-	-	-	-	-	-	-	-	-	CP042870	0.0374354	Escherichia coli	MF805806,KX710093,JF274989,MF168946,KF743817,MG764534	IS1006,ISArsp6,ISCsp2,ISMca2,TnAs2,TnAs3	repetitve element
+ERR5205866	chromosome	-	-	NODE_74_length_1935_cov_24.996187	1935	0.38397932816537467	67cc347cc00b83c900c22899131ced98	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR5205866	chromosome	-	-	NODE_75_length_1860_cov_146.539466	1860	0.5091397849462366	79a95bb5c509787278c19ee8fd7d6cd7	not tested	-	-	-	-	-	-	-	-	-	-	-	-	CP016586.1	16s-rRNA	repetitve element
+ERR5205866	chromosome	-	-	NODE_76_length_1825_cov_147.670915	1825	0.5035616438356164	a918668a7f5bdf762bd932d8dfb48482	not tested	-	-	-	-	-	-	-	-	-	-	-	-	CP016586.1	23s-rRNA	repetitve element
+ERR5205866	plasmid	AB114	AJ690	NODE_77_length_1715_cov_47.527847	1715	0.39183673469387753	5962b4b8729ab4f2e0b4b817ea2f4661	not tested	-	-	-	-	-	-	-	-	-	CP021327	0.00136596	Acinetobacter baumannii	-	-	-
+ERR5205866	chromosome	-	-	NODE_78_length_1639_cov_23.552597	1639	0.38071995118974983	51e46e1b039fdbf52bdd2eabcece64be	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR5205866	plasmid	AB114	AJ690	NODE_79_length_1593_cov_69.618474	1593	0.3634651600753296	354c5f7ac7d403fbe913b446ef16e041	not tested	-	-	-	-	-	-	-	-	-	CP021327	0.00136596	Acinetobacter baumannii	CP001182	IS15	repetitve element
+ERR5205866	chromosome	-	-	NODE_7_length_167146_cov_22.917586	167146	0.39329286543826253	d9ee2d225fdab6909ec3b004fcd80d16	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR5205866	plasmid	AC302	-	NODE_80_length_1508_cov_36.088006	1508	0.46551724137931033	566cd10849885d5873653ff6e8753e34	not tested	-	-	-	-	-	-	-	-	-	CP042870	0.0374354	Escherichia coli	CP001182	IS15	repetitve element
+ERR5205866	plasmid	AB114	AJ690	NODE_81_length_1359_cov_29.935714	1359	0.5688005886681383	248c20890a8dada369c58ace0827bc17	not tested	-	-	-	-	-	-	-	-	-	CP021327	0.00136596	Acinetobacter baumannii	MF805806,KX709966,KY437727,KU736876	IS1006,ISAzs17,ISShfr9,ISVsa3	repetitve element
+ERR5205866	chromosome	-	-	NODE_82_length_1355_cov_49.270701	1355	0.34760147601476016	abf156fdf152774199383f8558f877ca	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR5205866	plasmid	AC302	-	NODE_83_length_1282_cov_106.352494	1282	0.38065522620904835	67866cbec772cd370e5179850d979653	not tested	-	-	-	-	-	-	-	-	-	CP042870	0.0374354	Escherichia coli	KF702385	ISAba14	repetitve element
+ERR5205866	plasmid	AB114	AJ690	NODE_84_length_1276_cov_69.818182	1276	0.3785266457680251	eca1ef23a691351398bd1105faeef79f	not tested	-	-	MOBP	NZ_ALIG01000010_00048	-	-	-	-	-	CP021327	0.00136596	Acinetobacter baumannii	JX076770	ISAba21	repetitve element
+ERR5205866	chromosome	-	-	NODE_85_length_1262_cov_53.840929	1262	0.3510301109350238	7d250bf2ec8af91c40005fd73b356066	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR5205866	chromosome	-	-	NODE_86_length_1241_cov_23.548161	1241	0.38920225624496374	25c9a205234dec3bee6a8729e228baec	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR5205866	chromosome	-	-	NODE_87_length_1195_cov_21.387774	1195	0.3899581589958159	a2cb77767d984457f8d503c45edb8670	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR5205866	plasmid	AB114	AJ690	NODE_88_length_1160_cov_729.458058	1160	0.3577586206896552	5115e344977a5c6354c40f809e112797	not tested	-	-	-	-	-	-	-	-	-	CP021327	0.00136596	Acinetobacter baumannii	MF805806,CP001182,KY437727	IS1006,ISAba1,ISShfr9	repetitve element
+ERR5205866	chromosome	-	-	NODE_89_length_1131_cov_205.664729	1131	0.5313881520778072	a8d5ada0b780618e7d259c0dd7aeb2db	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR5205866	chromosome	-	-	NODE_8_length_150908_cov_22.691643	150908	0.38329313223951017	37c92b475b5c0e6eb76e7434168295a1	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR5205866	plasmid	AC302	-	NODE_90_length_1118_cov_22.818449	1118	0.3363148479427549	c7a70775a2211a5e7f1c4d74aca13bf3	not tested	-	-	-	-	-	-	-	-	-	CP042870	0.0374354	Escherichia coli	-	-	-
+ERR5205866	chromosome	-	-	NODE_91_length_1091_cov_45.952621	1091	0.38038496791934007	0474f34288d0bfdf2fbea538fe9368b3	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR5205866	chromosome	-	-	NODE_92_length_847_cov_49.532086	847	0.35064935064935066	8d6bbca9e3c128445a68b736c7bf85fb	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR5205866	chromosome	-	-	NODE_93_length_821_cov_20.175900	821	0.3751522533495737	54dd3017ccc5ac2168ee8610b1db09ae	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR5205866	chromosome	-	-	NODE_94_length_796_cov_44.599713	796	0.42336683417085424	7c08ea3539c68e884487ff7beec0deb3	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR5205866	chromosome	-	-	NODE_95_length_781_cov_50.482405	781	0.4839948783610755	9d3d5530f455ae24a2366e279dc90b56	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR5205866	chromosome	-	-	NODE_96_length_744_cov_183.282171	744	0.5349462365591398	15903055a497f41dc35c4b4cb811bd8e	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR5205866	chromosome	-	-	NODE_97_length_710_cov_64.914894	710	0.4253521126760563	c0d10840b04a40f376bbc6a108c31548	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR5205866	chromosome	-	-	NODE_98_length_694_cov_71.119328	694	0.42363112391930835	52cb76507bfb28cf8a53ac6819990948	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR5205866	chromosome	-	-	NODE_99_length_679_cov_29.022414	679	0.4005891016200295	0c2beaa5812143cd01e5c2f8fee9f53a	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR5205866	chromosome	-	-	NODE_9_length_139496_cov_22.620465	139496	0.3871007053965705	c27bb9478895bdfce8bb62f785ee4b5c	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-

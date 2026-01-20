@@ -1,0 +1,89 @@
+sample_id	molecule_type	primary_cluster_id	secondary_cluster_id	contig_id	size	gc	md5	circularity_status	rep_type(s)	rep_type_accession(s)	relaxase_type(s)	relaxase_type_accession(s)	mpf_type	mpf_type_accession(s)	orit_type(s)	orit_accession(s)	predicted_mobility	mash_nearest_neighbor	mash_neighbor_distance	mash_neighbor_identification	repetitive_dna_id	repetitive_dna_type	filtering_reason
+ERR4783411	chromosome	-	-	NODE_10_length_156988_cov_26.712249	156988	0.39792850408948455	4ef15906882e5e47478cf1d7c783bf62	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR4783411	chromosome	-	-	NODE_11_length_143638_cov_17.210270	143638	0.3799899747977555	d3caae3fa42e6a0b80d9f548e7845449	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR4783411	chromosome	-	-	NODE_12_length_141133_cov_23.952565	141133	0.39268633133285624	ae199f838012551df38ca7a993962e76	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR4783411	chromosome	-	-	NODE_13_length_140089_cov_19.326002	140089	0.38177158806187494	f867039bd938f4ea83d11d5d51b45e66	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR4783411	chromosome	-	-	NODE_14_length_100859_cov_26.322717	100859	0.39518535777669817	545d37d8f70ea22ef2291ec0c0553641	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR4783411	chromosome	-	-	NODE_15_length_96789_cov_20.449292	96789	0.3749909597164967	d56b5da6122f9f1cfb7af8affc585cff	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR4783411	chromosome	-	-	NODE_16_length_86066_cov_27.395617	86066	0.3929193874468431	df5a0061388e7bbd7ffbe1414d0a5018	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR4783411	chromosome	-	-	NODE_17_length_84161_cov_22.903524	84161	0.3907510604674374	b7d3f9603f27d3869fcc7abc49f35f63	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR4783411	chromosome	-	-	NODE_18_length_76993_cov_19.100749	76993	0.3682542568804956	7d919db4c123437928450c714b89ee8e	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR4783411	chromosome	-	-	NODE_19_length_68499_cov_18.331170	68499	0.3812902378136907	176a02c54a508cd6dcb044ee747d9b28	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR4783411	chromosome	-	-	NODE_1_length_347348_cov_25.297614	347348	0.40134101822955653	abc01416dc14a195f11d2938371d5988	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR4783411	chromosome	-	-	NODE_20_length_68368_cov_20.947487	68368	0.38621869880645915	fcafe80faafa5e51e14bd3297cd1ae3c	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR4783411	chromosome	-	-	NODE_21_length_56921_cov_23.064799	56921	0.38929393369758086	cbf1e49746d89786ea2ad9033b439345	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR4783411	chromosome	-	-	NODE_22_length_51136_cov_18.334894	51136	0.3921698998748436	eabb33f507327c135e1471f939cd437a	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR4783411	chromosome	-	-	NODE_23_length_50890_cov_20.133508	50890	0.3914914521516997	b3ce10197f9ab14561e30018cc991bbe	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR4783411	chromosome	-	-	NODE_24_length_50309_cov_17.757957	50309	0.36486028957798095	7a1604caa56440705cae9beba6047956	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR4783411	chromosome	-	-	NODE_25_length_48559_cov_21.915642	48559	0.37774665870384483	a5d768c715e361e2542d7fdaf289f020	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR4783411	chromosome	-	-	NODE_26_length_45115_cov_26.651502	45115	0.3985814030810152	b838432c8c5bbdc77ca3fb53d480053a	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR4783411	chromosome	-	-	NODE_27_length_44483_cov_19.300243	44483	0.36288020142526356	b92bd49965ed50a104c5c30f3192323e	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR4783411	chromosome	-	-	NODE_28_length_40323_cov_22.221684	40323	0.3981350593953823	1191903cbbb720ff9c8c5f5af6c67f0a	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR4783411	chromosome	-	-	NODE_29_length_40303_cov_20.145906	40303	0.39223441036738554	b9098278f0aff07371655dec06718ffb	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR4783411	chromosome	-	-	NODE_2_length_211442_cov_18.316571	211442	0.3747032283084723	8f88aa3a6600f3f9d4837d95c60e566f	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR4783411	chromosome	-	-	NODE_30_length_39258_cov_19.244158	39258	0.39854297213306844	599fa8044f67b2831dd7da5080e3ea40	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR4783411	chromosome	-	-	NODE_31_length_37725_cov_19.687158	37725	0.3836978131212724	da57aaa43bd3cbc45396686ced9ead55	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR4783411	chromosome	-	-	NODE_32_length_35005_cov_23.422850	35005	0.38945864876446223	6301d2d233c3b497cab21fd3545c9f28	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR4783411	chromosome	-	-	NODE_33_length_33598_cov_17.275560	33598	0.38930888743377584	193b0e545aa6107d31845702298e2683	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR4783411	chromosome	-	-	NODE_34_length_32550_cov_17.676035	32550	0.37827956989247313	dd156a6ae27419ea99257c833e17b1c4	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR4783411	chromosome	-	-	NODE_35_length_29444_cov_24.868359	29444	0.3865982882760495	28b6a983465599d99401fa272f4fe42f	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR4783411	chromosome	-	-	NODE_36_length_27813_cov_27.596413	27813	0.3896666185596767	ba56e64ef285d847cfed7e59533506cf	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR4783411	chromosome	-	-	NODE_37_length_24400_cov_23.124439	24400	0.39151639344262296	a2b2c18f976eee88c086fa3b6f49987c	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR4783411	chromosome	-	-	NODE_38_length_24033_cov_17.069942	24033	0.38759206091624016	84e8befac53efebb7aa412a520f5b533	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR4783411	chromosome	-	-	NODE_39_length_23037_cov_27.609207	23037	0.377609931848765	913f77c1daa1a1958155990cff9c7cfc	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR4783411	chromosome	-	-	NODE_3_length_196946_cov_25.122603	196946	0.39300112721253544	33a6db4ff870507db5e0c46b5cf42c3b	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR4783411	chromosome	-	-	NODE_40_length_16147_cov_23.095837	16147	0.37499225862389296	6955c095ea7430a8f68e323ad08e35b4	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR4783411	chromosome	-	-	NODE_41_length_15845_cov_16.936746	15845	0.41218049857999367	706b910af4f7f6cfca4f02d0a6fb2fc3	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR4783411	plasmid	AB829	-	NODE_42_length_12471_cov_20.248383	12471	0.4037366690722476	57cc19cb40243739760a7f37d108a8b4	not tested	-	-	-	-	-	-	-	-	-	CP032138	0.0590885	Acinetobacter sp. WCHAc010052	-	-	-
+ERR4783411	chromosome	-	-	NODE_43_length_10997_cov_25.141035	10997	0.36673638264981356	a8a201b4f17b8c5090bac3bd5a157856	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR4783411	plasmid	AE688	AO520	NODE_44_length_9328_cov_62.901181	9328	0.34712692967409947	24ab91a8be26bd36e11f4d0ba39be64e	not tested	rep_cluster_1364	000682__CU468232_00001	MOBQ	CP042207_00010	-	-	-	-	-	CP038648	2.38274e-05	Acinetobacter baumannii	-	-	-
+ERR4783411	chromosome	-	-	NODE_45_length_8295_cov_29.040508	8295	0.3150090415913201	0c0e59f8718fecbe42d810fd8ff28b46	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR4783411	chromosome	-	-	NODE_46_length_7541_cov_26.482666	7541	0.3443840339477523	860d40599c3c7154753ee26df4c680f0	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR4783411	plasmid	AB702	AK583	NODE_47_length_6177_cov_108.644784	6177	0.391452161243322	49ee23e875ef1b11543d3b0d40883d01	not tested	-	-	MOBP	NZ_AFDA02000006_00006	-	-	-	-	-	CP027181	4.76906e-05	Acinetobacter baumannii	-	-	-
+ERR4783411	chromosome	-	-	NODE_48_length_5270_cov_141.156063	5270	0.4954459203036053	4c99c99f3c92d9b585d2cd9bee96278c	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR4783411	chromosome	-	-	NODE_49_length_4563_cov_40.018593	4563	0.39272408503177736	c4ca0650deb8405f970843e5e45678a5	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR4783411	chromosome	-	-	NODE_4_length_196020_cov_21.232032	196020	0.38981736557494134	a84ee97d064a4f4372fc7ff85d752935	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR4783411	plasmid	AC408	-	NODE_50_length_4449_cov_21.612644	4449	0.4657226342998427	e7bdfbe84fe0e3979598621778b5ee0d	not tested	-	-	-	-	-	-	-	-	-	KT355773	0.0440934	Actinobacillus pleuropneumoniae	-	-	-
+ERR4783411	plasmid	AB829	-	NODE_51_length_3579_cov_25.800000	3579	0.6250349259569712	2d9b1eac37d6c31428fc9601af60531b	not tested	-	-	-	-	-	-	-	-	-	CP032138	0.0590885	Acinetobacter sp. WCHAc010052	KY978629	IS5D	repetitve element
+ERR4783411	plasmid	AB829	-	NODE_52_length_2848_cov_28.879956	2848	0.3609550561797753	33002bdeb8475fa2002e019a14484c63	not tested	-	-	-	-	-	-	-	-	-	CP032138	0.0590885	Acinetobacter sp. WCHAc010052	-	-	-
+ERR4783411	chromosome	-	-	NODE_53_length_2653_cov_24.817150	2653	0.32076894082171126	ecc22fc683800c564dc8a180d9e654b5	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR4783411	plasmid	AF235	-	NODE_54_length_2594_cov_39.516633	2594	0.46838858905165764	617fc04c250d0e0a9909261267ee3251	not tested	-	-	-	-	-	-	-	-	-	CP032267	0.050014	Acinetobacter sp. WCHAc010034	-	-	-
+ERR4783411	chromosome	-	-	NODE_55_length_2389_cov_17.460699	2389	0.3327752197572206	f80df66b9afd8dcf39754fdd263f40fd	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR4783411	chromosome	-	-	NODE_56_length_1566_cov_32.411725	1566	0.4731800766283525	9a83657445c0dbfc322ebd5ff0e9e335	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR4783411	chromosome	-	-	NODE_57_length_1520_cov_15.125968	1520	0.30657894736842106	8517f5959f49d6baabc3f166008bdfe9	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR4783411	plasmid	AF235	-	NODE_58_length_1282_cov_194.061708	1282	0.38065522620904835	1213f2930214826b1c834c5bcb1177da	not tested	-	-	-	-	-	-	-	-	-	CP032267	0.050014	Acinetobacter sp. WCHAc010034	KF702385	ISAba14	repetitve element
+ERR4783411	chromosome	-	-	NODE_59_length_1219_cov_1.088393	1219	0.4716981132075472	2367eb505315ce64ef5d6c63b4de6be2	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR4783411	chromosome	-	-	NODE_5_length_189265_cov_18.721906	189265	0.3882651309011175	a816e2d070ef54521e9a33db9a65c28f	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR4783411	chromosome	-	-	NODE_60_length_1193_cov_0.943327	1193	0.38474434199497065	64fbc49d4c8073b4a82f84e188d7bbb4	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR4783411	chromosome	-	-	NODE_61_length_1180_cov_1.159112	1180	0.28220338983050847	249d2732325701450c581500ab3e6a17	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR4783411	plasmid	AE581	-	NODE_62_length_1118_cov_28.129539	1118	0.3363148479427549	f9374d4838fee5f37dac53f544f30e89	not tested	-	-	-	-	-	-	-	-	-	JQ739157	0.0560862	Acinetobacter pittii	-	-	-
+ERR4783411	chromosome	-	-	NODE_63_length_1070_cov_21.324408	1070	0.48785046728971965	6fa2051e640964441621f8dc8cb1795e	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR4783411	chromosome	-	-	NODE_64_length_919_cov_0.859756	919	0.3101196953210011	cbae1b7dc9bf63c51481f2c21ca06f9b	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR4783411	chromosome	-	-	NODE_65_length_918_cov_0.849817	918	0.3867102396514161	60defa9150f662d52db2e615ea6ddf96	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR4783411	chromosome	-	-	NODE_66_length_877_cov_18.181234	877	0.3774230330672748	af6ee42fadc720216810d000f1854a6f	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR4783411	chromosome	-	-	NODE_67_length_862_cov_80.022280	862	0.35266821345707655	63c9e2bf57501848fd8f0186a475d85a	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR4783411	chromosome	-	-	NODE_68_length_860_cov_315.622865	860	0.3732558139534884	2a75cf0ead3194b0b65f0608f7a554d7	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR4783411	chromosome	-	-	NODE_69_length_803_cov_0.896307	803	0.47447073474470736	f8a70f4873f5bca6f42ccc09ec5d6c42	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR4783411	chromosome	-	-	NODE_6_length_188587_cov_21.932494	188587	0.3861825046265119	720b28c9b851dd6a1ffcc81d0d9e38ee	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR4783411	chromosome	-	-	NODE_70_length_799_cov_1.108571	799	0.38172715894868586	d60731ddc4baac49b529c113967bbe03	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR4783411	chromosome	-	-	NODE_71_length_737_cov_1.200627	737	0.3704206241519674	f0e3fb0fed0dab8113607b569cdbbef2	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR4783411	chromosome	-	-	NODE_72_length_705_cov_47.280528	705	0.42127659574468085	d69961376521db53285e6084fd4a2cd7	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR4783411	chromosome	-	-	NODE_73_length_697_cov_59.028428	697	0.40746054519368724	f33001bbd15fd3d36673896b1a9c4fa4	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR4783411	chromosome	-	-	NODE_74_length_690_cov_46.265651	690	0.45217391304347826	799fbb6232681e4dac6ce372004d4f6b	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR4783411	chromosome	-	-	NODE_75_length_657_cov_0.602151	657	0.3607305936073059	fa406fcb58ef187b859ed93e60a0e4ae	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR4783411	chromosome	-	-	NODE_76_length_644_cov_0.880734	644	0.391304347826087	acc0ade568eaecdba0b5f2acc5d0794a	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR4783411	chromosome	-	-	NODE_77_length_632_cov_115.315197	632	0.37183544303797467	394ecbc5c853c8e17923de6f2c3b28ff	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR4783411	chromosome	-	-	NODE_78_length_629_cov_21.130189	629	0.4149443561208267	e03cdd6285a4db043e0c04f0dfde9c2b	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR4783411	chromosome	-	-	NODE_79_length_618_cov_1.269750	618	0.3511326860841424	263f888a56ffdc4d4f4effae5ab0fd43	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR4783411	chromosome	-	-	NODE_7_length_180327_cov_23.258672	180327	0.3973060052016614	e5d17299da31b58cc02c352ea2aaedf4	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR4783411	chromosome	-	-	NODE_80_length_611_cov_1.144531	611	0.4206219312602291	047ae957322fcc0b024a8931d849fdcb	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR4783411	chromosome	-	-	NODE_81_length_592_cov_1.174442	592	0.3158783783783784	0d7cd883067ab8e0d626eb878458807b	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR4783411	chromosome	-	-	NODE_82_length_587_cov_0.887295	587	0.4020442930153322	9b4c3481188ad4c7647c228eb5795bd1	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR4783411	chromosome	-	-	NODE_83_length_578_cov_1.340292	578	0.328719723183391	687823c461434071955aad83126d9785	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR4783411	chromosome	-	-	NODE_84_length_563_cov_0.816810	563	0.43872113676731794	dc56599fbcd7fb911732b790d38e2b8a	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR4783411	chromosome	-	-	NODE_85_length_533_cov_56.746544	533	0.40150093808630394	af0aac1f18ea5a255fc3bbd9d993db38	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR4783411	chromosome	-	-	NODE_86_length_530_cov_1.146172	530	0.2622641509433962	2790e5dd2a985e4563d015c6d9c58871	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR4783411	chromosome	-	-	NODE_87_length_521_cov_1.457346	521	0.418426103646833	b373fce3e4f541208726e4742bd5f4d0	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR4783411	chromosome	-	-	NODE_88_length_512_cov_0.503632	512	0.4140625	9c0ad0c635abb7b673799f47c68ca69a	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR4783411	chromosome	-	-	NODE_8_length_172040_cov_26.213474	172040	0.3922983027202976	2241505df620e43b9bd9c7fb0840f67a	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR4783411	chromosome	-	-	NODE_9_length_158611_cov_22.228469	158611	0.3856794295477615	582b77b9e2941ece1f78f1eb14e5421e	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-

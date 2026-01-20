@@ -1,0 +1,99 @@
+sample_id	molecule_type	primary_cluster_id	secondary_cluster_id	contig_id	size	gc	md5	circularity_status	rep_type(s)	rep_type_accession(s)	relaxase_type(s)	relaxase_type_accession(s)	mpf_type	mpf_type_accession(s)	orit_type(s)	orit_accession(s)	predicted_mobility	mash_nearest_neighbor	mash_neighbor_distance	mash_neighbor_identification	repetitive_dna_id	repetitive_dna_type	filtering_reason
+ERR6938734	chromosome	-	-	NODE_10_length_126362_cov_7.220516	126362	0.39723967648501923	c54448acb7e44c303f2db83d7565300a	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR6938734	chromosome	-	-	NODE_11_length_126146_cov_8.111189	126146	0.38514102706387837	a6e644825362914e8b6eb689cdde7803	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR6938734	chromosome	-	-	NODE_12_length_116584_cov_7.677993	116584	0.3779335071707953	8198c9f72632f7689d88913eea98a7fd	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR6938734	chromosome	-	-	NODE_13_length_107737_cov_8.221400	107737	0.38930915098805424	a912025cdf797e6c0345f28998daa9a1	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR6938734	chromosome	-	-	NODE_14_length_106649_cov_9.887733	106649	0.39093662387832984	9420c235101a2a0ca736e5cc638fae03	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR6938734	chromosome	-	-	NODE_15_length_98074_cov_10.028579	98074	0.3953239390664192	d282f0d5eeab1d06a742278bcda98f92	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR6938734	chromosome	-	-	NODE_16_length_95360_cov_7.053821	95360	0.3759123322147651	e057a8dfa8a66cef7ff26f12f25ccf6d	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR6938734	chromosome	-	-	NODE_17_length_90631_cov_9.983321	90631	0.4043870198938553	aa8547779d4a84b83165cabc61962aec	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR6938734	chromosome	-	-	NODE_18_length_84355_cov_9.514290	84355	0.39633690948965683	4a083a4fcbe6bd76a5757b3bd24afe6c	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR6938734	chromosome	-	-	NODE_19_length_71296_cov_9.473110	71296	0.3774124775583483	14bc7c605025d18e11106d22fd03f3d2	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR6938734	chromosome	-	-	NODE_1_length_333473_cov_8.515397	333473	0.3860552428532445	5241e05b720a1d2763a8fb5a7c615b1a	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR6938734	chromosome	-	-	NODE_20_length_65696_cov_6.965258	65696	0.370418290306868	226e4c1c8ef3ccac22f44a80f7adccc8	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR6938734	chromosome	-	-	NODE_21_length_65518_cov_7.230117	65518	0.379162978112885	29ebb2b81ed4dc684525990f61ad317f	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR6938734	chromosome	-	-	NODE_22_length_64358_cov_7.511026	64358	0.3854377078218714	ba6dd2a50645c36e9c03a38f62bbbdcc	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR6938734	chromosome	-	-	NODE_23_length_63479_cov_7.691496	63479	0.3731470250003938	21e1c6a9bbfbd349556990826836e5a1	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR6938734	chromosome	-	-	NODE_24_length_61208_cov_9.854604	61208	0.39061887334988893	81761c434100ead62c585e5299654469	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR6938734	chromosome	-	-	NODE_25_length_56107_cov_9.072240	56107	0.39720533979717326	316a6c164c4f1b5745d74566ff1a5651	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR6938734	chromosome	-	-	NODE_26_length_52728_cov_9.360391	52728	0.3988582916097709	eb70974482a9212fa719eac5a1ecaf60	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR6938734	chromosome	-	-	NODE_27_length_49009_cov_8.153036	49009	0.3841947397416801	d17d55e2d9c5e861c0ebcbd2806fd34f	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR6938734	chromosome	-	-	NODE_28_length_46426_cov_7.591253	46426	0.38282427949855685	c85a2d781359de0641f3d241e4dbdd72	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR6938734	plasmid	AE271	AO017	NODE_29_length_42392_cov_7.129194	42392	0.38481317229665973	18ef16ee4e3859b356edda20f71c1c6d	not tested	-	-	-	-	-	-	-	-	-	CP039931	0.0248413	Acinetobacter baumannii	-	-	-
+ERR6938734	chromosome	-	-	NODE_2_length_261427_cov_9.577871	261427	0.39064442463861804	2b66ace72745e3d383c2c1d90331fe71	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR6938734	chromosome	-	-	NODE_30_length_40797_cov_7.493267	40797	0.37939064146873547	7ef19721ef790ab6e634033c5b54bdfd	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR6938734	chromosome	-	-	NODE_31_length_40095_cov_9.248050	40095	0.38363885771293177	b3fab7fcd3663686d218274495c149d6	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR6938734	chromosome	-	-	NODE_32_length_39783_cov_8.013910	39783	0.4083905185632054	18cec85c764f66652df1a0e826f6e7ff	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR6938734	chromosome	-	-	NODE_33_length_36021_cov_8.295557	36021	0.3904944338025041	4c6990cc153871cb514880662fbd25a3	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR6938734	chromosome	-	-	NODE_34_length_35746_cov_7.630067	35746	0.3720416270351927	e3d45b98618b5c272da754985f5a3900	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR6938734	chromosome	-	-	NODE_35_length_33329_cov_8.122480	33329	0.39374118635422606	3b1b022c563f58b10e872933b26142ad	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR6938734	chromosome	-	-	NODE_36_length_28237_cov_8.759791	28237	0.3966427028367036	72b34e0e9b0467be7e32e026f26e6c05	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR6938734	chromosome	-	-	NODE_37_length_27132_cov_9.736507	27132	0.39974937343358397	b153c5de516e26d421a47a7c8bc6e817	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR6938734	plasmid	AE272	-	NODE_38_length_27113_cov_7.320871	27113	0.3843543687529967	15c2ad9152e09542954776d85d814197	not tested	-	-	-	-	-	-	-	-	-	CP036285	0.0475157	Acinetobacter baumannii	-	-	-
+ERR6938734	chromosome	-	-	NODE_39_length_26776_cov_9.318102	26776	0.3934120107559008	4a136eeb846d9787988d925333205799	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR6938734	chromosome	-	-	NODE_3_length_179330_cov_9.325624	179330	0.3900574360118218	59180a0d6f5829853d8cf662afe8e60c	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR6938734	chromosome	-	-	NODE_40_length_24807_cov_7.853570	24807	0.40190268875720564	a1008ea57cefcbdf4740e171252bf078	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR6938734	chromosome	-	-	NODE_41_length_24441_cov_7.518363	24441	0.3749846569289309	a03c7cc4d3c84d6e3a2ac969756bef9f	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR6938734	chromosome	-	-	NODE_42_length_23862_cov_7.363969	23862	0.38383203419663064	580e42cf2634174ca5d15f9e8c5351c1	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR6938734	chromosome	-	-	NODE_43_length_23128_cov_7.582830	23128	0.4085091663784158	f956286e94be8d9a9d131fd90199d492	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR6938734	chromosome	-	-	NODE_44_length_19022_cov_7.067220	19022	0.3801913573756703	e97723448996b61e40f0d159d175207f	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR6938734	chromosome	-	-	NODE_45_length_16439_cov_7.751346	16439	0.40446499178782164	f03cf406c26ff202b24bf0db218abf42	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR6938734	chromosome	-	-	NODE_46_length_16276_cov_7.642579	16276	0.3538338658146965	185362f4915c251e8e1636801fbcf549	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR6938734	chromosome	-	-	NODE_47_length_13757_cov_7.528408	13757	0.39383586537762594	6e1c8d848be42467323578e481b5b114	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR6938734	chromosome	-	-	NODE_48_length_13459_cov_21.776123	13459	0.39683483171112266	01cda59dd49193d16041dd46afb1903c	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR6938734	chromosome	-	-	NODE_49_length_13444_cov_8.241514	13444	0.39393037786373103	be53fd083d0fc5996199f2456b24e24b	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR6938734	chromosome	-	-	NODE_4_length_151090_cov_8.463842	151090	0.3905155867363823	b3c6bbf9f7d2c4956a0020b24879e531	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR6938734	chromosome	-	-	NODE_50_length_11922_cov_9.076969	11922	0.40052004697198457	66ebddc54028cf71dcd5e2d0716773de	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR6938734	chromosome	-	-	NODE_51_length_11838_cov_8.049408	11838	0.4106267950667342	da8092c7dc1d26590223c01cdbe23fb4	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR6938734	chromosome	-	-	NODE_52_length_10545_cov_9.860329	10545	0.38596491228070173	b1b250c90ea257b83a5504a696e61d94	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR6938734	plasmid	AE272	-	NODE_53_length_10513_cov_7.908008	10513	0.36963759155331494	7063c921b13f2a0f7ebb37ae31fc0c4a	not tested	-	-	-	-	-	-	-	-	-	CP036285	0.0475157	Acinetobacter baumannii	-	-	-
+ERR6938734	chromosome	-	-	NODE_54_length_8223_cov_8.367307	8223	0.3919494101909279	454066f9e7d8a36d4ded2c09287a1728	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR6938734	chromosome	-	-	NODE_55_length_8203_cov_8.540104	8203	0.38278678532244304	63e1db685fad954e5d4a8cdde9abea46	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR6938734	chromosome	-	-	NODE_56_length_8108_cov_7.932451	8108	0.3950419338924519	9d42c942079142d6ce7906b91d900a75	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR6938734	chromosome	-	-	NODE_57_length_7719_cov_7.025591	7719	0.38385801269594505	228f4d6e573bdefba450313165f0732b	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR6938734	chromosome	-	-	NODE_58_length_6008_cov_14.953122	6008	0.38115845539280957	fc4f18de5091f5d1d635e488d68f7cbb	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR6938734	chromosome	-	-	NODE_59_length_5885_cov_13.547701	5885	0.39065420560747666	2e015be2b27c525f68d5e48aedc74e55	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR6938734	chromosome	-	-	NODE_5_length_145018_cov_7.377887	145018	0.3828076514639562	65f4daada0a7053d3246e2de19846dfd	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR6938734	chromosome	-	-	NODE_60_length_5560_cov_56.503571	5560	0.48776978417266187	ec222c7e2e48fd8ec227aad24eb766b5	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR6938734	plasmid	AE271	AO017	NODE_61_length_5545_cov_7.013588	5545	0.32750225428313795	33f00abcc84bf88e5054c3585e5985d0	not tested	-	-	-	-	-	-	-	-	-	CP039931	0.0248413	Acinetobacter baumannii	-	-	-
+ERR6938734	chromosome	-	-	NODE_62_length_5328_cov_14.717728	5328	0.37593843843843844	385336932cf2dcb2e0c43077a3f0e5da	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR6938734	chromosome	-	-	NODE_63_length_5135_cov_8.232923	5135	0.3423563777994158	fc5eaa2d95158d7b9b171ed54f1bc1f9	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR6938734	chromosome	-	-	NODE_64_length_4894_cov_7.523670	4894	0.35063342868818964	6a35b8371a4fbc67328057d1a7821e65	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR6938734	chromosome	-	-	NODE_65_length_4466_cov_8.278223	4466	0.39901477832512317	3a23343c747e62f411ed2f538cf3caba	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR6938734	chromosome	-	-	NODE_66_length_3882_cov_8.635474	3882	0.3740340030911901	148c98a5351f250d69bb6c91bef26242	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR6938734	plasmid	AE271	AO017	NODE_67_length_3606_cov_6.738808	3606	0.3277870216306156	fc6eeccc063a8008e82d28023fdcd74b	not tested	-	-	-	-	-	-	-	-	-	CP039931	0.0248413	Acinetobacter baumannii	-	-	-
+ERR6938734	chromosome	-	-	NODE_68_length_3474_cov_14.830519	3474	0.40328151986183075	8e89b9975765121decab8287a2e92ec2	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR6938734	plasmid	AE271	AO017	NODE_69_length_3423_cov_6.633273	3423	0.33567046450482035	8d98836125837b348412644fa08ad1fd	not tested	-	-	-	-	-	-	-	-	-	CP039931	0.0248413	Acinetobacter baumannii	-	-	-
+ERR6938734	chromosome	-	-	NODE_6_length_141008_cov_9.302869	141008	0.4004879155792579	04d6630a5ae70da2d808cef11bde7db9	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR6938734	chromosome	-	-	NODE_70_length_2643_cov_9.533805	2643	0.3670071888006054	6af770801150a8900db319163830b6be	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR6938734	chromosome	-	-	NODE_71_length_2372_cov_6.923449	2372	0.29932546374367625	1e9178e58226000ab126f424c720ce56	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR6938734	plasmid	AE271	AO017	NODE_72_length_2326_cov_6.522676	2326	0.31599312123817713	dee9639e65efb81e0223102abc3c806c	not tested	-	-	-	-	-	-	-	-	-	CP039931	0.0248413	Acinetobacter baumannii	-	-	-
+ERR6938734	chromosome	-	-	NODE_73_length_1870_cov_54.601920	1870	0.5518716577540107	459dd658e0de55c48a9dd544392dd567	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR6938734	plasmid	AE272	-	NODE_74_length_1731_cov_7.737132	1731	0.36568457538994803	c9f0ba79f1c9f2c7f3eae1c08a8f9b4c	not tested	-	-	-	-	-	-	-	-	-	CP036285	0.0475157	Acinetobacter baumannii	-	-	-
+ERR6938734	chromosome	-	-	NODE_75_length_1318_cov_65.707137	1318	0.3945371775417299	778fad38016fbd581c2d20e2d62ffa8b	not tested	-	-	-	-	-	-	-	-	-	-	-	-	CP001182	ISAba26	repetitve element
+ERR6938734	chromosome	-	-	NODE_76_length_1203_cov_20.307065	1203	0.4455527847049044	b1e9eca3a627745d7c5ab7b46d4a5d3d	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR6938734	chromosome	-	-	NODE_77_length_1172_cov_20.871389	1172	0.4334470989761092	869c0036be924d038734529752dee82e	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR6938734	chromosome	-	-	NODE_78_length_1039_cov_69.307447	1039	0.3965351299326275	226a94270803bbf7afc49d98ed84ae2f	not tested	-	-	-	-	-	-	-	-	-	-	-	-	CP001182	ISAlw1	repetitve element
+ERR6938734	chromosome	-	-	NODE_79_length_1010_cov_27.650933	1010	0.4069306930693069	bce45af391722922767e87e0eea1197d	not tested	-	-	-	-	-	-	-	-	-	-	-	-	CP001182	ISAba1	repetitve element
+ERR6938734	chromosome	-	-	NODE_7_length_138882_cov_9.939661	138882	0.4051280943534799	ad13b4e9e34f21451c60d50ea1e83555	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR6938734	chromosome	-	-	NODE_80_length_1010_cov_19.961581	1010	0.4099009900990099	3f80c6df1b811617f40b2cf955c96011	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR6938734	chromosome	-	-	NODE_81_length_869_cov_22.996104	869	0.4234752589182969	8f666549440f9a24e2e79d8ffc367141	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR6938734	chromosome	-	-	NODE_82_length_867_cov_199.908854	867	0.37254901960784315	beecf3d043c213ce569e49dc04fbbb18	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR6938734	chromosome	-	-	NODE_83_length_781_cov_17.919355	781	0.4468629961587708	45e8ace1efb445330dd7dca2e39b93d5	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR6938734	chromosome	-	-	NODE_84_length_776_cov_52.992614	776	0.5554123711340206	72e0f809825a5be4eda8c4d512ceadef	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR6938734	chromosome	-	-	NODE_85_length_750_cov_17.210445	750	0.48933333333333334	d65f8f373ec5c0d40aa9e3f09e72c18c	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR6938734	chromosome	-	-	NODE_86_length_740_cov_14.039002	740	0.43513513513513513	0675dd53faee78df1d476a5be4fea6f5	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR6938734	chromosome	-	-	NODE_87_length_701_cov_17.490033	701	0.3609129814550642	c1e14001c068ef773a608f18652bef19	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR6938734	chromosome	-	-	NODE_88_length_695_cov_9.137584	695	0.4330935251798561	3ca17ca04ecd12c9ca67cce0fddac766	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR6938734	chromosome	-	-	NODE_89_length_667_cov_8.737676	667	0.39730134932533734	011db9e3b60aba064594a85e2ecfcb88	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR6938734	chromosome	-	-	NODE_8_length_132144_cov_8.623871	132144	0.3778075432861121	9c3b1df44de1897a0d680c81926ad1f1	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR6938734	chromosome	-	-	NODE_90_length_658_cov_14.254025	658	0.4376899696048632	c201647d47f5defc10951b88c49c5601	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR6938734	chromosome	-	-	NODE_91_length_641_cov_17.433579	641	0.4165366614664587	6b1966a20252e64cf6f9e25f4a2e62a5	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR6938734	chromosome	-	-	NODE_92_length_639_cov_15.000000	639	0.4194053208137715	a0725ef2182afbf4c50d15dc0b8b138a	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR6938734	chromosome	-	-	NODE_93_length_616_cov_7.321083	616	0.45292207792207795	d46738d0b5f875d992fb5da75408a7c3	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR6938734	chromosome	-	-	NODE_94_length_605_cov_6.715415	605	0.4049586776859504	94248aa1895ba8f708a1252560d93f89	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR6938734	chromosome	-	-	NODE_95_length_533_cov_22.564516	533	0.41275797373358347	6943ab359f6417db47e0abb7615e2ac6	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR6938734	chromosome	-	-	NODE_96_length_529_cov_20.983721	529	0.3780718336483932	a89a7e0a4bb3ef11d4100efe2a48ba2f	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR6938734	chromosome	-	-	NODE_97_length_509_cov_19.160976	509	0.3516699410609037	b0a041a1d52a204e4e39fdb2e39e011e	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR6938734	chromosome	-	-	NODE_98_length_508_cov_14.264059	508	0.4311023622047244	ae168ea16280a828608c6c90ea6166b2	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR6938734	chromosome	-	-	NODE_9_length_131087_cov_9.818884	131087	0.39468444620748055	1664b9853715c319b100a2bbb36ee59c	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-

@@ -1,0 +1,132 @@
+sample_id	molecule_type	primary_cluster_id	secondary_cluster_id	contig_id	size	gc	md5	circularity_status	rep_type(s)	rep_type_accession(s)	relaxase_type(s)	relaxase_type_accession(s)	mpf_type	mpf_type_accession(s)	orit_type(s)	orit_accession(s)	predicted_mobility	mash_nearest_neighbor	mash_neighbor_distance	mash_neighbor_identification	repetitive_dna_id	repetitive_dna_type	filtering_reason
+SRR8618098	chromosome	-	-	NODE_100_length_2613_cov_15.693580	2613	0.33218522770761577	51d2cba660a4c19a5116fdfa1627c976	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR8618098	chromosome	-	-	NODE_101_length_2593_cov_24.447577	2593	0.31045121480910143	ed7a010bb83d648b4777cc0362441b3b	not tested	-	-	MOBP	NZ_ALIG01000010_00048	-	-	-	-	-	-	-	-	-	-	-
+SRR8618098	chromosome	-	-	NODE_102_length_2513_cov_3.898687	2513	0.25984878631118186	99cc45e3f46c1d2cf271ad58315ce449	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR8618098	plasmid	AB880	-	NODE_103_length_2439_cov_2701.554146	2439	0.3886838868388684	d86c80447666cb7cf75f2f663efbc3b5	not tested	rep_cluster_586	001993__CP021784_00001	-	-	-	-	-	-	-	CP030108	0.0368186	Acinetobacter baumannii	-	-	-
+SRR8618098	chromosome	-	-	NODE_104_length_2234_cov_33.603057	2234	0.37332139659803043	3c1450e273320bf378bd3b7756d6264c	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR8618098	chromosome	-	-	NODE_105_length_2136_cov_74.454148	2136	0.4653558052434457	dd1d397db85f5f053bdb45b74e13275e	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR8618098	chromosome	-	-	NODE_106_length_2129_cov_101.378286	2129	0.36965711601690937	c3c7b5e49340a6edb8214d0787669570	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR8618098	chromosome	-	-	NODE_107_length_1782_cov_9.414763	1782	0.287317620650954	cbd253b51925767a090b2fb8e8d91943	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR8618098	chromosome	-	-	NODE_108_length_1770_cov_49.748083	1770	0.3954802259887006	32b168f43e794924a90be54a1f73bda8	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR8618098	chromosome	-	-	NODE_109_length_1740_cov_9.249850	1740	0.2833333333333333	1d4c7d0e26ee524e89de51a5b5c21896	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR8618098	chromosome	-	-	NODE_10_length_94080_cov_52.624020	94080	0.4047735487986392	78b8d22738096bef771f0b9740bd8694	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR8618098	chromosome	-	-	NODE_110_length_1653_cov_24.531052	1653	0.3079249848759831	af497b440510f77bc11afeddc4dba6cb	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR8618098	chromosome	-	-	NODE_111_length_1647_cov_6.417303	1647	0.273224043715847	71cb67c343760e6e36830d2eb6ee6bd6	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR8618098	chromosome	-	-	NODE_112_length_1621_cov_5.567917	1621	0.30104873534855026	fee64d70be70ecf5ac24c7aadefa33fb	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR8618098	chromosome	-	-	NODE_113_length_1556_cov_2.908845	1556	0.2422879177377892	acadf83a2b366aa3342798cdf2c44648	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR8618098	chromosome	-	-	NODE_114_length_1464_cov_102.473722	1464	0.3640710382513661	cc147283d868a50f5847e2fe38a29aef	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR8618098	plasmid	AE272	AO018	NODE_115_length_1436_cov_10.639236	1436	0.2945682451253482	45cfd8bd74eccf11cea8e0cdf34d4b50	not tested	-	-	-	-	-	-	-	-	-	CP036285	0.0161084	Acinetobacter baumannii	-	-	-
+SRR8618098	chromosome	-	-	NODE_116_length_1372_cov_4.081727	1372	0.2725947521865889	77dbea7a0f806e805c241acd4db00891	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR8618098	chromosome	-	-	NODE_117_length_1312_cov_18.433306	1312	0.2926829268292683	7ac00dd23eee369cf5329b76403a484b	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR8618098	chromosome	-	-	NODE_118_length_1286_cov_3.003303	1286	0.24183514774494558	83aa7f61dadff70a556651788961dc3d	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR8618098	chromosome	-	-	NODE_119_length_1218_cov_29.960630	1218	0.3366174055829228	72f977d229dcea98b59d8d32327ca96f	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR8618098	chromosome	-	-	NODE_11_length_91635_cov_32.495140	91635	0.3947072625088667	2e413ad9b1aa618d6335639cafc17d04	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR8618098	chromosome	-	-	NODE_120_length_825_cov_2.566667	825	0.24242424242424243	f8c4a027b093e6563f67008a162417e2	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR8618098	chromosome	-	-	NODE_121_length_821_cov_4.384718	821	0.2545676004872107	45870a33792ed839c044083fa7f85a3c	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR8618098	chromosome	-	-	NODE_122_length_690_cov_110.809756	690	0.45072463768115945	4735898f9f9a552a2e990236304b6e0e	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR8618098	chromosome	-	-	NODE_123_length_684_cov_2.530378	684	0.23976608187134502	3890ed2d097e3f4fb849de16becee0af	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR8618098	chromosome	-	-	NODE_124_length_674_cov_1.348915	674	0.2433234421364985	579e20bd67849778643210d706242fef	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR8618098	chromosome	-	-	NODE_125_length_645_cov_1.333333	645	0.24806201550387597	44eb197ff358895506a5baa3351e3440	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR8618098	chromosome	-	-	NODE_126_length_623_cov_3.443431	623	0.27768860353130015	4d6ad1a5977e8be2fbae87a1b09b222b	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR8618098	chromosome	-	-	NODE_127_length_614_cov_629.567718	614	0.36156351791530944	228d4851a1ab70d3bde6e4152449848d	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR8618098	chromosome	-	-	NODE_128_length_603_cov_22.590909	603	0.3283582089552239	c1d9fc949a715c71eee87cfb059813c8	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR8618098	chromosome	-	-	NODE_129_length_596_cov_89.447217	596	0.4395973154362416	28a05b36f2332e967132dcaf0e2332d9	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR8618098	chromosome	-	-	NODE_12_length_89954_cov_36.575563	89954	0.4012909687830393	a8cfd3866730d0005fc04b43e5900923	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR8618098	chromosome	-	-	NODE_130_length_537_cov_1.147186	537	0.21415270018621974	69436741ffd9473e2f61ad9332e2b5f8	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR8618098	chromosome	-	-	NODE_131_length_513_cov_1.742009	513	0.2202729044834308	fa4735bfc89354baf429485428116115	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR8618098	chromosome	-	-	NODE_13_length_85938_cov_30.858041	85938	0.39736786985966627	b1472b5a6623b5909ba6f01349dce090	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR8618098	chromosome	-	-	NODE_14_length_84324_cov_34.920652	84324	0.3909918884303401	5c0eb84e47821c32a32d3ee3540153f2	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR8618098	chromosome	-	-	NODE_15_length_82348_cov_30.836982	82348	0.38721037547967163	ea8c060aa159ddfdeae49f4f93c1f508	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR8618098	chromosome	-	-	NODE_16_length_81464_cov_33.826365	81464	0.3885028969851714	f0e727b2af606489593267de06ba6188	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR8618098	chromosome	-	-	NODE_17_length_76514_cov_37.564097	76514	0.3959928901900306	3bb9059b5207c3b5a664f1bee5a820c4	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR8618098	chromosome	-	-	NODE_18_length_75123_cov_32.811840	75123	0.3905994169561918	9996f24c8786af327106ca139ce351e7	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR8618098	chromosome	-	-	NODE_19_length_72466_cov_34.615795	72466	0.3993596997212486	45acb8cf5d1906333757dcc514d1748e	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR8618098	chromosome	-	-	NODE_1_length_228956_cov_38.346328	228956	0.4020687004228256	d98ae4d0d673ab268e8e2f5c5aa84189	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR8618098	chromosome	-	-	NODE_20_length_68210_cov_29.708769	68210	0.3977129453159361	411432794d0b9b4ee0fa3b7d7d7bdf6f	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR8618098	plasmid	AE272	AO018	NODE_21_length_67142_cov_31.156455	67142	0.3774537547287838	d2b01647d4d3478ee021b510af2c9ec7	not tested	-	-	-	-	-	-	-	-	-	CP036285	0.0161084	Acinetobacter baumannii	-	-	-
+SRR8618098	chromosome	-	-	NODE_22_length_66576_cov_29.896137	66576	0.3813029629184446	044685f26684ad1bbe149f3936e48977	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR8618098	chromosome	-	-	NODE_23_length_59259_cov_41.532644	59259	0.40523802291635025	90e28e05f241b01c67b55d0a51e8a28b	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR8618098	chromosome	-	-	NODE_24_length_58521_cov_36.721829	58521	0.38673296765263754	a262aa4681a1c40fb5f9cc193eff4858	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR8618098	chromosome	-	-	NODE_25_length_58003_cov_36.480683	58003	0.39908280606175545	8b79e431b33e442382f7796bd351abb9	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR8618098	chromosome	-	-	NODE_26_length_56230_cov_46.044822	56230	0.4010314778587942	578e49da42ff0a097c51f485b05c9cf1	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR8618098	chromosome	-	-	NODE_27_length_54151_cov_31.341371	54151	0.40540340898598365	350dd86e7fcf0a3500b4cee8b7107c21	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR8618098	chromosome	-	-	NODE_28_length_51567_cov_31.415113	51567	0.3713033529195028	52fefc1656526a53c21069d340f416d7	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR8618098	chromosome	-	-	NODE_29_length_50160_cov_33.379774	50160	0.39525518341307814	e80abc4f58dc5c6776a741b603c8a9b4	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR8618098	chromosome	-	-	NODE_2_length_172911_cov_33.070466	172911	0.386672912654487	465509cd5eda4d13f6cb6c3023f9b9b6	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR8618098	chromosome	-	-	NODE_30_length_45005_cov_32.458803	45005	0.378402399733363	31e56464b0479c07503ac93e7d5a9448	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR8618098	chromosome	-	-	NODE_31_length_44660_cov_34.909342	44660	0.3938423645320197	cd7396937edd0d169a68428d96255bcc	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR8618098	chromosome	-	-	NODE_32_length_44622_cov_37.356814	44622	0.4036797992021873	269c1ce83591528c1ebc36e3ec1e9ef7	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR8618098	chromosome	-	-	NODE_33_length_43381_cov_32.795779	43381	0.37862197736336184	6c0432f0f5d1883c6caac43be98c26fe	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR8618098	chromosome	-	-	NODE_34_length_42201_cov_30.037839	42201	0.3869102627899813	f96e7a001962369b003dc255b6d72013	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR8618098	chromosome	-	-	NODE_35_length_42073_cov_31.264036	42073	0.38297720628431536	5b67fe4413f82bda2b1da7ea9d0e88cb	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR8618098	chromosome	-	-	NODE_36_length_41652_cov_29.849268	41652	0.3844195763892224	46fe2232bad4ffbc62a5d0380d022146	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR8618098	chromosome	-	-	NODE_37_length_41583_cov_35.141973	41583	0.3871053074573744	4a8c0d0aab33a430daacab88cec974f7	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR8618098	chromosome	-	-	NODE_38_length_39921_cov_37.832681	39921	0.38774078805641143	6bc8e69702dcdeade2d119eec943e314	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR8618098	chromosome	-	-	NODE_39_length_39866_cov_28.627780	39866	0.3772387498118698	ae2733aaf1502312c1ae10d7972b1fb0	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR8618098	chromosome	-	-	NODE_3_length_134273_cov_37.274371	134273	0.3942713725022901	aef4dbca1336f437b92f52d6180cd71c	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR8618098	chromosome	-	-	NODE_40_length_36970_cov_32.368017	36970	0.387827968623208	4fcb27a8ddca144eb605cf1914e0b48b	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR8618098	chromosome	-	-	NODE_41_length_36740_cov_26.195527	36740	0.3719923788786064	fbe48d9c8416deafe2e60af68532ffb6	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR8618098	chromosome	-	-	NODE_42_length_36188_cov_30.847146	36188	0.3946612136619874	b07c62d2350067834108c48af987ec97	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR8618098	chromosome	-	-	NODE_43_length_35477_cov_27.874470	35477	0.3751162725145869	2913bee1181461b595378f5efa9e2468	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR8618098	plasmid	AE271	AO017	NODE_44_length_33351_cov_31.538526	33351	0.3767803064375881	a9b8ccd73b9a32c050abeda2af1dee3b	not tested	-	-	-	-	-	-	-	-	-	CP039931	0.0227107	Acinetobacter baumannii	-	-	-
+SRR8618098	chromosome	-	-	NODE_45_length_33165_cov_31.949743	33165	0.3884516809889944	394f8409bd5c763098ea308216de7d7e	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR8618098	chromosome	-	-	NODE_46_length_33047_cov_34.522019	33047	0.3859049232910703	58053baa8402a00f62242a516c784e55	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR8618098	chromosome	-	-	NODE_47_length_32979_cov_34.569201	32979	0.38754587642937305	398e426e55219aad4b110ba90d270b44	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR8618098	chromosome	-	-	NODE_48_length_31088_cov_30.929965	31088	0.4048829130211014	cd17ec53d5d2b07ccf4f19709f1eb6de	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR8618098	chromosome	-	-	NODE_49_length_30731_cov_38.298147	30731	0.41085548794377014	74628ca9c2ed64d7c351ca9203e1fcfd	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR8618098	chromosome	-	-	NODE_4_length_108546_cov_37.227830	108546	0.39245112671125604	45fe135d9cc93bde172914ea34a5b5d6	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR8618098	chromosome	-	-	NODE_50_length_29138_cov_39.113856	29138	0.4008854416912623	0338d53f624de6b7c9b233699dcd2922	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR8618098	chromosome	-	-	NODE_51_length_28729_cov_30.756823	28729	0.3687215009224129	e7f4b9006fb41c5996658243e251feba	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR8618098	chromosome	-	-	NODE_52_length_27793_cov_30.646295	27793	0.3727459237663319	948eaefb720239aa6103173dcdf03a26	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR8618098	chromosome	-	-	NODE_53_length_26751_cov_33.282614	26751	0.3929946544054428	a4b3175841b6577f667070ed1c0776da	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR8618098	chromosome	-	-	NODE_54_length_26255_cov_24.365164	26255	0.3580872547151838	5f19a59d0dc5f1e430dee15cdbab0ce7	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR8618098	chromosome	-	-	NODE_55_length_24134_cov_34.880128	24134	0.3790088671583658	6b82b4ccf1f3cce89bf27705946e9bf2	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR8618098	chromosome	-	-	NODE_56_length_23535_cov_33.059932	23535	0.3965158274909709	1d72ba6acd0d3d7b566f9dff7fa1816f	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR8618098	plasmid	AE272	AO018	NODE_57_length_23271_cov_27.779229	23271	0.3759185252030424	50ae98824c4fb30a4a14f54db170e16a	not tested	-	-	-	-	-	-	-	-	-	CP036285	0.0161084	Acinetobacter baumannii	-	-	-
+SRR8618098	chromosome	-	-	NODE_58_length_22947_cov_30.010362	22947	0.36944674543314293	c0afb2d2e2502778c5a757f6eb50c372	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR8618098	chromosome	-	-	NODE_59_length_21738_cov_32.552555	21738	0.38232588094580916	e6acd8ff314e39b44041dd24b0c16ddc	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR8618098	chromosome	-	-	NODE_5_length_106775_cov_32.834761	106775	0.396057129477874	8e2fbd139bf65faf9a1fec303bf22ce0	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR8618098	chromosome	-	-	NODE_60_length_21294_cov_35.323908	21294	0.41086691086691085	d799f63fb8d2f52aad02f405d24baa2f	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR8618098	chromosome	-	-	NODE_61_length_21188_cov_30.350116	21188	0.3561921842552388	cbc93dbbf134e3561c75f33d3ca542f9	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR8618098	chromosome	-	-	NODE_62_length_19598_cov_40.859550	19598	0.40101030717420144	2efa74df2d90b6472772ecff364a2664	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR8618098	chromosome	-	-	NODE_63_length_18546_cov_24.560879	18546	0.3800280383910277	c6608f26fc58cebffa60666b4d141327	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR8618098	chromosome	-	-	NODE_64_length_18024_cov_29.708452	18024	0.3913067614077939	1ee55991fe970d8fa47bbfcd17dbcbf0	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR8618098	chromosome	-	-	NODE_65_length_16563_cov_41.947841	16563	0.41085552134275194	e7d16bbd74f045af936fbaaf9c0413f8	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR8618098	chromosome	-	-	NODE_66_length_16477_cov_24.565419	16477	0.360138374704133	5467ae23199b1aa47f1c395beced626b	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR8618098	chromosome	-	-	NODE_67_length_15752_cov_28.487785	15752	0.3860462163534789	927c87b7f7aae18f59a41965978470c5	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR8618098	plasmid	AE272	AO018	NODE_68_length_14377_cov_26.221787	14377	0.35049036655769633	c3c3aee809b6ed721aa38da7c9284170	not tested	-	-	-	-	-	-	-	-	-	CP036285	0.0161084	Acinetobacter baumannii	-	-	-
+SRR8618098	chromosome	-	-	NODE_69_length_13270_cov_26.799242	13270	0.3687264506405426	f045e3d7f11dc01eb999e30e8ca12452	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR8618098	chromosome	-	-	NODE_6_length_105987_cov_30.431575	105987	0.38526423051883724	7342e9608e2094e64baab57c22c62db6	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR8618098	chromosome	-	-	NODE_70_length_12511_cov_18.908894	12511	0.34058028934537604	aa9399a0b14665817898295d7214587b	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR8618098	plasmid	AB114	AJ691	NODE_71_length_12362_cov_49.082282	12362	0.4527584533247047	3bf4ce12ae2b15d960ef1e76431d2bc5	not tested	-	-	-	-	-	-	-	-	-	CP023025	0.00989629	Acinetobacter baumannii	-	-	-
+SRR8618098	chromosome	-	-	NODE_72_length_11334_cov_25.868017	11334	0.3838009528851244	9bc5c778ce4c90bc51d8a98c13f2c77e	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR8618098	chromosome	-	-	NODE_73_length_11082_cov_40.978468	11082	0.3861216386933766	3b8d50b5bbe615c6670ca3c806ef948c	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR8618098	chromosome	-	-	NODE_74_length_9441_cov_23.829596	9441	0.3374642516682555	19db45f2fa988d6ab00b6e90e142c8ab	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR8618098	plasmid	AE271	AO017	NODE_75_length_9229_cov_15.681123	9229	0.33908232997071264	cf71cdfcacb0f9167d222e3affa38818	not tested	-	-	-	-	-	-	-	-	-	CP039931	0.0227107	Acinetobacter baumannii	-	-	-
+SRR8618098	chromosome	-	-	NODE_76_length_8897_cov_28.314895	8897	0.3652916713498932	7d2e0a3a44a24e49a80dee6a05a73861	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR8618098	chromosome	-	-	NODE_77_length_7655_cov_17.919657	7655	0.33533638145003264	e16d5624b50d4c74012701c8ba981969	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR8618098	plasmid	AE271	AO017	NODE_78_length_7430_cov_33.875459	7430	0.38142664872139975	e98ff2d505b6e3087228bfd0a3d8d71d	not tested	-	-	-	-	-	-	-	-	-	CP039931	0.0227107	Acinetobacter baumannii	-	-	-
+SRR8618098	chromosome	-	-	NODE_79_length_7280_cov_802.547536	7280	0.34876373626373625	dccba700d16d9a9fa2720db2e5fef442	not tested	rep_cluster_1906	001341__NC_013277_00009	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR8618098	chromosome	-	-	NODE_7_length_100767_cov_36.772643	100767	0.40278067224388936	209e7aeea0ffa9c9550d65e888d10c5c	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR8618098	chromosome	-	-	NODE_80_length_7165_cov_41.598025	7165	0.38995115143056525	25dda5628c5a7fa25f5c87fcc480d200	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR8618098	chromosome	-	-	NODE_81_length_6911_cov_24.838356	6911	0.359861091014325	6534131b27a5e05a9158d2c63f070f3e	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR8618098	chromosome	-	-	NODE_82_length_6740_cov_20.267967	6740	0.3333827893175074	1f38d137512076a381e714bc102c0a14	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR8618098	plasmid	AB872	AK834	NODE_83_length_6540_cov_701.626759	6540	0.33409785932721714	02e6bd1fbbecc396c7b439e7ce6ec3f0	not tested	-	-	-	-	-	-	-	-	-	KT022421	0.0202797	Acinetobacter baumannii	-	-	-
+SRR8618098	plasmid	AB702	AK583	NODE_84_length_6153_cov_1348.444719	6153	0.3933040793109053	f1f625a4b1f921c99102f525c46b61c3	not tested	-	-	MOBP	NZ_AFDA02000006_00006	-	-	-	-	-	NC_019311	7.15897e-05	Acinetobacter baumannii	-	-	-
+SRR8618098	chromosome	-	-	NODE_85_length_5624_cov_52.033339	5624	0.3886913229018492	4a4057f8f5bc645ba497b31f8b74d67b	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR8618098	chromosome	-	-	NODE_86_length_5569_cov_27.605570	5569	0.36182438498832825	f063d44a3f9563b8b874071d853fc913	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR8618098	plasmid	AE271	AO017	NODE_87_length_5175_cov_31.485294	5175	0.35497584541062804	d64cb5edb844c03b2523b276205f4c62	not tested	-	-	-	-	-	-	-	-	-	CP039931	0.0227107	Acinetobacter baumannii	-	-	-
+SRR8618098	chromosome	-	-	NODE_88_length_4690_cov_10.035536	4690	0.3185501066098081	ddceea2e1ed29d3f6839c344a604dffd	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR8618098	chromosome	-	-	NODE_89_length_4640_cov_34.453888	4640	0.3890086206896552	a5384f4b97171d79445dd3e4935ab81e	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR8618098	plasmid	AB114	AJ691	NODE_8_length_96880_cov_50.342172	96880	0.4159682080924855	359edae53a626de8e9aedc0a1516d3aa	not tested	rep_cluster_718	002191__CP004359_00001	-	-	-	-	-	-	-	CP023025	0.00989629	Acinetobacter baumannii	-	-	-
+SRR8618098	chromosome	-	-	NODE_90_length_4628_cov_1620.631232	4628	0.41032843560933446	2fa38b9373c6e03f3569da57a52a5c81	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR8618098	chromosome	-	-	NODE_91_length_4243_cov_15.247841	4243	0.3306622672637285	c92596fb0b3a6595ebf1311156131311	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR8618098	chromosome	-	-	NODE_92_length_4130_cov_17.415536	4130	0.3326876513317191	17e35f953d749af32bcbd5bdd848973b	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR8618098	chromosome	-	-	NODE_93_length_4078_cov_76.848863	4078	0.4188327611574301	532cd1e99150fa6e684ca300f7b1363d	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR8618098	chromosome	-	-	NODE_94_length_4000_cov_139.160469	4000	0.4495	fb561d149055cfb21a837833e747063d	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR8618098	chromosome	-	-	NODE_95_length_3913_cov_27.276707	3913	0.3534372604140046	fa90c636c37dbb83a95f385c85e685e6	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR8618098	chromosome	-	-	NODE_96_length_3364_cov_20.353907	3364	0.35344827586206895	67a231f72b25fb031ef9007e27d34a94	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR8618098	chromosome	-	-	NODE_97_length_3220_cov_31.509380	3220	0.37919254658385093	0d8c921f8a07dc4f115042e7883e9a39	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR8618098	chromosome	-	-	NODE_98_length_2999_cov_1682.632695	2999	0.37912637545848615	847a605954d98368dd3c414c568a4e7a	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR8618098	chromosome	-	-	NODE_99_length_2739_cov_27.235736	2739	0.36765242789339175	16a9aafccbd019fff7710fc5c2492efe	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR8618098	chromosome	-	-	NODE_9_length_96063_cov_34.451452	96063	0.3907113780933443	019d4be0074d11046fdc3a83897f08bd	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-

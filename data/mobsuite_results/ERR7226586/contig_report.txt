@@ -1,0 +1,47 @@
+sample_id	molecule_type	primary_cluster_id	secondary_cluster_id	contig_id	size	gc	md5	circularity_status	rep_type(s)	rep_type_accession(s)	relaxase_type(s)	relaxase_type_accession(s)	mpf_type	mpf_type_accession(s)	orit_type(s)	orit_accession(s)	predicted_mobility	mash_nearest_neighbor	mash_neighbor_distance	mash_neighbor_identification	repetitive_dna_id	repetitive_dna_type	filtering_reason
+ERR7226586	chromosome	-	-	NODE_10_length_159915_cov_20.745163	159915	0.3787199449707657	d525480ae8a961f0a6a86c4c19815ef2	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR7226586	chromosome	-	-	NODE_11_length_159906_cov_27.164023	159906	0.4003602116243293	64ce8098d3144849129677bcf1a47de9	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR7226586	plasmid	AE272	AO018	NODE_12_length_136512_cov_21.834268	136512	0.37575451242381624	3da5ce97b291ca8b178c45b6aca7db5b	not tested	-	-	MOBP	NZ_ALIG01000010_00048	-	-	-	-	-	CP036285	0.0212923	Acinetobacter baumannii	-	-	-
+ERR7226586	chromosome	-	-	NODE_13_length_118602_cov_29.904585	118602	0.39173032495236165	6bf4047148a7a88a8a58aadd6e3bcc6e	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR7226586	chromosome	-	-	NODE_14_length_103346_cov_30.349850	103346	0.39301956534360305	b281008e6bf75bade084b1a2b3fcc3f6	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR7226586	chromosome	-	-	NODE_15_length_88778_cov_33.480260	88778	0.399547185113429	560423f69f57c5a3ca28c7f0c5d5c248	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR7226586	chromosome	-	-	NODE_16_length_71018_cov_50.620849	71018	0.40327804218648794	498e9becbd7e04b97948d588eed18b0c	not tested	rep_cluster_1656	001057__CP015616_00173	MOBP,MOBP,MOBP	NZ_ALIG01000010_00048,NZ_CM001803_00063,NZ_AEOY01000096_00007	-	-	-	-	-	-	-	-	-	-	-
+ERR7226586	chromosome	-	-	NODE_17_length_56433_cov_20.963290	56433	0.36964187620718375	3b7b8b9d21e98e601c6ee7540bdbd9ec	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR7226586	chromosome	-	-	NODE_18_length_50560_cov_33.789243	50560	0.3846518987341772	e8c5603acecf67b7644f57400a7c115a	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR7226586	chromosome	-	-	NODE_19_length_44910_cov_21.066898	44910	0.40109107103095076	631950a0277d77459f42632b58589119	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR7226586	chromosome	-	-	NODE_1_length_764977_cov_25.810375	764977	0.3860485495304612	d623ad90531b5d14d119306b040dce91	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR7226586	chromosome	-	-	NODE_20_length_38348_cov_25.844493	38348	0.3849483675810994	e2826a8bddde876c7a6a9aaaad40e36a	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR7226586	chromosome	-	-	NODE_21_length_34285_cov_31.737729	34285	0.387924748432259	8b7cdba56df7deb28791116b78e1d01d	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR7226586	chromosome	-	-	NODE_22_length_32242_cov_31.049031	32242	0.38629737609329445	1953206bf53e44133223fdbfe01b385d	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR7226586	chromosome	-	-	NODE_23_length_28895_cov_22.677907	28895	0.4055718982522928	ca8f37c21aee53963463dc2359399d9f	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR7226586	chromosome	-	-	NODE_24_length_26773_cov_31.946652	26773	0.3945392746423636	123b4163ba90d12fee1ffabe728e46b3	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR7226586	chromosome	-	-	NODE_25_length_25360_cov_33.176557	25360	0.3972397476340694	c295886a67e14cde0792126291f8d620	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR7226586	chromosome	-	-	NODE_26_length_14286_cov_87.390569	14286	0.3492930141397172	664dd4cdbc879c82411f96ac4dc71407	not tested	rep_cluster_1280,rep_cluster_1364	000595__CU468231_00001,000682__CU468232_00001	MOBQ	CP032277_00002	-	-	-	-	-	-	-	-	-	-	-
+ERR7226586	chromosome	-	-	NODE_27_length_13993_cov_20.102634	13993	0.38090473808332737	66780d3711dc5d3985143269139a6edc	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR7226586	chromosome	-	-	NODE_28_length_10093_cov_20.614169	10093	0.40265530565738633	e02c30968c8f1f808cb457b9ef189173	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR7226586	plasmid	AB702	AK583	NODE_29_length_5748_cov_93.531953	5748	0.3823938761308281	5062bf010ec96a8d4e24c363af73bd85	not tested	-	-	MOBP	NZ_AFDA02000006_00006	-	-	-	-	-	CP027181	0.00160079	Acinetobacter baumannii	-	-	-
+ERR7226586	chromosome	-	-	NODE_2_length_423311_cov_33.280193	423311	0.39840684508552815	17bef87c1a11d99fd57a66f0672855f6	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR7226586	chromosome	-	-	NODE_30_length_5564_cov_173.731565	5564	0.48813803019410495	7eb666270a81ee35fb3642f84540c3ec	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR7226586	plasmid	AC409	-	NODE_31_length_5552_cov_48.658170	5552	0.43804034582132567	69e7b7869d072e9cb17cc89ef4c26be5	not tested	-	-	MOBP	NZ_AEOY01000096_00007	-	-	-	-	-	KP143090	0.0556462	Escherichia coli	-	-	-
+ERR7226586	chromosome	-	-	NODE_32_length_4685_cov_101.734845	4685	0.3950907150480256	a71e56f398b5d995be81279f59dbec08	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR7226586	chromosome	-	-	NODE_33_length_2330_cov_53.666965	2330	0.2875536480686695	4fccef4520d47fdf1a8950224507c21b	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR7226586	chromosome	-	-	NODE_34_length_1511_cov_45.459632	1511	0.48510919920582396	87075f7d2ee5a5abe315c461d67d8eed	not tested	-	-	-	-	-	-	-	-	-	-	-	-	CP001182	IS15	repetitve element
+ERR7226586	chromosome	-	-	NODE_35_length_1310_cov_33.445912	1310	0.47557251908396947	2a2b60fba2166c477295db7271e1b603	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR7226586	chromosome	-	-	NODE_36_length_1181_cov_52.968577	1181	0.4462320067739204	f33519ece4d3bc562afdf5745dc5eb34	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR7226586	chromosome	-	-	NODE_37_length_953_cov_39.403981	953	0.46379853095487933	3e09b9f109fbede61b4aba0d2b691286	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR7226586	chromosome	-	-	NODE_38_length_872_cov_197.253558	872	0.5068807339449541	58339a70c7c68b61edae26c98674aceb	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR7226586	chromosome	-	-	NODE_39_length_820_cov_87.823856	820	0.525609756097561	4fa8e8dcdfa21a3ef7a0340a98db470c	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR7226586	chromosome	-	-	NODE_3_length_365924_cov_31.765814	365924	0.40103682731933404	259865153af8eea5cb47cd53dd1c1d7c	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR7226586	chromosome	-	-	NODE_40_length_793_cov_79.958213	793	0.4123581336696091	44f1a9cd78aa0f83c0d3cc34e7c58090	not tested	-	-	MOBP	NZ_AEOY01000096_00007	-	-	-	-	-	-	-	-	-	-	-
+ERR7226586	chromosome	-	-	NODE_41_length_755_cov_175.157012	755	0.37350993377483444	ed51aff001cb713c22165ef24740bd09	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR7226586	chromosome	-	-	NODE_42_length_731_cov_41.476266	731	0.3912448700410397	8bfd5c5bb4bf6b584a0be855629529c6	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR7226586	chromosome	-	-	NODE_43_length_726_cov_32.564593	726	0.4820936639118457	a42d023e4be9fa1f923ad4022a8f92eb	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR7226586	chromosome	-	-	NODE_44_length_709_cov_37.921311	709	0.5246826516220028	5801e56ba341a4449bf21ec5c2abb72c	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR7226586	chromosome	-	-	NODE_45_length_631_cov_84.056391	631	0.5340729001584786	d5e5889fbe521ef255a22a7254691fa1	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR7226586	chromosome	-	-	NODE_46_length_571_cov_81.779661	571	0.404553415061296	dc2331ea25aaa47d152806a74ddd3db8	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR7226586	chromosome	-	-	NODE_4_length_221946_cov_24.584457	221946	0.3814846854640318	80a3fa6fa8f2f37bddd2cb734e94b6b8	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR7226586	chromosome	-	-	NODE_5_length_217474_cov_21.976915	217474	0.39093408867266893	82a917221907e9db16ae95e2110a6f5e	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR7226586	chromosome	-	-	NODE_6_length_216776_cov_20.451926	216776	0.37474628187622244	0cd7006ddb78900d416f9590768397a6	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR7226586	chromosome	-	-	NODE_7_length_196522_cov_29.139144	196522	0.39405972854364585	213fae2bc78da2ff5454f8a4e25333e4	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR7226586	chromosome	-	-	NODE_8_length_184037_cov_26.609254	184037	0.38938909023728924	dfd71a36ae20cb6f90392cabfb567371	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR7226586	chromosome	-	-	NODE_9_length_163640_cov_33.980757	163640	0.3977816096171014	66b8824c8405bd54b9090e506d2c9a4c	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-

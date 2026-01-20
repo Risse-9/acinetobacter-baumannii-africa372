@@ -1,0 +1,2 @@
+sample_id	molecule_type	primary_cluster_id	secondary_cluster_id	contig_id	size	gc	md5	mge_id	mge_acs	mge_type	mge_subtype	mge_length	mge_start	mge_end	contig_start	contig_end	length	sstrand	qcovhsp	pident	evalue	bitscore
+ERR7226612	plasmid	AC260		NODE_37_length_10932_cov_29.432567	10932	0.5903768752286864	e2395ccc0636154f5c9dc9dba080694a	01029	KU997026	IS6100	IS6	5466	474	3757	3658	6943	3287	plus	60.0	99.605	0.0	5995

@@ -1,0 +1,4 @@
+sample_id	molecule_type	primary_cluster_id	secondary_cluster_id	contig_id	size	gc	md5	mge_id	mge_acs	mge_type	mge_subtype	mge_length	mge_start	mge_end	contig_start	contig_end	length	sstrand	qcovhsp	pident	evalue	bitscore
+ERR10854484	chromosome			NODE_17_length_56366_cov_4.542600	56366	0.3895078593478338	3b638eada236a76ff85c83da2afab4d6	00441	JQ241792	ISAba20	IS3	1199	1	1199	10847	12046						
+ERR10854484	plasmid	AB114	AJ691	NODE_115_length_1274_cov_40.909787	1274	0.37990580847723704	7778aed64366c46c0d18cdcfc9f26216	00596	JX076770	ISAba21	IS3	1274	1	1274	1	1274	1274	plus	100.0	99.608	0.0	2326
+ERR10854484	plasmid	AB114	AJ691	NODE_123_length_1041_cov_11.600849	1041	0.4034582132564842	bb567d2a6a2d9315c656e3a175790cc1	00966	CP001182	ISAlw1	IS5	1039	1	1039	1	1039	1042	plus	100.0	82.438	0.0	905

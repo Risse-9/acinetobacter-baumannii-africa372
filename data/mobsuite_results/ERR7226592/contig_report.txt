@@ -1,0 +1,62 @@
+sample_id	molecule_type	primary_cluster_id	secondary_cluster_id	contig_id	size	gc	md5	circularity_status	rep_type(s)	rep_type_accession(s)	relaxase_type(s)	relaxase_type_accession(s)	mpf_type	mpf_type_accession(s)	orit_type(s)	orit_accession(s)	predicted_mobility	mash_nearest_neighbor	mash_neighbor_distance	mash_neighbor_identification	repetitive_dna_id	repetitive_dna_type	filtering_reason
+ERR7226592	chromosome	-	-	NODE_10_length_139496_cov_37.056565	139496	0.3870863680679016	049b7be0f0d8bdcaf55e9c856b96a7f5	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR7226592	chromosome	-	-	NODE_11_length_135965_cov_31.085628	135965	0.38214246313389477	09433d4f3d2c19057ed6e4e81573b75e	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR7226592	chromosome	-	-	NODE_12_length_98529_cov_38.198689	98529	0.39027088471414506	875574522f0ecc5e23da48a934b35fc1	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR7226592	chromosome	-	-	NODE_13_length_98435_cov_27.328567	98435	0.3733834510082796	6f442c4e3974c53458a4d4a5a25d1ac5	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR7226592	chromosome	-	-	NODE_14_length_89167_cov_26.747294	89167	0.36828647369542544	aade6f1f95e654be56f4129eac9cb61f	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR7226592	chromosome	-	-	NODE_15_length_76464_cov_41.123434	76464	0.4060865243774848	18a5dd60f2a8cc95355eb23f6ead6e06	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR7226592	chromosome	-	-	NODE_16_length_74643_cov_30.731997	74643	0.38752461717776615	4896fa0f98219591fa6fa56a4f1c891d	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR7226592	chromosome	-	-	NODE_17_length_62437_cov_32.787144	62437	0.38594102855678525	31cdf3b888b496eb7ec512ccc4e6b419	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR7226592	chromosome	-	-	NODE_18_length_58187_cov_26.392719	58187	0.37596026603880595	4eb28ed3a27c021608666f5b4bafe7a1	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR7226592	chromosome	-	-	NODE_19_length_54086_cov_37.164910	54086	0.39365085234626335	cec8f4eae949cec5d7b055bcb9a54eb0	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR7226592	chromosome	-	-	NODE_1_length_457820_cov_41.517525	457820	0.39754925516578565	ccd86a58d642dd7c872c83c2d6cc45f0	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR7226592	chromosome	-	-	NODE_20_length_52014_cov_31.394298	52014	0.3834352289768139	46c9268e7a3efd15ca618a516e152470	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR7226592	chromosome	-	-	NODE_21_length_50472_cov_42.048915	50472	0.3845696623870661	81c54c6a204c01e6374c4527e2d542d2	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR7226592	chromosome	-	-	NODE_22_length_47610_cov_26.641136	47610	0.38428901491283346	86f2259a1de6d08ada2597d12d8a315a	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR7226592	chromosome	-	-	NODE_23_length_42602_cov_26.939627	42602	0.3740904182902211	1f1ba8dfb790e5cf8613f379a7416c00	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR7226592	chromosome	-	-	NODE_24_length_31912_cov_41.509383	31912	0.3895086487841564	ba734f7ff63e53030cb70ba03317b67f	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR7226592	chromosome	-	-	NODE_25_length_25254_cov_30.668774	25254	0.3907895778886513	db62dc1283583d5abfce78551dfa05cc	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR7226592	chromosome	-	-	NODE_26_length_23970_cov_40.052574	23970	0.402377972465582	11810d4db94fa8c1f20ee2b31d508765	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR7226592	chromosome	-	-	NODE_27_length_23741_cov_36.283056	23741	0.3975822416915884	1a0f461c58822914b3fe2caba4d65a7b	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR7226592	chromosome	-	-	NODE_28_length_23430_cov_31.604132	23430	0.36867264191207855	02337981097ae58dd229c34904eb3606	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR7226592	chromosome	-	-	NODE_29_length_21178_cov_35.614782	21178	0.3788837472849183	9de6f5b5229cebded1a489d285c663af	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR7226592	chromosome	-	-	NODE_2_length_408005_cov_34.098559	408005	0.38614232668717297	b3a57d3c8eff4dc2c7ea1b1c9d915756	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR7226592	chromosome	-	-	NODE_30_length_18958_cov_34.798240	18958	0.3826352990821817	020aa00dc62c3bc3240215b4ea1343fe	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR7226592	chromosome	-	-	NODE_31_length_18122_cov_40.682628	18122	0.3930029798035537	d708e1230dc359581a99fb3123bd9dbb	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR7226592	chromosome	-	-	NODE_32_length_15911_cov_40.583607	15911	0.378040349443781	069877703da84a5cebe5c2bdcd378f63	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR7226592	chromosome	-	-	NODE_33_length_13968_cov_40.011753	13968	0.4202462772050401	027644b66471fd0408ab0ae0243cd529	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR7226592	chromosome	-	-	NODE_34_length_9890_cov_33.297722	9890	0.4046511627906977	31a6e47765ded1a62e749faeb23d5ae1	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR7226592	chromosome	-	-	NODE_35_length_9599_cov_38.162000	9599	0.3631628294614022	622700a6f95dfb9f5d833129d66f0a6c	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR7226592	chromosome	-	-	NODE_36_length_6807_cov_33.354353	6807	0.42735419421184073	83ba2c778e6826f8f4c4c7128cf9d548	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR7226592	plasmid	AC715	-	NODE_37_length_5797_cov_29.088979	5797	0.5880627910988442	20e94be90b0763afa7c6f26c3a020f1a	not tested	-	-	-	-	-	-	-	-	-	CP015485	0.0549966	Acinetobacter baumannii	JQ899055,MG764534	Tn3,TnAs3	repetitve element
+ERR7226592	chromosome	-	-	NODE_38_length_5190_cov_208.543705	5190	0.4979383467504418	6fd542059f917303e2d9c49b19f7ee5f	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR7226592	chromosome	-	-	NODE_39_length_4467_cov_31.529533	4467	0.40273113946720396	b8a8a1cf68a770c81faf0cd536fce4cd	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR7226592	chromosome	-	-	NODE_3_length_306816_cov_29.259171	306816	0.3778812056737589	bf4347abc549f7cc05dc1149b9134d3c	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR7226592	chromosome	-	-	NODE_40_length_4422_cov_39.287994	4422	0.3817277250113071	fed754fb2e65798cb42b409c2decd63b	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR7226592	chromosome	-	-	NODE_41_length_4232_cov_34.528188	4232	0.401937618147448	524b9ed5a232b0ff46e9f0f8dc7540b0	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR7226592	chromosome	-	-	NODE_42_length_4140_cov_40.234100	4140	0.4036231884057971	85b8b2745f3792059bf2b4457a8c0c41	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR7226592	chromosome	-	-	NODE_43_length_3144_cov_33.276519	3144	0.37754452926208654	c3ceabf1f3176fef082f87cd39735b79	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR7226592	chromosome	-	-	NODE_44_length_2633_cov_26.638516	2633	0.6042537030003798	0eac94303f6298231792632e9e142f06	not tested	-	-	-	-	-	-	-	-	-	-	-	-	MF805806,MF168946,MG764534	IS1006,ISMca2,TnAs3	repetitve element
+ERR7226592	chromosome	-	-	NODE_45_length_2608_cov_35.764448	2608	0.5452453987730062	6a937b9072686e6faf5ed1b5a99d35ad	not tested	-	-	-	-	-	-	-	-	-	-	-	-	CP001182	IS15	repetitve element
+ERR7226592	chromosome	-	-	NODE_46_length_2521_cov_52.099917	2521	0.5831019436731456	4d16f549946085ef4cf0e5112729f311	not tested	-	-	-	-	-	-	-	-	-	-	-	-	MF805806,LC169572,CP001182,FJ384365,KC543497,KY494864,MF372716,JQ899055,MG764534	IS1006,IS1353,IS15,ISEc28,ISPa40,ISPa56,ISPmi2,Tn3,TnAs3	repetitve element
+ERR7226592	plasmid	AC715	-	NODE_47_length_1715_cov_43.857054	1715	0.39183673469387753	91a4d3e8e361adbf6e4d1d344b1006b4	not tested	-	-	-	-	-	-	-	-	-	CP015485	0.0549966	Acinetobacter baumannii	-	-	-
+ERR7226592	plasmid	AC715	-	NODE_48_length_1657_cov_84.127086	1657	0.36149668074834035	d3da9564f07ac08318d938e92b0ac88c	not tested	-	-	-	-	-	-	-	-	-	CP015485	0.0549966	Acinetobacter baumannii	CP001182	IS15	repetitve element
+ERR7226592	chromosome	-	-	NODE_49_length_1623_cov_41.375984	1623	0.46642020948860136	db5cdbb12d893024472756a00b41818d	not tested	-	-	-	-	-	-	-	-	-	-	-	-	CP001182	IS15	repetitve element
+ERR7226592	chromosome	-	-	NODE_4_length_296711_cov_39.210453	296711	0.4022971848027205	1b5b8e5695c54959d1ecd7214aedfbbc	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR7226592	chromosome	-	-	NODE_50_length_1407_cov_72.597095	1407	0.378820184790334	17decac53e043eb092efd14a268c591f	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR7226592	plasmid	AC715	-	NODE_51_length_1359_cov_36.488889	1359	0.5688005886681383	248c20890a8dada369c58ace0827bc17	not tested	-	-	-	-	-	-	-	-	-	CP015485	0.0549966	Acinetobacter baumannii	MF805806,KX709966,KY437727,KU736876	IS1006,ISAzs17,ISShfr9,ISVsa3	repetitve element
+ERR7226592	chromosome	-	-	NODE_52_length_1355_cov_73.128981	1355	0.34760147601476016	abf156fdf152774199383f8558f877ca	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR7226592	chromosome	-	-	NODE_53_length_1276_cov_70.934579	1276	0.3785266457680251	eca1ef23a691351398bd1105faeef79f	not tested	-	-	MOBP	NZ_ALIG01000010_00048	-	-	-	-	-	-	-	-	JX076770	ISAba21	repetitve element
+ERR7226592	chromosome	-	-	NODE_54_length_1262_cov_71.003439	1262	0.3510301109350238	7d250bf2ec8af91c40005fd73b356066	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR7226592	plasmid	AC715	-	NODE_55_length_1180_cov_752.624422	1180	0.35847457627118645	9a724e357aa8b671b4a15c38447e0a19	not tested	-	-	-	-	-	-	-	-	-	CP015485	0.0549966	Acinetobacter baumannii	MF805806,CP001182,KY437727	IS1006,ISAba1,ISShfr9	repetitve element
+ERR7226592	chromosome	-	-	NODE_56_length_1045_cov_33.116279	1045	0.4851674641148325	c3601080bc167a887ab013cbb5cbb3d9	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR7226592	chromosome	-	-	NODE_57_length_955_cov_53.905374	955	0.5905759162303665	41e0e697c87e425a693a2a917e4ba044	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR7226592	chromosome	-	-	NODE_58_length_907_cov_28.127475	907	0.412348401323043	6301552aa0e87b478417a0c55eb94c3c	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR7226592	chromosome	-	-	NODE_59_length_898_cov_57.032541	898	0.4922048997772829	3efb09601215cf69ffea0517622b3858	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR7226592	chromosome	-	-	NODE_5_length_262872_cov_34.735026	262872	0.3873808391209209	eb6ee3b5e1e41abb4dd18aab83ec99dc	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR7226592	chromosome	-	-	NODE_60_length_744_cov_159.300775	744	0.5349462365591398	15903055a497f41dc35c4b4cb811bd8e	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR7226592	chromosome	-	-	NODE_61_length_674_cov_26.613913	674	0.5504451038575667	32efff5d0f9645e6b82d6b81a1e8cba9	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR7226592	chromosome	-	-	NODE_6_length_232406_cov_28.788560	232406	0.3939485211225183	9cca9d7afeca5eb475b543c75cfdc444	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR7226592	chromosome	-	-	NODE_7_length_220834_cov_36.493379	220834	0.38789504933442714	95f3fac3230e99d008ad12ab35871e4b	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR7226592	chromosome	-	-	NODE_8_length_184043_cov_27.748298	184043	0.3884852996310645	5e092eba3041a30776af3a1121a79222	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR7226592	chromosome	-	-	NODE_9_length_171901_cov_42.855485	171901	0.3944886882566128	75caac17155bd6c652adf5f2e359fcb1	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-

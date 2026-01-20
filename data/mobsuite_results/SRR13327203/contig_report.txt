@@ -1,0 +1,280 @@
+sample_id	molecule_type	primary_cluster_id	secondary_cluster_id	contig_id	size	gc	md5	circularity_status	rep_type(s)	rep_type_accession(s)	relaxase_type(s)	relaxase_type_accession(s)	mpf_type	mpf_type_accession(s)	orit_type(s)	orit_accession(s)	predicted_mobility	mash_nearest_neighbor	mash_neighbor_distance	mash_neighbor_identification	repetitive_dna_id	repetitive_dna_type	filtering_reason
+SRR13327203	chromosome	-	-	NODE_100_length_15382_cov_11.038212	15382	0.3885710570797036	4baffecfc239e76fccc58cce57c40d33	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR13327203	chromosome	-	-	NODE_101_length_15303_cov_11.118719	15303	0.38659086453636543	1673852f3d3309501e2bc8250e80ad10	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR13327203	chromosome	-	-	NODE_102_length_14902_cov_10.520503	14902	0.37894242383572674	ccdc530d6ae5034300dd45c97bb74f6e	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR13327203	chromosome	-	-	NODE_103_length_14718_cov_8.698953	14718	0.3505911129229515	0f789bd98f1c1aa7a2c2e43acd6c1d56	not tested	-	-	MOBF	NC_017163_00021	MPF_T	NC_017163_00020	-	-	-	-	-	-	-	-	-
+SRR13327203	chromosome	-	-	NODE_104_length_14659_cov_12.745467	14659	0.427450712872638	2e8d1eb6cfeb1c586a79f936a5e7d1f1	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR13327203	chromosome	-	-	NODE_105_length_14478_cov_10.276584	14478	0.38893493576460836	0be1d1459c410a5bd889a2a1432f3492	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR13327203	chromosome	-	-	NODE_106_length_13824_cov_11.432350	13824	0.40263310185185186	70dfc1075e80ab868d7f8097d5d37233	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR13327203	chromosome	-	-	NODE_107_length_13742_cov_12.317159	13742	0.3881531072624072	11f4b9c56ab10096bce4f2a2e59047aa	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR13327203	chromosome	-	-	NODE_108_length_13410_cov_11.918639	13410	0.388441461595824	c78b39cfda7dc5353d9ae2eec572711c	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR13327203	chromosome	-	-	NODE_109_length_12973_cov_10.567423	12973	0.3804825406613736	a81a8a400e144ba3bafdf4bcfc88c61f	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR13327203	chromosome	-	-	NODE_10_length_53141_cov_11.325440	53141	0.3758491560188931	a4533f44e844374bd2315b40d35b0b74	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR13327203	plasmid	AC715	AM016	NODE_110_length_12965_cov_11.613041	12965	0.3477053605861936	b081dbd62b0f60b95b814edc5bba40d1	not tested	-	-	-	-	-	-	-	-	-	CP015485	0.0194991	Acinetobacter baumannii	-	-	-
+SRR13327203	chromosome	-	-	NODE_111_length_12920_cov_12.022229	12920	0.39171826625386996	8af4fc71ef32e8db237c5b50759f693b	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR13327203	chromosome	-	-	NODE_112_length_12823_cov_11.078670	12823	0.3836855650003899	06d8fa367261ab16f466f0038d06950e	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR13327203	chromosome	-	-	NODE_113_length_12704_cov_10.183657	12704	0.38003778337531485	a6245b3565b01390eb653e0727d3ece6	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR13327203	chromosome	-	-	NODE_114_length_12546_cov_14.068370	12546	0.4061852383229715	a722163982cd31b4d79eaff7ca0c3cc4	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR13327203	chromosome	-	-	NODE_115_length_12497_cov_11.717696	12497	0.3984156197487397	3e32ca1adc05cce5ffa42aa192f580c5	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR13327203	chromosome	-	-	NODE_116_length_11855_cov_10.697006	11855	0.3687895402783636	2a5518a74950dcb324657b3b16e3688a	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR13327203	plasmid	AE271	AO017	NODE_117_length_11736_cov_11.080433	11736	0.3824130879345603	34ad7cdc6976d4193c8fbe5838ea21f7	not tested	-	-	-	-	-	-	-	-	-	CP039931	0.0200167	Acinetobacter baumannii	-	-	-
+SRR13327203	chromosome	-	-	NODE_118_length_11456_cov_11.327287	11456	0.378840782122905	2bf51e20dfafe66ed7ab98a04630339f	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR13327203	chromosome	-	-	NODE_119_length_11431_cov_12.091070	11431	0.3948910856443006	e3bcc99cea3472c15c4c8e342cdac952	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR13327203	chromosome	-	-	NODE_11_length_51249_cov_13.697328	51249	0.3934125543913052	ed39c2c09b918d056cbec8eb08f4767b	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR13327203	chromosome	-	-	NODE_120_length_11350_cov_10.620923	11350	0.3690748898678414	ad9fc266b5baca3aa66d48a384068026	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR13327203	chromosome	-	-	NODE_121_length_11246_cov_10.396878	11246	0.3961408500800285	4aee017d97613e0cd6d335a6e403bdfc	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR13327203	chromosome	-	-	NODE_122_length_11088_cov_11.740468	11088	0.4016955266955267	df1ae8006a2aab2d3d34a56ae3902235	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR13327203	chromosome	-	-	NODE_123_length_10907_cov_9.923760	10907	0.3668286421564133	020bd08c2370599b73b88209c84a8947	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR13327203	plasmid	AE271	AO017	NODE_124_length_10891_cov_10.669848	10891	0.3967496097695345	cfb39a312ed4356ec2e4694566801557	not tested	-	-	-	-	-	-	-	-	-	CP039931	0.0200167	Acinetobacter baumannii	-	-	-
+SRR13327203	chromosome	-	-	NODE_125_length_10851_cov_12.458333	10851	0.40060823887199337	6fac6ed5b1d284685e2c94949beaf9d3	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR13327203	plasmid	AE271	AO017	NODE_126_length_10758_cov_11.536636	10758	0.4016545826361777	74418d2ad493bd7428856eabe07df9cd	not tested	-	-	-	-	-	-	-	-	-	CP039931	0.0200167	Acinetobacter baumannii	-	-	-
+SRR13327203	chromosome	-	-	NODE_127_length_10386_cov_10.672694	10386	0.37723859041016755	2797415f484c128173341ec43b2988be	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR13327203	chromosome	-	-	NODE_128_length_10310_cov_11.634904	10310	0.37487875848690594	5ca54ac5c88805e3394b37efed00dae5	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR13327203	plasmid	AE271	AO017	NODE_129_length_10261_cov_9.915469	10261	0.3829061494980996	cc688c97a1e18be118e946d5344779fc	not tested	-	-	-	-	-	-	-	-	-	CP039931	0.0200167	Acinetobacter baumannii	-	-	-
+SRR13327203	chromosome	-	-	NODE_12_length_50701_cov_13.124343	50701	0.4031084199522692	8b9f2ce1095636484bfd30ad4abbb90f	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR13327203	chromosome	-	-	NODE_130_length_10209_cov_10.985361	10209	0.4087569791360564	d1a7aa261005e2bf031429dfb5ed5f95	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR13327203	chromosome	-	-	NODE_131_length_9879_cov_12.005521	9879	0.368255896345784	b5926d4e66845bdc75425a5688dc7235	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR13327203	chromosome	-	-	NODE_132_length_9547_cov_8.923264	9547	0.34911490520582383	034f0834fa9101a778794180e5f82919	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR13327203	chromosome	-	-	NODE_133_length_9532_cov_7.852751	9532	0.3405371380612673	d8493a99f78105ed6f25daa780feac21	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR13327203	chromosome	-	-	NODE_134_length_9436_cov_14.519117	9436	0.5463119966087325	ac3515a358f5f18825b4f29ab499591c	not tested	-	-	-	-	-	-	-	-	-	-	-	-	CP001182	IS15	repetitve element
+SRR13327203	chromosome	-	-	NODE_135_length_9285_cov_10.835837	9285	0.36855142703284866	8f0aefbca3c9d4c9beeb651db931ef20	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR13327203	chromosome	-	-	NODE_136_length_9087_cov_11.751224	9087	0.3728403213381754	4019c8481a8988f659628e3cdf85c1a0	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR13327203	plasmid	AB082	AJ649	NODE_137_length_8891_cov_4.941765	8891	0.31852435046676414	760586ab811d989bf87c77e719c523c5	not tested	-	-	-	-	-	-	-	-	-	CP033857	0.00956826	Acinetobacter sp. FDAARGOS_493	-	-	-
+SRR13327203	chromosome	-	-	NODE_138_length_8888_cov_9.891683	8888	0.4017776777677768	f83ac089a541b534a2ee13dbafc2cd46	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR13327203	chromosome	-	-	NODE_139_length_8887_cov_12.535048	8887	0.39844717002363	0638cd164c3e3dfa3e913198b50c89bf	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR13327203	chromosome	-	-	NODE_13_length_45393_cov_12.460735	45393	0.39750622342651953	1f85d59eb06899253ea61c790a4ca063	not tested	rep_cluster_2288	CP032289_00012	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR13327203	chromosome	-	-	NODE_140_length_8843_cov_10.005833	8843	0.38561574126427683	2477cbacd79a5a715dc4181a776a5f4f	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR13327203	plasmid	AC163	AL241	NODE_141_length_8830_cov_291.054060	8830	0.34428086070215175	efff220262ebd5d758a53d9c05fc6b86	not tested	rep_cluster_1172	000454__KY202458_00008	-	-	-	-	-	-	-	CP026708	0.0	Acinetobacter baumannii	-	-	-
+SRR13327203	plasmid	AE272	AO018	NODE_142_length_8439_cov_10.392566	8439	0.3623652091480033	7ab55cf0c1121d07c69a1be38bd48167	not tested	-	-	-	-	-	-	-	-	-	CP036285	0.0146108	Acinetobacter baumannii	-	-	-
+SRR13327203	plasmid	AB082	AJ649	NODE_143_length_8411_cov_5.622714	8411	0.3230293663060278	2d4bb209bd8ea43892570d15343a2b48	not tested	-	-	-	-	-	-	-	-	-	CP033857	0.00956826	Acinetobacter sp. FDAARGOS_493	-	-	-
+SRR13327203	plasmid	AE272	AO018	NODE_144_length_8077_cov_10.572825	8077	0.3844249102389501	6482eb171aaff7855b57d167458762c3	not tested	-	-	-	-	-	-	-	-	-	CP036285	0.0146108	Acinetobacter baumannii	-	-	-
+SRR13327203	chromosome	-	-	NODE_145_length_8008_cov_12.938172	8008	0.6323676323676324	49dafe714e3b5e6fe7dbbd3164fcd5c7	not tested	-	-	-	-	-	-	-	-	-	-	-	-	KY978629	IS5D	repetitve element
+SRR13327203	chromosome	-	-	NODE_146_length_7973_cov_9.892812	7973	0.3859275053304904	fd11326d5b8f668e7aa3868b398169af	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR13327203	chromosome	-	-	NODE_147_length_7963_cov_11.179807	7963	0.4031144041190506	b9b5c6fe250290d3b1687d983ed9fece	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR13327203	chromosome	-	-	NODE_148_length_7913_cov_13.738418	7913	0.40793630734234804	e763d33652ac50b1adc6c7d3d1ce6af4	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR13327203	chromosome	-	-	NODE_149_length_7878_cov_7.861679	7878	0.321020563594821	64f44783d3d9ca555fba12027da27f39	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR13327203	chromosome	-	-	NODE_14_length_44973_cov_11.445492	44973	0.4019300469170391	961d5a4cb906723af2ad81ac76da518c	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR13327203	chromosome	-	-	NODE_150_length_7738_cov_11.192957	7738	0.4126389247867666	900ab488c075a6043346c2d151b80731	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR13327203	chromosome	-	-	NODE_151_length_7430_cov_8.830037	7430	0.32987886944818307	11a9873d624ee3be7260845e822c9ce3	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR13327203	chromosome	-	-	NODE_152_length_7259_cov_11.886034	7259	0.4223722275795564	94f9038a11c864fdeb455fabb719ef7a	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR13327203	chromosome	-	-	NODE_153_length_7238_cov_11.412943	7238	0.40011052777010225	29a4218786e96f2709d293140c56325d	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR13327203	chromosome	-	-	NODE_154_length_7112_cov_11.223442	7112	0.3607986501687289	b815af620804ba40eb539cfdf923b898	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR13327203	chromosome	-	-	NODE_155_length_7002_cov_9.385485	7002	0.36275349900028564	8eba43e2271ea6bc823dacc56175d4aa	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR13327203	chromosome	-	-	NODE_156_length_6966_cov_11.901995	6966	0.3739592305483778	e3e7965002b9e8957c9bca165eb51124	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR13327203	chromosome	-	-	NODE_157_length_6952_cov_11.835692	6952	0.3696777905638665	4b22b6f1856c849787beb149ce6d5f50	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR13327203	chromosome	-	-	NODE_158_length_6539_cov_9.530124	6539	0.38461538461538464	73bcd897a191cf9d50ec041ecd304995	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR13327203	chromosome	-	-	NODE_159_length_6294_cov_12.092010	6294	0.40069907848744835	ba8efee2f70ad44d03e4636c5a842bb9	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR13327203	chromosome	-	-	NODE_15_length_44656_cov_12.111630	44656	0.4037083482622716	1b6b3a03a58791a750a499a1156f0a30	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR13327203	plasmid	AE271	AO017	NODE_160_length_6276_cov_7.473693	6276	0.3481516889738687	c1c64275c5c2d9e3ad1769267fbda404	not tested	-	-	-	-	-	-	-	-	-	CP039931	0.0200167	Acinetobacter baumannii	-	-	-
+SRR13327203	plasmid	AC715	AM016	NODE_161_length_6230_cov_19.744577	6230	0.5130016051364366	38cb8b545da74d26244277b4e7703371	not tested	-	-	-	-	-	-	-	-	-	CP015485	0.0194991	Acinetobacter baumannii	-	-	-
+SRR13327203	chromosome	-	-	NODE_162_length_6209_cov_13.590671	6209	0.3949106136253825	c684e1971cb89af97b147f99644a0b6b	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR13327203	chromosome	-	-	NODE_163_length_6182_cov_10.718396	6182	0.3485926884503397	0ce02151d2a0ca53b5e11fbb39367226	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR13327203	plasmid	AB702	AK583	NODE_164_length_6177_cov_307.473346	6177	0.393718633640926	c3d47d43588ec192699cc2b752bf9797	not tested	-	-	MOBP	NZ_AFDA02000006_00006	-	-	-	-	-	CP027181	4.76906e-05	Acinetobacter baumannii	-	-	-
+SRR13327203	chromosome	-	-	NODE_165_length_6156_cov_13.175665	6156	0.3991228070175439	98b1f689ef4f8e14cda7e1eb551e416d	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR13327203	chromosome	-	-	NODE_166_length_6131_cov_15.943137	6131	0.364540857935084	2ded44edaf42854142ae1441b00a4e0b	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR13327203	chromosome	-	-	NODE_167_length_6048_cov_10.586653	6048	0.3819444444444444	c3d612a8ae99ae9d935e4dd2647a83ef	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR13327203	chromosome	-	-	NODE_168_length_5987_cov_10.234715	5987	0.37614832136295306	36fb4f6dc513dc960f47b7f91a7cd642	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR13327203	chromosome	-	-	NODE_169_length_5956_cov_10.375619	5956	0.4006044325050369	29ca66901b27e5b4200c25756a93abd3	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR13327203	chromosome	-	-	NODE_16_length_43336_cov_11.920508	43336	0.3883837917666605	6d92243d7ad76b4e75d425a1bb6b155f	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR13327203	chromosome	-	-	NODE_170_length_5737_cov_74.708939	5737	0.4831793620359073	22e9b2a8d61f721c64488a24069a200a	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR13327203	chromosome	-	-	NODE_171_length_5718_cov_24.896067	5718	0.399181348994483	e6df7a8817366145136c0d49c57acb44	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR13327203	plasmid	AB082	AJ649	NODE_172_length_5569_cov_7.886654	5569	0.33129825821511943	8ba1f652283207e2ed661e83def260b3	not tested	-	-	-	-	-	-	-	-	-	CP033857	0.00956826	Acinetobacter sp. FDAARGOS_493	-	-	-
+SRR13327203	plasmid	AE272	AO018	NODE_173_length_5525_cov_7.960192	5525	0.34968325791855204	c4d9ee4c20f7433d5455e3f3d559cb97	not tested	-	-	-	-	-	-	-	-	-	CP036285	0.0146108	Acinetobacter baumannii	-	-	-
+SRR13327203	chromosome	-	-	NODE_174_length_5437_cov_8.949981	5437	0.36067684384771015	936e512f791c51d61fbea8a2da637790	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR13327203	chromosome	-	-	NODE_175_length_5341_cov_9.579741	5341	0.3886912563190414	89e83291e24e2a38e38844926f2a28e2	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR13327203	chromosome	-	-	NODE_176_length_5264_cov_10.575992	5264	0.373290273556231	b1a955fe2b8a0b25511b3072ef52d539	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR13327203	plasmid	AE271	AO017	NODE_177_length_5227_cov_9.717629	5227	0.3546967667878324	6843f93d0c01ef7da8367a73ddaf14fe	not tested	-	-	-	-	-	-	-	-	-	CP039931	0.0200167	Acinetobacter baumannii	-	-	-
+SRR13327203	chromosome	-	-	NODE_178_length_5105_cov_11.707151	5105	0.3992164544564153	33c9b5c0733007d4b468d9818b29a05d	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR13327203	chromosome	-	-	NODE_179_length_5028_cov_11.775411	5028	0.3979713603818616	33351c9ded0a58eeb48a61f21d18f869	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR13327203	chromosome	-	-	NODE_17_length_43148_cov_12.030082	43148	0.3942477055715213	0212c1783acc4cbd5bf278b1d76096f4	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR13327203	chromosome	-	-	NODE_180_length_4981_cov_11.767104	4981	0.3706083115840193	3bb2118ea3fc7f391f631c75cd9a18e7	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR13327203	chromosome	-	-	NODE_181_length_4973_cov_13.153878	4973	0.38166096923386283	22d5e12c76cfcf9f4beba67127f1a10c	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR13327203	chromosome	-	-	NODE_182_length_4774_cov_11.014545	4774	0.41244239631336405	c06478a71085834d2e5a638573503d94	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR13327203	chromosome	-	-	NODE_183_length_4625_cov_11.194653	4625	0.3956756756756757	498e1b28657f016414f91241430ee7d3	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR13327203	plasmid	novel_da0fbf734f2584e8a2ca529d0869e3d5	-	NODE_184_length_4463_cov_23.926902	4463	0.33945776383598475	0eb1a430bb3236f629e45681b858c944	not tested	-	-	MOBQ	NZ_ALIR01000019_00003	-	-	-	-	-	CP033533	0.0690061	Acinetobacter pittii	-	-	-
+SRR13327203	plasmid	AE272	AO018	NODE_185_length_4316_cov_10.843253	4316	0.36214087117701577	aed81b5cb7e5d19de89c648e27dd4f5e	not tested	-	-	-	-	-	-	-	-	-	CP036285	0.0146108	Acinetobacter baumannii	-	-	-
+SRR13327203	chromosome	-	-	NODE_186_length_4271_cov_12.726270	4271	0.4008428939358464	11097008b7a37f5a060cdce31ae91b5f	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR13327203	plasmid	AB082	AJ649	NODE_187_length_4206_cov_9.169467	4206	0.37137422729434144	81cd59ac19c6068b702abb044e360916	not tested	-	-	-	-	-	-	-	-	-	CP033857	0.00956826	Acinetobacter sp. FDAARGOS_493	-	-	-
+SRR13327203	chromosome	-	-	NODE_188_length_3883_cov_15.910412	3883	0.4684522276590265	e6978c76959164ebd9251828755b57b2	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR13327203	chromosome	-	-	NODE_189_length_3866_cov_13.911601	3866	0.3815312984997413	5f4d57b496a99e2a78678e0f5f0eb437	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR13327203	chromosome	-	-	NODE_18_length_41910_cov_11.052498	41910	0.387019804342639	03438ea128fd1ae9a71bfd79d47879b7	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR13327203	chromosome	-	-	NODE_190_length_3827_cov_11.509120	3827	0.3935197282466684	72497dee82f396b4d6fd50565921e9c2	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR13327203	chromosome	-	-	NODE_191_length_3812_cov_12.167789	3812	0.372507869884575	2cf5566bd1759bb2bb363989f06d7edd	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR13327203	chromosome	-	-	NODE_192_length_3769_cov_10.284469	3769	0.3682674449456089	c504485d5df487b0c6f8d1ab32199c98	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR13327203	chromosome	-	-	NODE_193_length_3719_cov_14.208287	3719	0.5643990319978489	c712d4a659b499d07513a996507b8a9e	not tested	-	-	-	-	-	-	-	-	-	-	-	-	CP001182	IS15	repetitve element
+SRR13327203	chromosome	-	-	NODE_194_length_3612_cov_7.243666	3612	0.3596345514950166	48d33c82bc488e9e4f08e96430c7ff7d	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR13327203	chromosome	-	-	NODE_195_length_3475_cov_9.138033	3475	0.38014388489208634	fe6df7de9cf6c96680f76bc7c985f805	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR13327203	chromosome	-	-	NODE_196_length_3420_cov_5.690756	3420	0.32456140350877194	f3f2f897a451938b7e1b963add60f572	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR13327203	plasmid	AB082	AJ649	NODE_197_length_3280_cov_24.913864	3280	0.3670731707317073	ccc7d466aef3ebc1d98a958b109d7b58	not tested	-	-	-	-	-	-	-	-	-	CP033857	0.00956826	Acinetobacter sp. FDAARGOS_493	-	-	-
+SRR13327203	chromosome	-	-	NODE_198_length_3279_cov_11.314151	3279	0.37328453796889294	95c4b72990f037a429d133fd9ca2eb47	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR13327203	chromosome	-	-	NODE_199_length_3214_cov_10.414125	3214	0.3375855631611699	8c5ab3f62f8c9bf8f7fcc888cc020e40	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR13327203	chromosome	-	-	NODE_19_length_41802_cov_12.489054	41802	0.396344672503708	e81dc7b593b303a91861a672a148f49c	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR13327203	chromosome	-	-	NODE_1_length_84650_cov_11.173796	84650	0.38438275251033666	08581eb3a9b977bce819705a6871f6d7	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR13327203	chromosome	-	-	NODE_200_length_3116_cov_8.687769	3116	0.362002567394095	b2c307fdcaa3747137e164aa5959ccdf	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR13327203	chromosome	-	-	NODE_201_length_3096_cov_4.794461	3096	0.2810077519379845	26abf4ca87f0e279f5209d1e4a46534c	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR13327203	chromosome	-	-	NODE_202_length_2957_cov_11.774542	2957	0.40716942847480553	c646a9a6735d2ec01b59ad3808ce1c29	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR13327203	chromosome	-	-	NODE_203_length_2932_cov_3.370632	2932	0.2820600272851296	dbbf3ea676fce935bc80bc715cbaf25a	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR13327203	chromosome	-	-	NODE_204_length_2875_cov_8.789625	2875	0.3151304347826087	0b23f6ee8a52884ce4072ce125281fe2	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR13327203	chromosome	-	-	NODE_205_length_2863_cov_9.530029	2863	0.3740831295843521	a3611392ef229fa4a9e676f97530d8d5	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR13327203	plasmid	AB082	AJ649	NODE_206_length_2744_cov_19.750095	2744	0.37682215743440234	87a3641757df842919f895d3ff356ef3	not tested	-	-	-	-	-	-	-	-	-	CP033857	0.00956826	Acinetobacter sp. FDAARGOS_493	CP001182	IS15	repetitve element
+SRR13327203	plasmid	AB082	AJ649	NODE_207_length_2673_cov_6.038073	2673	0.30976430976430974	75c417392eb95b81d4332f1f2d10c6e9	not tested	-	-	-	-	-	-	-	-	-	CP033857	0.00956826	Acinetobacter sp. FDAARGOS_493	-	-	-
+SRR13327203	chromosome	-	-	NODE_208_length_2672_cov_9.817334	2672	0.36751497005988026	3d96e291d05346db67e91ce1371c098d	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR13327203	chromosome	-	-	NODE_209_length_2647_cov_10.154631	2647	0.35738571968265964	625be9f00917d284411b132facb8c47f	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR13327203	chromosome	-	-	NODE_20_length_41473_cov_12.956494	41473	0.4122199985532756	f894e3fb775b9d0a1d391b103f2d6744	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR13327203	chromosome	-	-	NODE_210_length_2499_cov_11.816667	2499	0.3869547819127651	1cfc765623c6fc08bd5a9f073d7f808a	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR13327203	chromosome	-	-	NODE_211_length_2469_cov_6.297890	2469	0.34993924665856624	20ec5e07e1e492a4a34b6ff7d26235cc	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR13327203	plasmid	AB082	AJ649	NODE_212_length_2445_cov_19.111242	2445	0.37382413087934563	edf0228d72d0c433f4db30a9fd292761	not tested	-	-	-	-	-	-	-	-	-	CP033857	0.00956826	Acinetobacter sp. FDAARGOS_493	-	-	-
+SRR13327203	chromosome	-	-	NODE_213_length_2425_cov_16.187446	2425	0.3802061855670103	fc1bde0d023151d83fac54585a25ae7c	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR13327203	chromosome	-	-	NODE_214_length_2408_cov_7.199654	2408	0.3313953488372093	c79c16891c36a4e0f7ab9c8f18661a62	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR13327203	plasmid	AB082	AJ649	NODE_215_length_2377_cov_4.543020	2377	0.3193100546907867	683e1285ac24f600288dba799c7b3413	not tested	-	-	-	-	-	-	-	-	-	CP033857	0.00956826	Acinetobacter sp. FDAARGOS_493	-	-	-
+SRR13327203	chromosome	-	-	NODE_216_length_2353_cov_8.938776	2353	0.3493412664683383	fc07ee200b00789738a4d8d8d882a532	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR13327203	chromosome	-	-	NODE_217_length_2350_cov_10.131941	2350	0.39659574468085107	846014b4e2359def4298e6dfe2f0cbe1	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR13327203	plasmid	AE271	AO017	NODE_218_length_2295_cov_10.801457	2295	0.3498910675381264	02622c4916e0a7816b6889441e9c85b0	not tested	-	-	-	-	-	-	-	-	-	CP039931	0.0200167	Acinetobacter baumannii	-	-	-
+SRR13327203	chromosome	-	-	NODE_219_length_2186_cov_16.580259	2186	0.3911253430924062	89019bc05bcee5ccef6c7b8aa529d5dc	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR13327203	chromosome	-	-	NODE_21_length_41462_cov_12.397384	41462	0.4008730886112585	0603b868758abac22d0502d5c35a22b5	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR13327203	chromosome	-	-	NODE_220_length_2174_cov_6.287229	2174	0.31462741490340385	9f5f6b28a8d0ae38e3f346ce3a6e8795	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR13327203	chromosome	-	-	NODE_221_length_2134_cov_6.195577	2134	0.3219306466729147	3e4f5aceb8fb762317eb25f638c9550f	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR13327203	plasmid	AB082	AJ649	NODE_222_length_2104_cov_5.151047	2104	0.3094106463878327	387c3b016e07f0c6748c6ca91a1a5f00	not tested	-	-	-	-	-	-	-	-	-	CP033857	0.00956826	Acinetobacter sp. FDAARGOS_493	-	-	-
+SRR13327203	chromosome	-	-	NODE_223_length_2086_cov_9.442879	2086	0.3523489932885906	25a022604214ac362fa7c3a4ad352aaf	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR13327203	chromosome	-	-	NODE_224_length_2055_cov_13.647168	2055	0.37177615571776157	0f374d2a30ea474fce1ccd9d3ee820ab	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR13327203	chromosome	-	-	NODE_225_length_1980_cov_8.035088	1980	0.32171717171717173	22c7835b86090bdf256dfce487401a46	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR13327203	chromosome	-	-	NODE_226_length_1867_cov_8.550339	1867	0.36743438671665773	23bcfa8b027f51b24a3f47d0e028a40f	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR13327203	plasmid	novel_da0fbf734f2584e8a2ca529d0869e3d5	-	NODE_227_length_1797_cov_15.604240	1797	0.34501947690595436	47a60f299af0cc106eb0c432602e08d0	not tested	-	-	-	-	-	-	-	-	-	CP033533	0.0690061	Acinetobacter pittii	-	-	-
+SRR13327203	plasmid	AB082	AJ649	NODE_228_length_1791_cov_5.439716	1791	0.30876605248464545	f44d5ec285c7fd1fb2035d7ca9b30991	not tested	rep_cluster_734	002211__NC_010606_00001	-	-	-	-	-	-	-	CP033857	0.00956826	Acinetobacter sp. FDAARGOS_493	-	-	-
+SRR13327203	chromosome	-	-	NODE_229_length_1783_cov_17.633017	1783	0.3925967470555244	3b077ce004b14efa7127957885bbc268	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR13327203	chromosome	-	-	NODE_22_length_40730_cov_11.213556	40730	0.4020132580407562	3cf9fd84447fb5f64b66a4340244534c	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR13327203	chromosome	-	-	NODE_230_length_1773_cov_16.732975	1773	0.4224478285391991	f78c3549ec72716a0a4b7b6265c57b67	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR13327203	chromosome	-	-	NODE_231_length_1727_cov_4.849509	1727	0.29878401852924147	914cb4292b01f917b0a0560b5f2d8fae	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR13327203	chromosome	-	-	NODE_232_length_1723_cov_4.222906	1723	0.2867092280905398	eb246364cd65ba6b150ec03e79a199fe	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR13327203	chromosome	-	-	NODE_233_length_1677_cov_13.186946	1677	0.38998211091234347	5e8423084e67698a649d0d23a5e85c40	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR13327203	chromosome	-	-	NODE_234_length_1649_cov_5.549677	1649	0.29411764705882354	5fc4288e84953d563afc570e76fc9d35	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR13327203	plasmid	AE272	AO018	NODE_235_length_1643_cov_5.566062	1643	0.2824102251978089	59df3062be26f99472339fdd9aac5776	not tested	-	-	-	-	-	-	-	-	-	CP036285	0.0146108	Acinetobacter baumannii	-	-	-
+SRR13327203	chromosome	-	-	NODE_236_length_1638_cov_10.076673	1638	0.34737484737484736	b44ba5b478007d70c06b843ae38d3e98	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR13327203	chromosome	-	-	NODE_237_length_1556_cov_11.078243	1556	0.34511568123393316	f5cd64c13303a3970bf00777a658ffbc	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR13327203	chromosome	-	-	NODE_238_length_1524_cov_12.528421	1524	0.4258530183727034	8ec510e8a0932a45be22ccf16e7c62d2	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR13327203	chromosome	-	-	NODE_239_length_1509_cov_16.617021	1509	0.46587143803843606	60fcf66dd481637f1098ab7938e36f44	not tested	-	-	-	-	-	-	-	-	-	-	-	-	CP001182	IS15	repetitve element
+SRR13327203	chromosome	-	-	NODE_23_length_40177_cov_10.062179	40177	0.38004330836050476	56e8161354e124735735d1abef6648c8	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR13327203	chromosome	-	-	NODE_240_length_1398_cov_10.740570	1398	0.32975679542203146	0287aed871c3a3972dc22dd9c4f3c0db	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR13327203	chromosome	-	-	NODE_241_length_1390_cov_8.986057	1390	0.33525179856115106	14362723a9096dda5d9763f42fb8dafb	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR13327203	chromosome	-	-	NODE_242_length_1286_cov_11.998556	1286	0.39346811819595645	c7a7af538f31548f834f47dfb7789201	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR13327203	plasmid	AB082	AJ649	NODE_243_length_1266_cov_3.506427	1266	0.3080568720379147	cd9fb55960879a81ccf61ac269280c7f	not tested	-	-	-	-	-	-	-	-	-	CP033857	0.00956826	Acinetobacter sp. FDAARGOS_493	-	-	-
+SRR13327203	plasmid	AB082	AJ649	NODE_244_length_1219_cov_3.114286	1219	0.280557834290402	4ba1108bd57a5641e9a22a23847a6a35	not tested	-	-	-	-	-	-	-	-	-	CP033857	0.00956826	Acinetobacter sp. FDAARGOS_493	-	-	-
+SRR13327203	plasmid	AE271	AO017	NODE_245_length_1204_cov_4.426244	1204	0.3222591362126246	4303a7372e76249591ed8e4bec2c6da8	not tested	-	-	-	-	-	-	-	-	-	CP039931	0.0200167	Acinetobacter baumannii	-	-	-
+SRR13327203	chromosome	-	-	NODE_246_length_1179_cov_9.660185	1179	0.3384223918575064	c0ac63dff584f7de308977157a9b5aa5	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR13327203	chromosome	-	-	NODE_247_length_1170_cov_3.057890	1170	0.2606837606837607	da79e66fe977bd21be13e51795892507	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR13327203	chromosome	-	-	NODE_248_length_1146_cov_15.125119	1146	0.34642233856893545	a1cca8010956c26b01eea636b911f0cf	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR13327203	chromosome	-	-	NODE_249_length_1143_cov_14.458812	1143	0.5293088363954506	f65e4e97dca9156df3e45b08d6d88c5d	not tested	-	-	-	-	-	-	-	-	-	-	-	-	KC354801,KX009061	ISPa14,Tn5393	repetitve element
+SRR13327203	chromosome	-	-	NODE_24_length_37154_cov_12.341438	37154	0.3950045755504118	ab7bd127590b751c5a4e7b48578a8785	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR13327203	chromosome	-	-	NODE_251_length_1084_cov_10.531980	1084	0.3736162361623616	0982c34ded55194b1b5d6a07c9258e0b	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR13327203	plasmid	AB082	AJ649	NODE_253_length_1033_cov_3.821199	1033	0.29235237173281703	0c717bd9ab2fe0b5338cd920ef2e0806	not tested	-	-	-	-	-	-	-	-	-	CP033857	0.00956826	Acinetobacter sp. FDAARGOS_493	-	-	-
+SRR13327203	chromosome	-	-	NODE_254_length_1013_cov_10.835886	1013	0.3415597235932873	4d561f16b82528843914bd76860ef481	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR13327203	chromosome	-	-	NODE_255_length_1007_cov_13.076854	1007	0.39225422045680236	6ec58275e705e2397d31b8fd48fe3658	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR13327203	chromosome	-	-	NODE_256_length_988_cov_3.481440	988	0.30870445344129555	e244d411e7f2e254da28b62a0aafa349	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR13327203	chromosome	-	-	NODE_257_length_965_cov_9.490762	965	0.33575129533678755	7b83630ca2dce967e6539638753c7cfa	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR13327203	chromosome	-	-	NODE_258_length_958_cov_25.122235	958	0.33194154488517746	2c79565b29d071debecbe6dd40f731ba	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR13327203	chromosome	-	-	NODE_259_length_956_cov_5.296383	956	0.3106694560669456	fd661582dcdb32102d603fe22accecef	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR13327203	chromosome	-	-	NODE_25_length_36778_cov_10.488972	36778	0.39452933819131003	6fb986c47e6c29b7c488ca21ed82584d	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR13327203	chromosome	-	-	NODE_260_length_939_cov_8.744048	939	0.36741214057507987	5c26f9b28ef9ebdf82d6d2aefb9e1cf9	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR13327203	chromosome	-	-	NODE_261_length_938_cov_4.946365	938	0.3336886993603412	b8648e7a0950fe03dbb7c9a0f61f8870	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR13327203	chromosome	-	-	NODE_262_length_925_cov_153.679177	925	0.37405405405405406	47fc47628b0cb059c41ab1ce80d2eb52	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR13327203	chromosome	-	-	NODE_263_length_859_cov_8.878947	859	0.33061699650756693	d4281e18405d5fe3ec5f611714e37262	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR13327203	chromosome	-	-	NODE_264_length_859_cov_3.400000	859	0.2561117578579744	eac3ec73c122c638ebe771dff0159627	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR13327203	chromosome	-	-	NODE_265_length_849_cov_8.544000	849	0.35924617196702	b0a90eb9f5683d84c8f24f0dea835d64	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR13327203	chromosome	-	-	NODE_266_length_848_cov_7.542056	848	0.32193396226415094	0a757a34f96551f2b6b6077b8c8d5449	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR13327203	chromosome	-	-	NODE_267_length_831_cov_20.752732	831	0.5607701564380265	d55d16fbcdfa7b39b04dfec7b64ab59e	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR13327203	chromosome	-	-	NODE_268_length_731_cov_29.026899	731	0.4856361149110807	aec86df4a4d5281a6543435d95e83514	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR13327203	chromosome	-	-	NODE_269_length_726_cov_18.470494	726	0.43112947658402206	45f16cfcd834ceaca3914bb72b640b38	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR13327203	chromosome	-	-	NODE_26_length_36567_cov_10.982149	36567	0.38649602100254327	284690d5c3086cb35b29fbd0f3cb6cdc	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR13327203	chromosome	-	-	NODE_270_length_694_cov_12.796639	694	0.2953890489913545	9e60be2e5be5dc298d6e99e87f0b10f8	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR13327203	chromosome	-	-	NODE_271_length_693_cov_40.117845	693	0.5339105339105339	979fc4db9e48893277226b9651c405e8	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR13327203	chromosome	-	-	NODE_273_length_675_cov_5.097222	675	0.28	c5d78bb44b97815489a4e017ceeb1a7a	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR13327203	chromosome	-	-	NODE_274_length_669_cov_5.787719	669	0.2914798206278027	fbc504c339045bae1c69aa62dfe811f3	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR13327203	chromosome	-	-	NODE_275_length_654_cov_427.742342	654	0.363914373088685	65d76f7eb5bbf1697cc9da088a04f0f1	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR13327203	chromosome	-	-	NODE_277_length_651_cov_4.608696	651	0.30721966205837176	bf9142a9330234f6995eeab5aad580e8	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR13327203	chromosome	-	-	NODE_278_length_647_cov_4.162409	647	0.28438948995363217	5269866552b32a6d829d06ff6d422021	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR13327203	chromosome	-	-	NODE_279_length_601_cov_17.834661	601	0.43760399334442596	c0cab2c890bbae709abc0f7120335859	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR13327203	chromosome	-	-	NODE_27_length_35425_cov_10.961813	35425	0.3978828510938603	156f3ca01f335b83bed7d9a1b9ae75ae	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR13327203	chromosome	-	-	NODE_280_length_582_cov_49.538302	582	0.39862542955326463	272d365e2d2097359c1d3e076fa94705	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR13327203	chromosome	-	-	NODE_281_length_540_cov_28.551020	540	0.3425925925925926	2d91abeb669d2929078c051282bb9a11	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR13327203	chromosome	-	-	NODE_282_length_540_cov_6.988662	540	0.3074074074074074	b3392bdb4d47592fdff9f8e07d17a4f7	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR13327203	chromosome	-	-	NODE_283_length_500_cov_35.107232	500	0.54	d06be21bbcfa0adbfbc1638680ad1604	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR13327203	chromosome	-	-	NODE_28_length_34817_cov_11.716545	34817	0.3832897722377	54e8f934c2ba6a8b8ef19489ec3f3658	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR13327203	chromosome	-	-	NODE_29_length_34358_cov_11.124113	34358	0.38579079108213515	d28222a12e0b9cfa580f7e2f4664f01c	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR13327203	chromosome	-	-	NODE_2_length_75239_cov_11.389074	75239	0.4045242493919377	0ba8a2852b268c55dbdc6a3b927c578d	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR13327203	chromosome	-	-	NODE_30_length_32981_cov_11.520893	32981	0.38895121433552654	59c53afaf7f61d53975c02bb35e1fd4c	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR13327203	chromosome	-	-	NODE_31_length_32749_cov_12.250904	32749	0.4038596598369416	3ab26e511813b447f6b853df7f03a72c	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR13327203	chromosome	-	-	NODE_32_length_30281_cov_11.761580	30281	0.41973514745219775	0755ea4ee46dfa5ddd520c3b8ba6c7ed	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR13327203	chromosome	-	-	NODE_33_length_29848_cov_11.643887	29848	0.3869941034575181	d171cc0beb06ed56bdb920d17df9966f	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR13327203	chromosome	-	-	NODE_34_length_29723_cov_11.263705	29723	0.3907075328869899	7e5a42bd0e2e7c29e844a7bfe75f645e	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR13327203	chromosome	-	-	NODE_35_length_29296_cov_10.397164	29296	0.3990647187329328	c9643d7d4e97b17bb7aa279da629b47d	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR13327203	chromosome	-	-	NODE_36_length_29101_cov_11.025757	29101	0.3987148207965362	13612d0312e62d5b092ab04042678a6e	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR13327203	chromosome	-	-	NODE_37_length_28522_cov_10.643000	28522	0.3979734941448706	2d6bd364ecb4d4e109eccf85687045ea	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR13327203	chromosome	-	-	NODE_38_length_28197_cov_11.959748	28197	0.39475830762137815	21673c4e769911fbd54f99e825d29ef1	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR13327203	chromosome	-	-	NODE_39_length_28145_cov_11.189403	28145	0.3988630307337005	3609d1e85f837e3d9b31ffad4b47fe29	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR13327203	chromosome	-	-	NODE_3_length_73445_cov_11.919028	73445	0.3972087956974607	d76563afbe4c4e9471f9cb98e41caede	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR13327203	chromosome	-	-	NODE_40_length_27725_cov_10.142692	27725	0.384165915238954	0b4bcdccc52fed6486a4203c19191cba	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR13327203	chromosome	-	-	NODE_41_length_27577_cov_11.797875	27577	0.4015665228269935	5f537ac3cf193a7252da569ed7961d3e	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR13327203	chromosome	-	-	NODE_42_length_27221_cov_11.100767	27221	0.3936299180779545	5b27ba106c0e53015237d240db894908	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR13327203	chromosome	-	-	NODE_43_length_26866_cov_12.613180	26866	0.39443906796694705	b3fff669f0adfbef7ff2e53ea20c8fe6	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR13327203	chromosome	-	-	NODE_44_length_26621_cov_11.786479	26621	0.3929980090905676	ff4ea5f9a6a2a58dd6e7fa0bc62f98d7	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR13327203	chromosome	-	-	NODE_45_length_26449_cov_9.824782	26449	0.4039094105637264	92622ba30f6ed1dde054dbd455baf2f8	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR13327203	chromosome	-	-	NODE_46_length_26253_cov_13.867401	26253	0.3906982059193235	e339c1b817d04d9b41f1fb4b5cec7306	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR13327203	chromosome	-	-	NODE_47_length_25994_cov_12.272833	25994	0.41282603677771795	b267651845b4026c55a91156420e87f5	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR13327203	chromosome	-	-	NODE_48_length_25664_cov_11.066536	25664	0.4055875935162095	96c85736b7e50e57ad34ff2c9fb76831	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR13327203	chromosome	-	-	NODE_49_length_25622_cov_12.935274	25622	0.39793927093903675	560dcac46eed6a7ddc606b4e74d6ea3f	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR13327203	chromosome	-	-	NODE_4_length_68653_cov_12.170318	68653	0.39355891221068273	05e6298fe7851113006ab0103dacfb94	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR13327203	chromosome	-	-	NODE_50_length_25535_cov_11.927701	25535	0.4072057959663207	c0a4b76ab4dfe98844e80a009d0f8f28	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR13327203	chromosome	-	-	NODE_51_length_25395_cov_10.503479	25395	0.38924985233313647	80607320d3523a0e1bfdb948ab3e1bdf	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR13327203	chromosome	-	-	NODE_52_length_25175_cov_10.669445	25175	0.3877656405163853	0043418c1aa5757042fd1fe630efeb51	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR13327203	plasmid	AB082	AJ649	NODE_53_length_25108_cov_8.740973	25108	0.35789389835908875	81a1ce7cecf0640f0916f5c6e29d3e6d	not tested	-	-	-	-	MPF_F,MPF_F,MPF_F,MPF_F,MPF_F,MPF_F,MPF_F,MPF_F,MPF_F,MPF_T	NC_010606_00071,NC_010606_00072,NC_010606_00075,NC_010606_00078,NC_010606_00079,NC_010606_00080,NZ_AEOY01000095_00077,NC_017163_00052,NC_017163_00053,NC_010606_00076	-	-	-	CP033857	0.00956826	Acinetobacter sp. FDAARGOS_493	-	-	-
+SRR13327203	chromosome	-	-	NODE_54_length_25062_cov_19.533109	25062	0.4212353363658128	1ac14c5b26049f2c8a6478eb85bb6853	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR13327203	chromosome	-	-	NODE_55_length_25050_cov_11.444431	25050	0.39840319361277443	af91bca93fae46a3a21341752b3fcbf8	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR13327203	chromosome	-	-	NODE_56_length_24972_cov_12.357416	24972	0.3978856319077367	acdcffc37cd6cc75fe90ed31473e9395	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR13327203	chromosome	-	-	NODE_57_length_24792_cov_10.357956	24792	0.37471765085511455	f82e250909735121bf27ceb6ffa6864d	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR13327203	plasmid	AE272	AO018	NODE_58_length_24655_cov_11.921445	24655	0.3915635773676739	2d0f9d2e0458e0e7d933e22e1f882236	not tested	-	-	-	-	-	-	-	-	-	CP036285	0.0146108	Acinetobacter baumannii	-	-	-
+SRR13327203	chromosome	-	-	NODE_59_length_24654_cov_11.544899	24654	0.3983937697736676	f88b047161ae74fdea6ad09963c0d33c	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR13327203	chromosome	-	-	NODE_5_length_67594_cov_11.579910	67594	0.40558333579903544	52e34db8b2c5daea4e8ad12c12d47e2f	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR13327203	chromosome	-	-	NODE_60_length_24603_cov_13.097617	24603	0.39771572572450514	6ec05020581566bc52e5bdd222f6a11a	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR13327203	chromosome	-	-	NODE_61_length_24421_cov_11.271195	24421	0.38929609762090006	e2c137a218a74772dd6b17ac474e1b1d	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR13327203	chromosome	-	-	NODE_62_length_23861_cov_12.423365	23861	0.39918695779724234	2238af400c41481d8936fdf483fadb00	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR13327203	chromosome	-	-	NODE_63_length_23848_cov_12.597499	23848	0.39311472660181146	8364134f04d02db0a8fda65473a4f8d1	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR13327203	chromosome	-	-	NODE_64_length_23760_cov_12.595114	23760	0.40824915824915825	e13723491b4cf0c9d021c06553ec8447	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR13327203	plasmid	AE272	AO018	NODE_65_length_23739_cov_9.634560	23739	0.3760057289692068	876ee243767d8658291fa873d69f588f	not tested	-	-	-	-	-	-	-	-	-	CP036285	0.0146108	Acinetobacter baumannii	-	-	-
+SRR13327203	chromosome	-	-	NODE_66_length_23551_cov_11.313363	23551	0.3851641119273067	d3d5213fd0cfb8cc1d1643fee750a18a	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR13327203	chromosome	-	-	NODE_67_length_23279_cov_10.669327	23279	0.37733579621117747	5f2b3c28503d17e29d82528c5f4e314c	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR13327203	chromosome	-	-	NODE_68_length_22865_cov_12.393833	22865	0.3848239667614258	c1e1212590862b205e6298c9596ed0f6	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR13327203	chromosome	-	-	NODE_69_length_22405_cov_12.065585	22405	0.3912519526891319	c65cc010e04e10ef8ed58346075933be	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR13327203	chromosome	-	-	NODE_6_length_65833_cov_12.054797	65833	0.40900460255494964	e36eeb784b43fc7794f82439b57ed3c5	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR13327203	chromosome	-	-	NODE_70_length_22053_cov_11.312654	22053	0.3817621185326259	8770a3e4891bef2a9d7da2f4b17764df	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR13327203	chromosome	-	-	NODE_71_length_21837_cov_11.828925	21837	0.3929569080001832	c26798e5823f5939559fc8a36be7cd4d	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR13327203	plasmid	AE272	AO018	NODE_72_length_21682_cov_11.272390	21682	0.3800848630200166	ee33d2b4908de9add25bb9411ce1b36a	not tested	-	-	-	-	-	-	-	-	-	CP036285	0.0146108	Acinetobacter baumannii	-	-	-
+SRR13327203	chromosome	-	-	NODE_73_length_21510_cov_12.418663	21510	0.39865178986517896	ecb4ef0f8fe194f4e17e3cdbbfa6cd88	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR13327203	chromosome	-	-	NODE_74_length_21392_cov_11.446391	21392	0.406413612565445	305decba35527735b585c9e8441b92a8	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR13327203	chromosome	-	-	NODE_75_length_21254_cov_11.582699	21254	0.41069916251058625	6a59203edfd26f93a8f29b9ebb7c9f9e	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR13327203	chromosome	-	-	NODE_76_length_21246_cov_11.516217	21246	0.40407606137625907	00195ce5f68280fd835363ba52e35e7e	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR13327203	plasmid	AH171	-	NODE_77_length_20441_cov_14.203077	20441	0.40810136490386967	bf55d8fbb036850da5b3b4b6805ead36	not tested	-	-	-	-	-	-	-	-	-	CP039027	0.0313762	Acinetobacter baumannii ATCC 17978	-	-	-
+SRR13327203	chromosome	-	-	NODE_78_length_20305_cov_11.088884	20305	0.3905442009357301	d16c3564ab3878742d0ba5222178fe58	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR13327203	chromosome	-	-	NODE_79_length_19030_cov_10.590671	19030	0.38470835522858643	6f01165d5926d6a74c5f96000bac925d	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR13327203	chromosome	-	-	NODE_7_length_58478_cov_10.463643	58478	0.37268716440370736	843a152d92012234df1cdbd43df2bd6c	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR13327203	chromosome	-	-	NODE_80_length_18961_cov_11.614304	18961	0.39486314012974	9f0d682193de73b5d5f6531ffb41c321	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR13327203	chromosome	-	-	NODE_81_length_18542_cov_11.470314	18542	0.39752993204616544	9efd5854722d88c69149d4587201e734	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR13327203	chromosome	-	-	NODE_82_length_18378_cov_12.277750	18378	0.38649472195015777	b30c0a98d02ec780c1ea2443fdbb4d05	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR13327203	chromosome	-	-	NODE_83_length_18284_cov_10.985538	18284	0.4209144607306935	da8a27e3dc408dd9ce182731fc84671d	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR13327203	chromosome	-	-	NODE_84_length_18252_cov_9.656861	18252	0.37442472057856674	214bca6e9dbb494c66195d214e50a620	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR13327203	plasmid	AE271	AO017	NODE_85_length_18235_cov_10.262075	18235	0.3836029613380861	702874d7055a5a9d500c27c72029da04	not tested	-	-	-	-	-	-	-	-	-	CP039931	0.0200167	Acinetobacter baumannii	-	-	-
+SRR13327203	chromosome	-	-	NODE_86_length_18136_cov_9.668182	18136	0.38139611821790914	4a4296dc399dbe543b4a57015c5f637f	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR13327203	chromosome	-	-	NODE_87_length_17911_cov_12.675275	17911	0.39121210429345094	d42c680b57fea01ff7f1d68c52325f5f	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR13327203	chromosome	-	-	NODE_88_length_17883_cov_9.741678	17883	0.3702958116647095	2db9601c81196669a04a5c234e1adac1	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR13327203	chromosome	-	-	NODE_89_length_17845_cov_11.944776	17845	0.3847015970860185	4bfe7cd7ecf3e893fdb122b7c4fb33e8	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR13327203	chromosome	-	-	NODE_8_length_56794_cov_11.753894	56794	0.3858506180230306	ce5fe03b2e547a852f07dddd2bede694	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR13327203	chromosome	-	-	NODE_90_length_17041_cov_15.086649	17041	0.410480605598263	a2862ed6106fdeb22ef3e4a1ecd67a98	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR13327203	chromosome	-	-	NODE_91_length_16920_cov_11.232507	16920	0.38250591016548463	4f34af087990543b77bc200a89461b35	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR13327203	chromosome	-	-	NODE_92_length_16917_cov_12.302533	16917	0.39451439380504816	3875ebea37ae7390d019bc1cd3bbe516	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR13327203	chromosome	-	-	NODE_93_length_16770_cov_12.045888	16770	0.39916517590936196	87e50833aa4bd8adbf434e4eaf429858	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR13327203	chromosome	-	-	NODE_94_length_16703_cov_9.698627	16703	0.359336646111477	fa9b82e48cf0b09cf266742d19e13397	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR13327203	chromosome	-	-	NODE_95_length_16672_cov_12.492186	16672	0.3866362763915547	66c065ff9ee73ce9a0bf32f00616e3bd	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR13327203	chromosome	-	-	NODE_96_length_16649_cov_13.580060	16649	0.41690191603099286	601093b9d4a93cafc29a1befb1453a9e	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR13327203	chromosome	-	-	NODE_97_length_16612_cov_17.435415	16612	0.4264989164459427	342f43c0c5c6685ae79059ce49dc5085	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR13327203	chromosome	-	-	NODE_98_length_16529_cov_10.779976	16529	0.40474317865569603	eda3a4ee14bc9e9babbe0e566371356c	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR13327203	chromosome	-	-	NODE_99_length_15414_cov_11.881293	15414	0.4025561178149734	590268bfaab60af4171264ae1f4af2ca	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR13327203	chromosome	-	-	NODE_9_length_53286_cov_13.602102	53286	0.40550989002739934	433ed1c24b7e77b2c695f38ea6c0ca02	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-

@@ -1,0 +1,56 @@
+sample_id	molecule_type	primary_cluster_id	secondary_cluster_id	contig_id	size	gc	md5	circularity_status	rep_type(s)	rep_type_accession(s)	relaxase_type(s)	relaxase_type_accession(s)	mpf_type	mpf_type_accession(s)	orit_type(s)	orit_accession(s)	predicted_mobility	mash_nearest_neighbor	mash_neighbor_distance	mash_neighbor_identification	repetitive_dna_id	repetitive_dna_type	filtering_reason
+ERR6938111	chromosome	-	-	NODE_10_length_150314_cov_18.601132	150314	0.39065556102558646	03fe25f32b7a83388a92439855b38768	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR6938111	chromosome	-	-	NODE_11_length_148272_cov_14.577555	148272	0.39118646811265784	362fe2dc216e1cad9db46026bc9ca339	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR6938111	chromosome	-	-	NODE_12_length_146607_cov_13.936195	146607	0.39007687218209225	022279772cbeb153ff349a9668eb645b	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR6938111	chromosome	-	-	NODE_13_length_120023_cov_18.887248	120023	0.4026644893062163	9dd3ad5ad3d717191e4c813b627a16f3	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR6938111	chromosome	-	-	NODE_14_length_118999_cov_15.711463	118999	0.38141496987369644	48117e974113ee815f2b6debd8d7f4b8	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR6938111	chromosome	-	-	NODE_15_length_107611_cov_17.622749	107611	0.3851291018676985	b27456b3de2f033da4373104137172dd	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR6938111	chromosome	-	-	NODE_16_length_98098_cov_18.154777	98098	0.3925870048319028	7547d2bbdd7653f0542577d3e84a2df6	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR6938111	chromosome	-	-	NODE_17_length_85396_cov_20.038724	85396	0.4066349711930301	7de72190fc6d6c0a60e1903117c64b50	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR6938111	chromosome	-	-	NODE_18_length_72934_cov_16.228434	72934	0.3903117887405051	41511484395e8a8103a359f85dc2bdd8	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR6938111	chromosome	-	-	NODE_19_length_71288_cov_20.631952	71288	0.39247839748625296	f3899196ade6bdb64ed9cea9b8578c90	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR6938111	chromosome	-	-	NODE_1_length_436986_cov_14.160879	436986	0.3786803238547688	a711a118e311ad5fabeb813c5c3dd9af	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR6938111	chromosome	-	-	NODE_20_length_66214_cov_18.224291	66214	0.3937233817621651	4cb489d2251ea9f1ab95db00feb30de8	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR6938111	chromosome	-	-	NODE_21_length_59502_cov_19.122738	59502	0.38739874289939835	3cfc7070b34d98fcf67f3a40e854943e	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR6938111	chromosome	-	-	NODE_22_length_52446_cov_13.800008	52446	0.3831178736223926	39504168010b8f57a702ba6977945ef2	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR6938111	chromosome	-	-	NODE_23_length_50628_cov_20.631815	50628	0.38426677221452604	ea18bdf1d5edcf366f1f24fc2ce1cf6d	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR6938111	chromosome	-	-	NODE_24_length_49871_cov_16.876155	49871	0.39830763369493294	17f6630b4351267ba564ef8e87a35c89	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR6938111	chromosome	-	-	NODE_25_length_40751_cov_18.690224	40751	0.3857328654511546	842f00dfb5772183c577d60ca3c3e1f5	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR6938111	chromosome	-	-	NODE_26_length_40666_cov_16.641383	40666	0.37879309496877	7ccd3ce325152f5109507ac1524f6a4c	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR6938111	chromosome	-	-	NODE_27_length_31919_cov_20.005814	31919	0.3893292396378333	e69044943aa01b56e9e7ee61d8419722	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR6938111	chromosome	-	-	NODE_28_length_26543_cov_18.477424	26543	0.3932486908036017	fc9fd7c7662633cd93fbdb6b2d973c90	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR6938111	chromosome	-	-	NODE_29_length_17155_cov_15.793328	17155	0.3799475371611775	2e0cf13b71b8229b9c51203f92c35bca	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR6938111	chromosome	-	-	NODE_2_length_289242_cov_16.355184	289242	0.38396913311344827	b26744c5eb0dbbc22f2c63068f723d91	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR6938111	chromosome	-	-	NODE_30_length_16307_cov_16.609699	16307	0.4230085239467713	0b36489daed19da3f2bbc2a273e5fabc	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR6938111	chromosome	-	-	NODE_31_length_15168_cov_23.472161	15168	0.6001450421940928	d866c7a974b9b304e15ed379f707a185	not tested	-	-	-	-	-	-	-	-	-	-	-	-	CP001182	IS15	repetitve element
+ERR6938111	chromosome	-	-	NODE_32_length_13229_cov_16.598477	13229	0.3719857887973392	3133a42417349500e185ac2660cdd167	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR6938111	chromosome	-	-	NODE_33_length_10471_cov_17.220980	10471	0.36777767166459746	117e0d128c43b4c499f2d3f4b344c2db	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR6938111	plasmid	AC163	AL241	NODE_34_length_10316_cov_92.057845	10316	0.3559519193485847	85040171fc8c87629471935f5a6eda55	not tested	rep_cluster_1172	000454__KY202458_00008	-	-	-	-	-	-	-	MG954378	0.00387578	Acinetobacter baumannii	-	-	-
+ERR6938111	chromosome	-	-	NODE_35_length_8774_cov_21.011297	8774	0.38910417141554593	6b19b4d4710f7caa58ab8e05ee865668	not tested	-	-	-	-	-	-	-	-	-	-	-	-	CP001182	IS15	repetitve element
+ERR6938111	chromosome	-	-	NODE_36_length_8336_cov_83.876776	8336	0.3621641074856046	0b5ff750c0453bc71486e5cbd1b67efd	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR6938111	chromosome	-	-	NODE_37_length_7002_cov_19.372592	7002	0.40616966580976865	4d9d779c0c5ef1a3a7c6e82085972764	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR6938111	plasmid	AC715	-	NODE_38_length_6676_cov_14.681770	6676	0.3663870581186339	c2c2e234b9da407bf3be1ce19a6ca895	not tested	-	-	-	-	-	-	-	-	-	CP015485	0.0332581	Acinetobacter baumannii	-	-	-
+ERR6938111	chromosome	-	-	NODE_39_length_6123_cov_15.359894	6123	0.33610975012248895	94fbfe12b2ddf8565e66c50b5d8bda4a	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR6938111	chromosome	-	-	NODE_3_length_274825_cov_19.491191	274825	0.3957427453834258	2f546e7c16a3a2a8f6d8890a72589251	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR6938111	chromosome	-	-	NODE_40_length_5558_cov_102.761128	5558	0.48812522490104354	c5d53af9cdd548a772a55a90d9a132b2	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR6938111	chromosome	-	-	NODE_41_length_3987_cov_17.681842	3987	0.3152746425884123	a2dbd3e69dfecea87a3c3fc4506bad3c	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR6938111	chromosome	-	-	NODE_42_length_3231_cov_49.167305	3231	0.5571030640668524	84d53940683d8fb08a6cda2d8f8349b9	not tested	-	-	-	-	-	-	-	-	-	-	-	-	CP001182,KX243407,KY437727	IS15,ISMrsp3,ISShfr9	repetitve element
+ERR6938111	chromosome	-	-	NODE_43_length_2906_cov_20.641610	2906	0.3723331039229181	f19c58981bfd370030eaa529423efc45	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR6938111	plasmid	AC163	AL241	NODE_44_length_2639_cov_13.052362	2639	0.36756347101174686	f95f495b1433377c0dfd7194cadca357	not tested	-	-	-	-	-	-	-	-	-	MG954378	0.00387578	Acinetobacter baumannii	-	-	-
+ERR6938111	plasmid	AC715	-	NODE_45_length_2219_cov_35.454245	2219	0.38440739071653895	2c4c3160401795ea2cc23fddbf02b75e	not tested	-	-	-	-	-	-	-	-	-	CP015485	0.0332581	Acinetobacter baumannii	CP001182	IS15	repetitve element
+ERR6938111	chromosome	-	-	NODE_46_length_1929_cov_32.539891	1929	0.4204250907205806	283bdfd6e9f428dff5ffe02ac2eb2128	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR6938111	chromosome	-	-	NODE_47_length_1296_cov_64.155388	1296	0.5007716049382716	1780e6d308c2aec6dca4de01804593c6	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR6938111	plasmid	AC163	AL241	NODE_48_length_1124_cov_356.360976	1124	0.35498220640569395	79473e1369bcc7fbfd3ec8108eb5d8f8	not tested	-	-	-	-	-	-	-	-	-	MG954378	0.00387578	Acinetobacter baumannii	MF805806,KY216144,KY437727	IS1006,ISAba33,ISShfr9	repetitve element
+ERR6938111	plasmid	AC715	-	NODE_49_length_1095_cov_20.259036	1095	0.33515981735159817	4643ff2d81ab131baa54028d0f60181d	not tested	-	-	-	-	-	-	-	-	-	CP015485	0.0332581	Acinetobacter baumannii	JQ241792	ISC1041	repetitve element
+ERR6938111	chromosome	-	-	NODE_4_length_243471_cov_17.525985	243471	0.39672486661655804	b64f5671c62db3896af464a5fcba7f38	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR6938111	plasmid	AC715	-	NODE_50_length_1088_cov_54.570273	1088	0.3694852941176471	7786b92adc396b6d551811ea66a4531f	not tested	-	-	-	-	-	-	-	-	-	CP015485	0.0332581	Acinetobacter baumannii	KF702385,MF458176	ISAba125,ISKox3	repetitve element
+ERR6938111	plasmid	AC715	-	NODE_51_length_1039_cov_155.470213	1039	0.40038498556304136	fa9cc5d696914a1c373a42662a838685	not tested	-	-	-	-	-	-	-	-	-	CP015485	0.0332581	Acinetobacter baumannii	CP001182	ISAlw1	repetitve element
+ERR6938111	chromosome	-	-	NODE_52_length_828_cov_31.903978	828	0.427536231884058	1c0f084ff4bd760058e88b8413356ef0	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR6938111	chromosome	-	-	NODE_53_length_655_cov_35.138489	655	0.38778625954198476	8c97e2724cec9fe49a95a86df9e063bb	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR6938111	chromosome	-	-	NODE_54_length_586_cov_14.016427	586	0.28668941979522183	a38bef71554b732ebea5a802629e1976	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR6938111	chromosome	-	-	NODE_55_length_533_cov_21.013825	533	0.4352720450281426	f0ba249f0829cd10a3313426514d284a	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR6938111	chromosome	-	-	NODE_5_length_231089_cov_15.404372	231089	0.38606770551605657	c996e17275cae32687ebdd9a35449433	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR6938111	chromosome	-	-	NODE_6_length_200486_cov_19.298443	200486	0.4046566842572549	f7eb5d0085b1e5083412c9db21326d1e	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR6938111	chromosome	-	-	NODE_7_length_198846_cov_14.641937	198846	0.3748579302575863	3f3d3f6f2edee9a1b99046fb9ada7170	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR6938111	chromosome	-	-	NODE_8_length_189721_cov_16.944279	189721	0.38673631279615855	5b2500ddea394d63ed0838b9f3fb65a3	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR6938111	chromosome	-	-	NODE_9_length_187953_cov_20.153220	187953	0.3966523545780062	f91b3ed68d77589b36ab9e9f10b63beb	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-

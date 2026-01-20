@@ -1,0 +1,88 @@
+sample_id	molecule_type	primary_cluster_id	secondary_cluster_id	contig_id	size	gc	md5	circularity_status	rep_type(s)	rep_type_accession(s)	relaxase_type(s)	relaxase_type_accession(s)	mpf_type	mpf_type_accession(s)	orit_type(s)	orit_accession(s)	predicted_mobility	mash_nearest_neighbor	mash_neighbor_distance	mash_neighbor_identification	repetitive_dna_id	repetitive_dna_type	filtering_reason
+ERR3569450	chromosome	-	-	NODE_10_length_128628_cov_17.947174	128628	0.38252169045619927	520929aee634d1c3a8964aa8d99731f8	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR3569450	chromosome	-	-	NODE_11_length_116471_cov_19.072906	116471	0.39841677327403385	f9684a9d61cffb946258d297072514cd	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR3569450	chromosome	-	-	NODE_12_length_106034_cov_18.224153	106034	0.3929588622517306	def36db462e65f37868103fab7b7eba9	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR3569450	chromosome	-	-	NODE_13_length_105631_cov_18.226875	105631	0.3850017056437858	2b655f83f66df23fd72c4a967e01d9c0	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR3569450	chromosome	-	-	NODE_14_length_98060_cov_18.371812	98060	0.39221904956149295	ddb0c6816a1c8cc6a5658ffe4aa56e35	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR3569450	chromosome	-	-	NODE_15_length_89474_cov_18.357856	89474	0.3987080045599839	db7a658c15d0454b2f65bb177b4b7d9a	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR3569450	chromosome	-	-	NODE_16_length_87387_cov_17.854648	87387	0.3915685399430121	2c36304fcb0dadf92e78ae6149733919	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR3569450	chromosome	-	-	NODE_17_length_75365_cov_18.524333	75365	0.3968420354275857	d859ffb70db6316aeecb929356c0c101	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR3569450	chromosome	-	-	NODE_18_length_72212_cov_18.468040	72212	0.3844513377278015	7099bf1348a497c32e9293a892dc17ea	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR3569450	chromosome	-	-	NODE_19_length_68944_cov_18.576631	68944	0.40019436064051983	c9741cdc822939b1af43352cc4d8c863	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR3569450	chromosome	-	-	NODE_1_length_506483_cov_17.216466	506483	0.3827413753275036	8e390118ef76c267a482897d658458e3	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR3569450	chromosome	-	-	NODE_20_length_65912_cov_18.467397	65912	0.381053525913339	6a76d7d2852e80184b600815657c92ba	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR3569450	chromosome	-	-	NODE_21_length_64234_cov_18.377562	64234	0.39122583055702587	f44e681ffd5ff065f018f300b162073c	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR3569450	chromosome	-	-	NODE_22_length_62317_cov_24.114938	62317	0.3890752122213842	a7b22cf2debcdbe211619073045273c4	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR3569450	chromosome	-	-	NODE_23_length_50417_cov_18.422093	50417	0.38431481444750776	e686393f17e7cdd102fe78f7eade0155	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR3569450	chromosome	-	-	NODE_24_length_48155_cov_21.271859	48155	0.38583740006229883	81d578f7d2693692c7aec84a9ad71e10	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR3569450	chromosome	-	-	NODE_25_length_47565_cov_17.399895	47565	0.37142857142857144	3a7579cec6e1e5df5bf8931a1e075964	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR3569450	chromosome	-	-	NODE_26_length_43950_cov_18.630587	43950	0.3607963594994312	0a9792de40d075cb8a32ae36a9dd135f	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR3569450	chromosome	-	-	NODE_27_length_43164_cov_19.152614	43164	0.3963024742841257	f80e28d0335bdb04d491b2ed9ab05fff	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR3569450	chromosome	-	-	NODE_28_length_42562_cov_18.724881	42562	0.3752878154222076	b1e6448fc848e5cfa4ff68c72418d1e8	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR3569450	chromosome	-	-	NODE_29_length_40442_cov_18.340129	40442	0.3989169675090253	59a59fc1d148a24d957c9bb067f37b78	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR3569450	chromosome	-	-	NODE_2_length_339993_cov_18.713572	339993	0.40646964503743804	9bca73ab9bd8016d7a3ae328f9156f63	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR3569450	chromosome	-	-	NODE_30_length_36716_cov_19.042275	36716	0.399117550931474	a3f509465d6ac85f452d33fe10f938d8	not tested	rep_cluster_2288	CP032289_00012	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR3569450	chromosome	-	-	NODE_31_length_36515_cov_17.587651	36515	0.3906613720388881	ad408a645dcd978339a9ad69aa40a1a6	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR3569450	chromosome	-	-	NODE_32_length_31068_cov_17.447520	31068	0.40720355349555815	cc2ebac6f452cbca3d74a7df2e1855e8	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR3569450	chromosome	-	-	NODE_33_length_26477_cov_18.352057	26477	0.393284737696869	3f5c2a7e86eeac9b71bd24c2ccc09076	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR3569450	chromosome	-	-	NODE_34_length_24792_cov_19.243962	24792	0.39867699257825107	fc22c0c2165e5a2987ab0a5f36b49811	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR3569450	chromosome	-	-	NODE_35_length_24025_cov_19.354196	24025	0.3918834547346514	1d525527f55047740b7169f3bdb868d9	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR3569450	chromosome	-	-	NODE_36_length_19729_cov_17.116770	19729	0.3404125906026661	bebfcf827d7ba17862217161fbb5745a	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR3569450	chromosome	-	-	NODE_37_length_16522_cov_17.843072	16522	0.36853891780656095	22805785d9241eda307478b05ed2e95d	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR3569450	plasmid	AC716	-	NODE_38_length_9863_cov_19.187679	9863	0.4119436276994829	9f11344d476009d8ff61e7d8689d2260	not tested	rep_cluster_1254	000562__KT346360_00001	-	-	-	-	-	-	-	CP020596	0.0421447	Acinetobacter baumannii	KF306092,KF512015	IS1394,ISPsp2	repetitve element
+ERR3569450	plasmid	AC716	-	NODE_39_length_9533_cov_20.259780	9533	0.343648379313962	d8e46dd04ad4f00678c669818fb1184f	not tested	-	-	-	-	-	-	-	-	-	CP020596	0.0421447	Acinetobacter baumannii	-	-	-
+ERR3569450	chromosome	-	-	NODE_3_length_295889_cov_18.550704	295889	0.39555427837317014	24d8a08b6cddca989e72f1f045f9c639	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR3569450	plasmid	AC163	AL241	NODE_40_length_8806_cov_391.741267	8806	0.3441971383147854	e1aed1b06fa9535a948cc78c590f4c6f	not tested	rep_cluster_1172	000454__KY202458_00008	-	-	-	-	-	-	-	MG954378	0.00249129	Acinetobacter baumannii	-	-	-
+ERR3569450	plasmid	AC716	-	NODE_41_length_8160_cov_19.387260	8160	0.508578431372549	0dc6318f18efaee19c490e129877d5a3	not tested	-	-	-	-	-	-	-	-	-	CP020596	0.0421447	Acinetobacter baumannii	-	-	-
+ERR3569450	chromosome	-	-	NODE_42_length_8073_cov_15.935109	8073	0.6303728477641521	fee50eb4a55073791f4e4b12eddce303	not tested	-	-	-	-	-	-	-	-	-	-	-	-	KY978629	IS5D	repetitve element
+ERR3569450	plasmid	AF972	-	NODE_43_length_6201_cov_28.552400	6201	0.3923560716013546	45211dd1006eab08fcc79c4b37ccee63	not tested	-	-	-	-	-	-	-	-	-	CP040044	0.0549966	Acinetobacter baumannii	-	-	-
+ERR3569450	chromosome	-	-	NODE_44_length_5833_cov_212.269017	5833	0.3600205726041488	25358b34abbfacd92774fb289ec40e5e	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR3569450	chromosome	-	-	NODE_45_length_5657_cov_111.075242	5657	0.48821730527073215	9fda6f4f41d6485455429eb703c21d02	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR3569450	chromosome	-	-	NODE_46_length_5655_cov_19.040143	5655	0.3736516357206012	85a7763ff3b0c7d38b465637cd252a7e	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR3569450	chromosome	-	-	NODE_47_length_5575_cov_22.224909	5575	0.391390134529148	328601ab2751bfc9f186802674b2902f	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR3569450	chromosome	-	-	NODE_48_length_5027_cov_20.024637	5027	0.36582454744380344	6c17ddc7966ceb51e14a1678cdc61453	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR3569450	plasmid	AC716	-	NODE_49_length_4810_cov_36.180359	4810	0.507068607068607	158b5365b8e213e18750ca531e55ac98	not tested	-	-	-	-	-	-	-	-	-	CP020596	0.0421447	Acinetobacter baumannii	-	-	-
+ERR3569450	chromosome	-	-	NODE_4_length_249556_cov_18.417851	249556	0.3952820348230763	044d8751ff7854122f982d8e3a65e893	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR3569450	chromosome	-	-	NODE_50_length_4711_cov_26.120147	4711	0.41583527913394186	28381a420fd14a9d7e0c3213bb3c5946	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR3569450	chromosome	-	-	NODE_51_length_4705_cov_19.195032	4705	0.34495217853347504	86ccb9f3e9483763996a8ac3757043f6	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR3569450	plasmid	novel_2610a0712740ab0b7c9b34b6bb037033	-	NODE_52_length_4413_cov_19.619640	4413	0.33786539768864715	d3a13bb047d2b4821109f9a6507068b5	not tested	-	-	MOBQ	NZ_ALIR01000019_00003	-	-	-	-	-	CP033533	0.0690061	Acinetobacter pittii	-	-	-
+ERR3569450	plasmid	AF972	-	NODE_53_length_2996_cov_45.192058	2996	0.4068758344459279	3f691aa93994ce4ccbade65e9bf2eca8	not tested	-	-	-	-	-	-	-	-	-	CP040044	0.0549966	Acinetobacter baumannii	-	-	-
+ERR3569450	plasmid	AC716	-	NODE_54_length_2861_cov_19.507179	2861	0.45718280321565885	59a02702d95847964da95b533975bee9	not tested	-	-	-	-	-	-	-	-	-	CP020596	0.0421447	Acinetobacter baumannii	-	-	-
+ERR3569450	plasmid	AB878	AK844	NODE_55_length_2800_cov_1824.555963	2800	0.3775	be2e4ee0d1f7d8cd219a3a8e2c18cf75	not tested	rep_cluster_420	001756__CU459139_00001	-	-	-	-	-	-	-	CP021783	0.00113443	Acinetobacter baumannii	-	-	-
+ERR3569450	plasmid	AC716	-	NODE_56_length_2780_cov_22.559335	2780	0.5172661870503598	547bcf59dd80cc9dd56a09588973d825	not tested	-	-	-	-	-	-	-	-	-	CP020596	0.0421447	Acinetobacter baumannii	CP020856.1	integron_1	repetitve element
+ERR3569450	plasmid	AC716	-	NODE_57_length_2650_cov_35.425631	2650	0.3841509433962264	fc40d3e6a582f43441eac413cbdbb27f	not tested	-	-	-	-	-	-	-	-	-	CP020596	0.0421447	Acinetobacter baumannii	-	-	-
+ERR3569450	plasmid	AC716	-	NODE_58_length_2560_cov_25.251107	2560	0.615625	508111c45c0f1fb070fc3bebcdb87d5e	not tested	-	-	-	-	-	-	-	-	-	CP020596	0.0421447	Acinetobacter baumannii	-	-	-
+ERR3569450	plasmid	AC163	AL241	NODE_59_length_2445_cov_52.836905	2445	0.37382413087934563	bd16752f1b4d238285b6ca65e976afd2	not tested	-	-	-	-	-	-	-	-	-	MG954378	0.00249129	Acinetobacter baumannii	-	-	-
+ERR3569450	chromosome	-	-	NODE_5_length_202880_cov_18.026232	202880	0.3865486987381703	c4c2f89f27d37ac037c61bc2bbf1a15e	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR3569450	plasmid	AF972	-	NODE_60_length_2183_cov_42.881879	2183	0.429225836005497	e288a4495c96ab122836eae951c3c9ce	not tested	-	-	-	-	-	-	-	-	-	CP040044	0.0549966	Acinetobacter baumannii	-	-	-
+ERR3569450	plasmid	AF972	-	NODE_61_length_2142_cov_45.532656	2142	0.4042950513538749	59f9961e2ded24695b52e1a9f387b608	not tested	-	-	-	-	-	-	-	-	-	CP040044	0.0549966	Acinetobacter baumannii	-	-	-
+ERR3569450	chromosome	-	-	NODE_62_length_1962_cov_19.677795	1962	0.3129459734964322	4a69f2b13c530b995a19a5efcb33fd7b	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR3569450	plasmid	AC716	-	NODE_63_length_1813_cov_39.725547	1813	0.5427468284611142	93c6fcd9193aadead99d9863ee5ae839	not tested	-	-	-	-	-	-	-	-	-	CP020596	0.0421447	Acinetobacter baumannii	MF805806,KF306092,AF174129,FJ384365,FJ410928,EU780013,KF512015	IS1006,IS1394,IS3000,ISEc28,ISEc29,ISPam4,ISPsp2	repetitve element
+ERR3569450	plasmid	novel_2610a0712740ab0b7c9b34b6bb037033	-	NODE_64_length_1747_cov_19.617823	1747	0.34230108757870636	2440a193f506f982d7639d57fc890263	not tested	-	-	-	-	-	-	-	-	-	CP033533	0.0690061	Acinetobacter pittii	-	-	-
+ERR3569450	chromosome	-	-	NODE_65_length_1660_cov_19.081388	1660	0.5475903614457831	b7414b73aff544af4d14e29b4a08f46d	not tested	-	-	-	-	-	-	-	-	-	-	-	-	CP001182	IS15	repetitve element
+ERR3569450	chromosome	-	-	NODE_66_length_1402_cov_16.542577	1402	0.4600570613409415	43255ec511f8e82f3e6a81db48220372	not tested	-	-	-	-	-	-	-	-	-	-	-	-	CP001182	IS15	repetitve element
+ERR3569450	plasmid	AC716	-	NODE_67_length_1139_cov_18.810150	1139	0.520632133450395	1caa25f51d17cf609d3c38f29868d0e5	not tested	-	-	-	-	-	-	-	-	-	CP020596	0.0421447	Acinetobacter baumannii	M95402,KC354801,MF372716,KY437728,JQ899055,KX009061	IS1133,ISPa14,ISPmi2,ISPst9,Tn3,Tn5393	repetitve element
+ERR3569450	plasmid	AC716	-	NODE_68_length_1087_cov_337.152174	1087	0.3689052437902484	9b6cf0e0897a8365d238aa5fba0c5b4f	not tested	-	-	-	-	-	-	-	-	-	CP020596	0.0421447	Acinetobacter baumannii	KF702385,MF458176	ISAba125,ISKox3	repetitve element
+ERR3569450	plasmid	AC716	-	NODE_69_length_1086_cov_47.191889	1086	0.6003683241252302	2e6d17d40c6f033953366b84133b935a	not tested	-	-	-	-	-	-	-	-	-	CP020596	0.0421447	Acinetobacter baumannii	U12338,MF805806,KF306092,CP001182,AF174129,FJ384365,KC543497,KY852375,EU780013,MF372716,LT630458,JQ899055,MG764534,CP020856.1	-,IS1006,IS1394,IS15,IS3000,ISEc28,ISPa40,ISPa55,ISPam4,ISPmi2,ISVch4,Tn3,TnAs3,integron_1	repetitve element
+ERR3569450	chromosome	-	-	NODE_6_length_178594_cov_18.057478	178594	0.3850101403968761	0501176e036e1be243fbb120c49d91a6	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR3569450	plasmid	AF972	-	NODE_70_length_1051_cov_44.966189	1051	0.42055185537583256	f2fafd1455214d41e2fe0812c312c59b	not tested	-	-	-	-	-	-	-	-	-	CP040044	0.0549966	Acinetobacter baumannii	-	-	-
+ERR3569450	plasmid	AE272	-	NODE_71_length_1018_cov_495.445387	1018	0.3644400785854617	27d7ce48587f0d36ad6066ec56091a7a	not tested	-	-	-	-	-	-	-	-	-	CP036285	0.0275126	Acinetobacter baumannii	MF805806,CP001182,KY216144,KY437727	IS1006,ISAba1,ISAba33,ISShfr9	repetitve element
+ERR3569450	chromosome	-	-	NODE_72_length_999_cov_110.436147	999	0.4924924924924925	81c39d24b28f97a305d020cd1f23da41	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR3569450	chromosome	-	-	NODE_73_length_906_cov_15.045728	906	0.5794701986754967	d8b8c2e5fc459ab636dc69d9d2c934d3	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR3569450	chromosome	-	-	NODE_74_length_878_cov_231.866750	878	0.5296127562642369	dd66a4011c22b04b6fcad6fa92bffe4c	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR3569450	chromosome	-	-	NODE_75_length_850_cov_27.050323	850	0.41294117647058826	0fbb84bf97a22f6aa4928e59e9c52a55	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR3569450	chromosome	-	-	NODE_76_length_831_cov_28.722222	831	0.5607701564380265	e3bf8f6863c7d95781e13255dcae0ab3	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR3569450	chromosome	-	-	NODE_77_length_720_cov_73.384496	720	0.5305555555555556	5ec36c4009a44360fb279ca68441c710	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR3569450	chromosome	-	-	NODE_78_length_707_cov_14.438291	707	0.42668863261943984	ba9dd118ad8d4f09adbe8bb1d5cb43fd	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR3569450	chromosome	-	-	NODE_79_length_693_cov_61.475728	693	0.5339105339105339	bc7942914b02aea807a71b8d70e70cbe	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR3569450	chromosome	-	-	NODE_7_length_161231_cov_19.169376	161231	0.3934265482551681	9ee3cc99a091efb86e08ff0cb3d897dc	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR3569450	chromosome	-	-	NODE_80_length_683_cov_32.644737	683	0.6207906295754027	fe948f8edc382ded741b664cf1367948	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR3569450	chromosome	-	-	NODE_81_length_678_cov_19.169154	678	0.43215339233038347	a3c711131b9f32861b6beb508413ade5	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR3569450	chromosome	-	-	NODE_82_length_629_cov_36.507220	629	0.29411764705882354	c6aaf5056145dc6e9dbadc92ac5212ac	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR3569450	chromosome	-	-	NODE_83_length_582_cov_38.321499	582	0.39862542955326463	ed03281e6d66259a4dc398c475dfb5f7	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR3569450	chromosome	-	-	NODE_84_length_577_cov_35.282869	577	0.3240901213171577	ac708a28765e34e2ba20944d181e7f78	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR3569450	chromosome	-	-	NODE_85_length_557_cov_22.504149	557	0.4111310592459605	e449d163c8173a70d5807b6c1a5b24c2	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR3569450	chromosome	-	-	NODE_86_length_532_cov_13.658643	532	0.4680451127819549	632e7c51085faaebd2aaef0c41a9ce45	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR3569450	chromosome	-	-	NODE_87_length_500_cov_24.007059	500	0.44	ea075216fc37a66ab268de7f6b359192	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR3569450	plasmid	AE272	-	NODE_8_length_160550_cov_17.506284	160550	0.38092805979445654	c2d6215819bb8e52a15c95706d19ae39	not tested	-	-	-	-	-	-	-	-	-	CP036285	0.0275126	Acinetobacter baumannii	-	-	-
+ERR3569450	chromosome	-	-	NODE_9_length_134176_cov_18.467222	134176	0.391105711900787	edcf63a586ad3fa4dc728306c3303ca0	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-

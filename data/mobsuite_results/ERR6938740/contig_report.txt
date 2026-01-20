@@ -1,0 +1,31 @@
+sample_id	molecule_type	primary_cluster_id	secondary_cluster_id	contig_id	size	gc	md5	circularity_status	rep_type(s)	rep_type_accession(s)	relaxase_type(s)	relaxase_type_accession(s)	mpf_type	mpf_type_accession(s)	orit_type(s)	orit_accession(s)	predicted_mobility	mash_nearest_neighbor	mash_neighbor_distance	mash_neighbor_identification	repetitive_dna_id	repetitive_dna_type	filtering_reason
+ERR6938740	chromosome	-	-	NODE_10_length_162448_cov_34.072326	162448	0.3958005023145868	9a7bcf1b59b2c618e328c3757457a515	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR6938740	chromosome	-	-	NODE_11_length_114134_cov_28.363020	114134	0.392231937897559	b6dd04fc73a7dd257e97bc17ce907be5	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR6938740	chromosome	-	-	NODE_12_length_104524_cov_29.086023	104524	0.3941774137997015	176c3c1e2d3dea996930382753997244	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR6938740	chromosome	-	-	NODE_13_length_68604_cov_26.873951	68604	0.383592793423124	99603e977af340edacb2e432e65e8100	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR6938740	chromosome	-	-	NODE_14_length_57408_cov_24.302029	57408	0.4069641861761427	cfd940d73931b7521c69896ff2ef1293	not tested	rep_cluster_1656	001057__CP015616_00173	MOBP,MOBP,MOBP	NZ_AEOY01000096_00007,NZ_CM001803_00063,NZ_ALIG01000010_00048	-	-	-	-	-	-	-	-	-	-	-
+ERR6938740	chromosome	-	-	NODE_15_length_50447_cov_32.928518	50447	0.384879180129641	b3f6b8c921a9720147cc9ee66f6c6a9d	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR6938740	chromosome	-	-	NODE_16_length_41060_cov_19.506669	41060	0.3701169020944959	280d31ac0d869776e7909ee5a07744e3	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR6938740	chromosome	-	-	NODE_17_length_26618_cov_30.789547	26618	0.39439477045608234	670742892092e477d95ae90b5d7881fa	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR6938740	plasmid	AB829	-	NODE_18_length_14386_cov_26.967243	14386	0.4103294870012512	ee0e264122a1f6136d050425ba685307	not tested	-	-	-	-	-	-	-	-	-	CP032138	0.0463343	Acinetobacter sp. WCHAc010052	-	-	-
+ERR6938740	plasmid	AB338	-	NODE_19_length_4719_cov_38.791775	4719	0.3409620682347955	311ba451737dfe871a84234ce544b22e	not tested	rep_cluster_1226	000523__LT594096_00001	-	-	-	-	-	-	-	CP026126	0.0418553	Acinetobacter baumannii	-	-	-
+ERR6938740	chromosome	-	-	NODE_1_length_650990_cov_20.322435	650990	0.38110262830458225	7e2d9c2f21d7083ed5f816566c551cd8	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR6938740	chromosome	-	-	NODE_20_length_4590_cov_189.929860	4590	0.49673202614379086	c44a8ac117e7bf0830f70a5103777476	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR6938740	plasmid	AB337	-	NODE_21_length_3674_cov_39.635804	3674	0.344311377245509	b5ab1b5965ffdcffc3848e496d613358	not tested	-	-	-	-	-	-	-	-	-	CP023024	0.0336937	Acinetobacter baumannii	-	-	-
+ERR6938740	plasmid	AB829	-	NODE_22_length_2506_cov_25.280432	2506	0.3870710295291301	93d6c34c7f38fe846e5797de6df239ed	not tested	-	-	MOBP	NZ_AEOY01000096_00007	-	-	-	-	-	CP032138	0.0463343	Acinetobacter sp. WCHAc010052	-	-	-
+ERR6938740	plasmid	AB355	-	NODE_23_length_2039_cov_66.212887	2039	0.3918587542913193	96969ca23f5622a50b7c27c04ef9ccc8	not tested	-	-	-	-	-	-	-	-	-	CP033554	0.0351567	Acinetobacter nosocomialis	-	-	-
+ERR6938740	plasmid	AB829	-	NODE_24_length_1478_cov_66.042059	1478	0.560893098782138	f614f673d3d0a092a19139b006eec574	not tested	-	-	-	-	-	-	-	-	-	CP032138	0.0463343	Acinetobacter sp. WCHAc010052	KC354801,KX009061	ISPa14,Tn5393	repetitve element
+ERR6938740	chromosome	-	-	NODE_25_length_1455_cov_121.558997	1455	0.34845360824742266	77b0d90b39de3cf7692b2fc13e322be1	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR6938740	chromosome	-	-	NODE_26_length_1316_cov_37.705012	1316	0.4703647416413374	d1303ef8b54a16a14598b9405e3e9414	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR6938740	plasmid	AB829	-	NODE_27_length_1181_cov_93.411275	1181	0.3573243014394581	988933059510d58dbd1e83b0a8718f78	not tested	-	-	-	-	-	-	-	-	-	CP032138	0.0463343	Acinetobacter sp. WCHAc010052	MF805806,KY437727	IS1006,ISShfr9	repetitve element
+ERR6938740	chromosome	-	-	NODE_28_length_921_cov_71.480535	921	0.5950054288816504	04937a50797c1a616cc88e9aa91da170	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR6938740	chromosome	-	-	NODE_29_length_641_cov_186.691882	641	0.46801872074882994	053c79562855d52e8c3d0930a1346176	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR6938740	chromosome	-	-	NODE_2_length_471536_cov_32.017797	471536	0.39945624512232364	ef9ff6db16fe18856ac42488270823bc	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR6938740	chromosome	-	-	NODE_30_length_519_cov_56.514286	519	0.4913294797687861	e94b0b5191b94408dea5a05757ef6bdb	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR6938740	chromosome	-	-	NODE_3_length_467184_cov_32.511907	467184	0.3944505804993322	2b80f1dda859be1ec9b8559272d1ca80	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR6938740	chromosome	-	-	NODE_4_length_414892_cov_23.310782	414892	0.38696410016562477	3378773f83eb2998bf2daf7241bacf19	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR6938740	chromosome	-	-	NODE_5_length_358034_cov_26.853895	358034	0.3890656735682536	757823d03a348963b8e33e4544858535	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR6938740	chromosome	-	-	NODE_6_length_246460_cov_20.227236	246460	0.3820498255294977	adff26181d45fb3833b4ec191f28240e	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR6938740	chromosome	-	-	NODE_7_length_226449_cov_23.901237	226449	0.3886835446391903	17b7444bb5ec9fadfe21f59a9f75f507	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR6938740	chromosome	-	-	NODE_8_length_216457_cov_25.883129	216457	0.38772596866814196	e710170c22e8b470f2faeb8638386f81	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR6938740	chromosome	-	-	NODE_9_length_198911_cov_29.739256	198911	0.38601686181256945	70960a0b3e639e064e9e5d4eec04b055	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-

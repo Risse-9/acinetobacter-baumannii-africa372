@@ -1,0 +1,6 @@
+qseqid	sseqid	qlen	slen	qstart	qend	sstart	send	length	mismatch	pident	qcovhsp	qcovs	sstrand	evalue	bitscore	biomarker
+001341__NC_013277_00009|rep_cluster_1906	NODE_18_length_12308_cov_13.244328	570	12308	1	570	8635	9204	570	0	100.0	100.0	100.0	plus	0.0	1053	replicon
+001812__CP017939|rep_cluster_463	NODE_24_length_2875_cov_10.924352	1227	2875	1	1227	347	1570	1230	148	87.236	100.0	100.0	minus	0.0	1393	replicon
+NZ_AEOZ01000236_00020|MOBQ	NODE_18_length_12308_cov_13.244328	958	12308	1	958	1940	4813	958	0	100.0	100.0	100.0	minus	0.0	1949	relaxase
+NZ_AEOY01000096_00007|MOBP	NODE_1_length_957595_cov_6.890609	300	957595	1	300	760047	760946	300	15	95.0	100.0	100.0	minus	0.0	601	relaxase
+NZ_AEOZ01000236_00018|MPF_T	NODE_18_length_12308_cov_13.244328	360	12308	20	360	5684	6706	341	0	100.0	95.0	95.0	minus	0.0	556	mate-pair-formation

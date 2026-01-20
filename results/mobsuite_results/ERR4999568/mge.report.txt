@@ -1,0 +1,3 @@
+sample_id	molecule_type	primary_cluster_id	secondary_cluster_id	contig_id	size	gc	md5	mge_id	mge_acs	mge_type	mge_subtype	mge_length	mge_start	mge_end	contig_start	contig_end	length	sstrand	qcovhsp	pident	evalue	bitscore
+ERR4999568	chromosome			NODE_39_length_5659_cov_129.462050	5659	0.48776978417266187	4f76504eb6f41ec96407866b20b007c8	01399	CP016586.1	16s-rRNA	16S	1554	1	1544	173	1711						
+ERR4999568	plasmid	AB082	AJ649	NODE_45_length_1087_cov_177.598178	1087	0.3689052437902484	9b6cf0e0897a8365d238aa5fba0c5b4f	00704	KF702385	ISAba125	IS30	2175	1089	2175	1	1087	1087	plus	50.0	99.908	0.0	2002

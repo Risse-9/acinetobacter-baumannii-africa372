@@ -1,0 +1,16 @@
+sample_id	molecule_type	primary_cluster_id	secondary_cluster_id	contig_id	size	gc	md5	circularity_status	rep_type(s)	rep_type_accession(s)	relaxase_type(s)	relaxase_type_accession(s)	mpf_type	mpf_type_accession(s)	orit_type(s)	orit_accession(s)	predicted_mobility	mash_nearest_neighbor	mash_neighbor_distance	mash_neighbor_identification	repetitive_dna_id	repetitive_dna_type	filtering_reason
+SRR9017260	chromosome	-	-	NODE_10_length_50652_cov_25.806579	50652	0.38309530403133285	f5b378634a1cc1434cafebb05d30d0f1	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR9017260	chromosome	-	-	NODE_11_length_26788_cov_23.678856	26788	0.39349708824846946	eacb1fa6beed5188a655a71cef2d4d0e	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR9017260	chromosome	-	-	NODE_12_length_5517_cov_114.476560	5517	0.4893964110929853	e35d33a38962a4dfbb1aacbcb2de15d1	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR9017260	chromosome	-	-	NODE_13_length_934_cov_0.867066	934	0.40364025695931477	b170d3be573483c94b5d4479774e82b2	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR9017260	chromosome	-	-	NODE_14_length_863_cov_1.634817	863	0.3406720741599073	3c77b0d93e9ff1da4db4a03d78f87381	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR9017260	chromosome	-	-	NODE_15_length_690_cov_37.016920	690	0.45072463768115945	51be939749d43cb797fcf33a49c67c41	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR9017260	chromosome	-	-	NODE_1_length_1777353_cov_19.231458	1777353	0.38482563677558707	6fc65e3c0a6ddc2b66c7c753e17a9e4d	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR9017260	chromosome	-	-	NODE_2_length_390837_cov_25.778752	390837	0.3886223668690528	41d1e33ce702793ac9aee3285f60322d	not tested	-	-	MOBP	NZ_AEOY01000096_00007	-	-	-	-	-	-	-	-	-	-	-
+SRR9017260	chromosome	-	-	NODE_3_length_349247_cov_24.231856	349247	0.4008881966058406	860d839f13bdf2a4f7e393010a9a3d77	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR9017260	chromosome	-	-	NODE_4_length_294413_cov_21.454494	294413	0.38722135231800225	b32d60973a6181022a5b0704784300b8	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR9017260	chromosome	-	-	NODE_5_length_290524_cov_23.036199	290524	0.38958915614544753	9b8347ded6e8b8dad903f7f71e7e2bc6	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR9017260	chromosome	-	-	NODE_6_length_191484_cov_22.868109	191484	0.39134001442111754	772b5010ec1b5657cea9d21056b6dd89	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR9017260	chromosome	-	-	NODE_7_length_165688_cov_25.496168	165688	0.3949954130655207	576011755e56beb4f9dc983f782ec2a1	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR9017260	chromosome	-	-	NODE_8_length_112649_cov_23.694402	112649	0.39754458539356763	9a1a1c1dc5508a71a9f6321f68000af3	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR9017260	chromosome	-	-	NODE_9_length_88823_cov_24.957351	88823	0.39952489783051687	5fbae4e5dfdde821cc8e0b748a9ad297	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-

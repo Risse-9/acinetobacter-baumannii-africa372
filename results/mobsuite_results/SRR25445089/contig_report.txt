@@ -1,0 +1,63 @@
+sample_id	molecule_type	primary_cluster_id	secondary_cluster_id	contig_id	size	gc	md5	circularity_status	rep_type(s)	rep_type_accession(s)	relaxase_type(s)	relaxase_type_accession(s)	mpf_type	mpf_type_accession(s)	orit_type(s)	orit_accession(s)	predicted_mobility	mash_nearest_neighbor	mash_neighbor_distance	mash_neighbor_identification	repetitive_dna_id	repetitive_dna_type	filtering_reason
+SRR25445089	chromosome	-	-	NODE_10_length_152487_cov_37.996286	152487	0.4006374313875937	fe2496706302a5297b7733143a7995b2	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR25445089	chromosome	-	-	NODE_11_length_131056_cov_35.591446	131056	0.40161457697472835	c72550d9ce4ddc27c45340bceec3ff9f	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR25445089	chromosome	-	-	NODE_12_length_122200_cov_33.325517	122200	0.3869721767594108	a06f1359162b8ced564d3b2ff9931755	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR25445089	chromosome	-	-	NODE_13_length_121654_cov_34.855070	121654	0.3847805520134918	7a19a149ff69964ec938ea2c712c728e	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR25445089	chromosome	-	-	NODE_14_length_113443_cov_37.462998	113443	0.40119707694613155	96ea4c1d4a4ccba4e6a245e5ebce87a0	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR25445089	chromosome	-	-	NODE_15_length_110155_cov_35.488588	110155	0.39355453678906993	2c97961cb4dda55a50d804584af814d9	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR25445089	chromosome	-	-	NODE_16_length_97209_cov_34.571558	97209	0.3798516598257363	8c77648a4640c36ef9174f397c58ce8e	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR25445089	chromosome	-	-	NODE_17_length_95215_cov_34.594853	95215	0.38817413222706504	d06fcff6a594db6a7f0881e32f2b633e	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR25445089	chromosome	-	-	NODE_18_length_67841_cov_36.918426	67841	0.4099438392712372	7aef8429608aa5b2b93edfd9cd081df9	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR25445089	chromosome	-	-	NODE_19_length_63841_cov_35.136958	63841	0.38680471797120974	811cebb98172971daf3b8705b0ff02ae	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR25445089	chromosome	-	-	NODE_1_length_293113_cov_36.290235	293113	0.3949364238365409	c083ea96ae94d7418ba5f1050ff77d49	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR25445089	plasmid	AE272	AO018	NODE_20_length_61974_cov_31.954683	61974	0.3664439926420757	02c02c04bee874c0b4496bde7982adcc	not tested	-	-	-	-	-	-	-	-	-	CP036285	0.0026025	Acinetobacter baumannii	-	-	-
+SRR25445089	chromosome	-	-	NODE_21_length_58135_cov_36.042663	58135	0.3947707921217855	d1487cf2ea4dec4e651a4cf18a5f622e	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR25445089	chromosome	-	-	NODE_22_length_54706_cov_36.642097	54706	0.4024238657551274	d88e3d33719d231ebafcfc7e7d77fb74	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR25445089	chromosome	-	-	NODE_23_length_50716_cov_36.553352	50716	0.38394195125798564	b39f80a9492a928eb6f6066f0bd76cde	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR25445089	chromosome	-	-	NODE_24_length_49691_cov_32.400831	49691	0.3758628323036365	bbba84cc7a7a34c1fc11b0053db95b13	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR25445089	chromosome	-	-	NODE_25_length_48191_cov_35.234675	48191	0.3834740926729057	6a4f5beb45af92dd223a347b8e04b5ff	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR25445089	chromosome	-	-	NODE_26_length_47608_cov_33.970911	47608	0.3890312552512183	148e17c5ba01b6729de693c900e4c4da	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR25445089	plasmid	AE272	AO018	NODE_27_length_43524_cov_33.067749	43524	0.38381123058542416	2bb440efbcd61178ea6ac55597fc02c6	not tested	-	-	MOBP	NZ_ALIG01000010_00048	-	-	-	-	-	CP036285	0.0026025	Acinetobacter baumannii	-	-	-
+SRR25445089	chromosome	-	-	NODE_28_length_42800_cov_31.565443	42800	0.3735747663551402	82d46677c703932d037de5bcb20f5ba0	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR25445089	chromosome	-	-	NODE_29_length_42649_cov_33.848555	42649	0.38568313442284696	f5abe176efbf19c924c1586a21bce3bf	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR25445089	chromosome	-	-	NODE_2_length_273049_cov_32.538758	273049	0.38997475737403414	78241544d372cc4dd60f54ede3a65d1a	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR25445089	chromosome	-	-	NODE_30_length_41371_cov_34.547732	41371	0.38432718570979674	2d7e6c9e40787bef7cbf957033b802f5	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR25445089	chromosome	-	-	NODE_31_length_38821_cov_37.067016	38821	0.3871100692923933	beb556f1cb64cf9d73af2186d154fd98	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR25445089	chromosome	-	-	NODE_32_length_31470_cov_33.897039	31470	0.3814744200826184	fb617c84459c74672b67936e9402dc50	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR25445089	chromosome	-	-	NODE_33_length_26822_cov_35.938779	26822	0.3940422041607636	aa7499e2cd6c25f0aeac6c6c737985ac	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR25445089	chromosome	-	-	NODE_34_length_20143_cov_33.328577	20143	0.39462840689073125	6c9697905907be598c9a40d2e450dc98	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR25445089	chromosome	-	-	NODE_35_length_13785_cov_35.443227	13785	0.3722887196227784	7f4784a059a55de8fb23fc432e69b6b0	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR25445089	chromosome	-	-	NODE_36_length_12335_cov_30.434129	12335	0.35079043372517227	9d77f2a00152c1874251cfe9cb452729	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR25445089	chromosome	-	-	NODE_37_length_11739_cov_32.306873	11739	0.3538631910724934	b33733c7135245266df93fba67da4205	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR25445089	chromosome	-	-	NODE_38_length_11404_cov_36.057674	11404	0.3873202385128025	b9c334a7dc37acc0abf7c50c67706b59	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR25445089	plasmid	AF972	-	NODE_39_length_9997_cov_65.422409	9997	0.4002200660198059	1144d948a82ac533bd0d3913a1636d21	not tested	-	-	-	-	-	-	-	-	-	CP040044	0.0333664	Acinetobacter baumannii	-	-	-
+SRR25445089	chromosome	-	-	NODE_3_length_261139_cov_34.200525	261139	0.38525984324361595	52d2345823465a33fb4326215d20e254	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR25445089	plasmid	AF972	-	NODE_40_length_9663_cov_35.101527	9663	0.38238642243609644	d5c8ca8eecc791066f66c25694f60ac9	not tested	-	-	-	-	-	-	-	-	-	CP040044	0.0333664	Acinetobacter baumannii	-	-	-
+SRR25445089	plasmid	AC163	AL241	NODE_41_length_8830_cov_273.463635	8830	0.34416761041902605	721cd10d39af9c50494d374bfec778dc	not tested	rep_cluster_1172	000454__KY202458_00008	-	-	-	-	-	-	-	MG954378	0.0023533	Acinetobacter baumannii	-	-	-
+SRR25445089	plasmid	AF972	-	NODE_42_length_8382_cov_34.745744	8382	0.412431400620377	be4b63f7144be21ffbb90fe3203d16c1	not tested	-	-	-	-	-	-	-	-	-	CP040044	0.0333664	Acinetobacter baumannii	-	-	-
+SRR25445089	chromosome	-	-	NODE_43_length_7647_cov_34.016031	7647	0.387995292271479	1f817cbe9bf02e7f3417ff3babbb111f	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR25445089	chromosome	-	-	NODE_44_length_6824_cov_37.376952	6824	0.39155920281359907	16e9323e7d2f5ddf656a766f59cf684e	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR25445089	chromosome	-	-	NODE_45_length_4877_cov_206.747384	4877	0.5065885797950219	0ee4c5412bff82b243ca077232bb9c49	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR25445089	plasmid	AF972	-	NODE_46_length_2979_cov_66.893056	2979	0.39375629405840884	a7282e3ba11095afe265fd2ef0c1e68d	not tested	-	-	-	-	-	-	-	-	-	CP040044	0.0333664	Acinetobacter baumannii	-	-	-
+SRR25445089	plasmid	AF972	-	NODE_47_length_2979_cov_37.943056	2979	0.4118831822759315	422fa1250e2bb3856223bd3935446b7c	not tested	-	-	-	-	-	-	-	-	-	CP040044	0.0333664	Acinetobacter baumannii	-	-	-
+SRR25445089	plasmid	AC163	AL241	NODE_48_length_2643_cov_109.964623	2643	0.3670071888006054	6af770801150a8900db319163830b6be	not tested	-	-	-	-	-	-	-	-	-	MG954378	0.0023533	Acinetobacter baumannii	-	-	-
+SRR25445089	chromosome	-	-	NODE_49_length_2530_cov_65.401070	2530	0.31976284584980236	e83d701074e56f7be2869053348b3d02	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR25445089	chromosome	-	-	NODE_4_length_241919_cov_32.714978	241919	0.38546853031180217	119d3cfebfefb503821b195b03529f34	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR25445089	plasmid	AF972	-	NODE_50_length_2446_cov_64.731146	2446	0.4051512673753066	ff17ed78dd4442fb59aa8c95c1b88608	not tested	-	-	-	-	-	-	-	-	-	CP040044	0.0333664	Acinetobacter baumannii	-	-	-
+SRR25445089	plasmid	AF972	-	NODE_51_length_2170_cov_72.191212	2170	0.3976958525345622	6d456e41f6216dfa443889feae38e31f	not tested	-	-	-	-	-	-	-	-	-	CP040044	0.0333664	Acinetobacter baumannii	-	-	-
+SRR25445089	chromosome	-	-	NODE_52_length_2065_cov_36.164293	2065	0.34818401937046006	60a886fefd20aa62942029cc0174fd6b	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR25445089	chromosome	-	-	NODE_53_length_1673_cov_35.397078	1673	0.3532576210400478	15bad156071d32132c4a24e8a10216d3	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR25445089	chromosome	-	-	NODE_54_length_1318_cov_74.265792	1318	0.3945371775417299	e828e06cdc1c56afce8f0ded699aea61	not tested	-	-	-	-	-	-	-	-	-	-	-	-	CP001182	ISAba26	repetitve element
+SRR25445089	plasmid	AF972	-	NODE_55_length_1241_cov_32.270578	1241	0.42304593070104757	4b607b5c3723c1a834c0950346678e39	not tested	-	-	-	-	-	-	-	-	-	CP040044	0.0333664	Acinetobacter baumannii	-	-	-
+SRR25445089	chromosome	-	-	NODE_56_length_1156_cov_59.943236	1156	0.47750865051903113	9dfe29d23d2c45bad4f9ec9c1c17a4b3	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR25445089	plasmid	AE272	AO018	NODE_57_length_1124_cov_974.980488	1124	0.3540925266903915	ab33918f4685c02fc160ed7df369da6c	not tested	-	-	-	-	-	-	-	-	-	CP036285	0.0026025	Acinetobacter baumannii	CP001182	ISAba1	repetitve element
+SRR25445089	chromosome	-	-	NODE_58_length_988_cov_32.332958	988	0.42206477732793524	97b34008c44f53dfb753763d83f57caf	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR25445089	chromosome	-	-	NODE_59_length_817_cov_116.323120	817	0.48959608323133413	149a214210f37f3ef2604d554920f2aa	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR25445089	chromosome	-	-	NODE_5_length_222383_cov_36.467263	222383	0.40240486008372944	bf62aad2da551f9c72d0ca56ea969e7f	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR25445089	chromosome	-	-	NODE_60_length_614_cov_77.415534	614	0.44788273615635177	3c5f0f32d2b71869dcd5bf2f9db3104b	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR25445089	chromosome	-	-	NODE_61_length_612_cov_67.709552	612	0.5343137254901961	9bc34a22e31986440cca8bb1e7fb37a5	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR25445089	chromosome	-	-	NODE_62_length_590_cov_32.317719	590	0.376271186440678	56532d7b49e496d4e6ff662ad2413ccd	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR25445089	chromosome	-	-	NODE_6_length_206421_cov_35.080908	206421	0.388957518857093	04d9169d4219ba2e517ac41c3ac7d424	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR25445089	chromosome	-	-	NODE_7_length_184722_cov_33.484539	184722	0.38837279804246383	c2e1fc1886fc5b74041d3c83ddb4dc01	not tested	rep_cluster_1254	000562__KT346360_00001	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR25445089	chromosome	-	-	NODE_8_length_182148_cov_31.594604	182148	0.3765838768473988	2f93e2af44c9ab4048c481282ce2303e	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR25445089	chromosome	-	-	NODE_9_length_162136_cov_32.548153	162136	0.3802918537524054	ae0f4e51900072121f9ce7e5fce6797d	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-

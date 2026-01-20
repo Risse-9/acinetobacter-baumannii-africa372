@@ -1,0 +1,34 @@
+sample_id	molecule_type	primary_cluster_id	secondary_cluster_id	contig_id	size	gc	md5	circularity_status	rep_type(s)	rep_type_accession(s)	relaxase_type(s)	relaxase_type_accession(s)	mpf_type	mpf_type_accession(s)	orit_type(s)	orit_accession(s)	predicted_mobility	mash_nearest_neighbor	mash_neighbor_distance	mash_neighbor_identification	repetitive_dna_id	repetitive_dna_type	filtering_reason
+SRR28167563	chromosome	-	-	NODE_10_length_172238_cov_34.748430	172238	0.3959172772558901	2df93f787f343f47d2c4c4e4deee2921	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR28167563	chromosome	-	-	NODE_11_length_157259_cov_33.955192	157259	0.4003713618934369	a9a8a71f99e78791c6703165f5bc2607	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR28167563	chromosome	-	-	NODE_12_length_133674_cov_31.828329	133674	0.37816628514146355	5bb5fc1533a01bdac98458419f26b74f	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR28167563	chromosome	-	-	NODE_13_length_107775_cov_32.361510	107775	0.3856089074460682	607def8c64929bb9c14aaee180acdbdb	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR28167563	chromosome	-	-	NODE_14_length_80116_cov_34.370634	80116	0.39968295970842277	356578def2648f914b0f380e254aab6f	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR28167563	chromosome	-	-	NODE_15_length_79711_cov_31.197621	79711	0.37731304336917115	40634f6392bd7bb514fc7e6f023dc9a4	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR28167563	chromosome	-	-	NODE_16_length_50504_cov_34.964507	50504	0.3840487882147949	4c101e8612e3a1e2084e24baeeaef244	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR28167563	chromosome	-	-	NODE_17_length_48682_cov_33.457156	48682	0.3991824493652685	d1ea8d5358988d40e5d5984a998716ad	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR28167563	chromosome	-	-	NODE_18_length_41467_cov_30.352954	41467	0.3797236356620928	aa0482879a8549ed1d54639261a73d02	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR28167563	chromosome	-	-	NODE_19_length_26560_cov_33.815918	26560	0.39457831325301207	2d6d65dbfa48a79fd3b3fed5618f8cdc	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR28167563	chromosome	-	-	NODE_1_length_656484_cov_32.520777	656484	0.3866369934377685	5c98322f6dd07a4bf1fa19269c7f1850	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR28167563	chromosome	-	-	NODE_20_length_16784_cov_34.255499	16784	0.3953169685414681	7d47eb1265260126c068c062cb927925	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR28167563	plasmid	AC163	AL239	NODE_21_length_13846_cov_72.608787	13846	0.3614040156001733	cfad676d21f2e71b9a647fb28091d84b	not tested	rep_cluster_1172	000454__KY202458_00008	-	-	-	-	-	-	-	MK431775	0.0123068	Acinetobacter baumannii	-	-	-
+SRR28167563	chromosome	-	-	NODE_22_length_8902_cov_33.938771	8902	0.3942934172096158	7358c4d060241948bec9277a32e4ebad	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR28167563	chromosome	-	-	NODE_23_length_5555_cov_203.644245	5555	0.4882088208820882	6401bc455acb11251e21555c71d23fbd	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR28167563	chromosome	-	-	NODE_24_length_3760_cov_261.769189	3760	0.3792553191489362	3ac27d03771ab306c300813370d61243	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR28167563	chromosome	-	-	NODE_25_length_2806_cov_237.130772	2806	0.3920171062009979	15caf8788a5469ef61ac31d112b10e6d	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR28167563	chromosome	-	-	NODE_26_length_1793_cov_345.824085	1793	0.4244283324037925	b703b1bf9837d88709805f22e55307cd	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR28167563	chromosome	-	-	NODE_27_length_1654_cov_66.127331	1654	0.4280532043530834	957ca7743073a8cf007c69792ff62e9c	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR28167563	chromosome	-	-	NODE_28_length_1203_cov_72.558877	1203	0.4455527847049044	4219bde9322fc8a40e8ce9976f45e5dd	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR28167563	chromosome	-	-	NODE_29_length_1080_cov_29.432212	1080	0.35648148148148145	01b3cd7f0a98f2e463a878ae15ff953a	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR28167563	chromosome	-	-	NODE_2_length_471900_cov_34.301911	471900	0.392453909726637	68c1b8e237078ac736d410b3732b1c10	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR28167563	chromosome	-	-	NODE_30_length_1029_cov_66.409677	1029	0.4606413994169096	96bb68c30ad3077af49122d3c2044e13	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR28167563	chromosome	-	-	NODE_31_length_920_cov_124.030451	920	0.5119565217391304	b212f2ddc11d4ea08fe98537fc82c0a9	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR28167563	chromosome	-	-	NODE_32_length_666_cov_31.365079	666	0.4264264264264264	b71194f18d416b6001e7d67885ef7edc	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR28167563	chromosome	-	-	NODE_33_length_512_cov_213.389831	512	0.52734375	86760707727296df25d0696c89c1949f	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR28167563	chromosome	-	-	NODE_3_length_430215_cov_31.006319	430215	0.3727006416813912	e1ae143fcdffdc038e333a985fcf9405	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR28167563	chromosome	-	-	NODE_4_length_313274_cov_32.387793	313274	0.3904473400282181	d4ed0ea3fb7fbdd8d0a96900a4637a36	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR28167563	chromosome	-	-	NODE_5_length_256030_cov_33.587858	256030	0.3914033511697848	56bdbba461e95c6d40fa07a2717e1e4e	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR28167563	chromosome	-	-	NODE_6_length_208729_cov_30.754182	208729	0.3918573844554422	e1ce27d442957237a1f7b498bfd536c0	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR28167563	chromosome	-	-	NODE_7_length_207093_cov_30.826691	207093	0.3838855007170691	707d367339814d65906602393fe82967	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR28167563	chromosome	-	-	NODE_8_length_196223_cov_33.634104	196223	0.39338915417662557	74484a7f81538946d19ce4321278e04a	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR28167563	chromosome	-	-	NODE_9_length_185843_cov_34.059286	185843	0.4034373099874625	31b1fbdabb7f7f1764baac078e86aa8b	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-

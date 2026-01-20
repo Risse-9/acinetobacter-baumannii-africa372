@@ -1,0 +1,46 @@
+sample_id	molecule_type	primary_cluster_id	secondary_cluster_id	contig_id	size	gc	md5	circularity_status	rep_type(s)	rep_type_accession(s)	relaxase_type(s)	relaxase_type_accession(s)	mpf_type	mpf_type_accession(s)	orit_type(s)	orit_accession(s)	predicted_mobility	mash_nearest_neighbor	mash_neighbor_distance	mash_neighbor_identification	repetitive_dna_id	repetitive_dna_type	filtering_reason
+ERR7226622	chromosome	-	-	NODE_10_length_159915_cov_26.747309	159915	0.37871369164868834	681369ba90845d16f782daa164fc642c	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR7226622	chromosome	-	-	NODE_11_length_159906_cov_33.882953	159906	0.4003602116243293	64ce8098d3144849129677bcf1a47de9	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR7226622	plasmid	AE272	AO018	NODE_12_length_136512_cov_27.712601	136512	0.37575451242381624	e054b4ebb18b86a52d7bd19d060f27e9	not tested	-	-	MOBP	NZ_ALIG01000010_00048	-	-	-	-	-	CP036285	0.0212923	Acinetobacter baumannii	-	-	-
+ERR7226622	chromosome	-	-	NODE_13_length_118438_cov_36.115558	118438	0.39153818875698676	a88a84f4df0e17d5b00e73b54482d907	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR7226622	chromosome	-	-	NODE_14_length_103346_cov_37.311748	103346	0.39301956534360305	949343be7ce39047435b8a1dd90acaa0	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR7226622	chromosome	-	-	NODE_15_length_88778_cov_40.433158	88778	0.399547185113429	560423f69f57c5a3ca28c7f0c5d5c248	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR7226622	chromosome	-	-	NODE_16_length_71018_cov_59.099169	71018	0.40327804218648794	1a31ff27f1b8570fe45ae46f37dfe59f	not tested	rep_cluster_1656	001057__CP015616_00173	MOBP,MOBP,MOBP	NZ_AEOY01000096_00007,NZ_CM001803_00063,NZ_ALIG01000010_00048	-	-	-	-	-	-	-	-	-	-	-
+ERR7226622	chromosome	-	-	NODE_17_length_56533_cov_26.499344	56533	0.36964187620718375	3c3f7852a67df90aba4877439de30b0a	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR7226622	chromosome	-	-	NODE_18_length_50560_cov_41.220606	50560	0.3846518987341772	fafe56a4370246890c516435c6357d28	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR7226622	chromosome	-	-	NODE_19_length_44910_cov_26.724500	44910	0.40109107103095076	631950a0277d77459f42632b58589119	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR7226622	chromosome	-	-	NODE_1_length_764868_cov_32.004072	764868	0.38606233035743487	7cca46ea869e8ee92406cc35dbd55c1a	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR7226622	chromosome	-	-	NODE_20_length_38348_cov_31.117598	38348	0.3849483675810994	56cc3149be64a6ad4ebadf4b85ec1346	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR7226622	chromosome	-	-	NODE_21_length_34285_cov_38.135728	34285	0.387924748432259	40f60232db5ff5ee7616f4db29244393	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR7226622	chromosome	-	-	NODE_22_length_32242_cov_37.751143	32242	0.38629737609329445	1953206bf53e44133223fdbfe01b385d	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR7226622	chromosome	-	-	NODE_23_length_28895_cov_29.033720	28895	0.4055718982522928	76f51751440a5516d0dab804a9605fdf	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR7226622	chromosome	-	-	NODE_24_length_26773_cov_37.357614	26773	0.3945392746423636	473de89121dc4fd10724813253d83d74	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR7226622	chromosome	-	-	NODE_25_length_25360_cov_39.719884	25360	0.3972397476340694	af14443eaf3c5b086ac6ba03b17fa02d	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR7226622	chromosome	-	-	NODE_26_length_14286_cov_87.917742	14286	0.3478930421391572	e3cf71d7e4cfaaf65414a1a45977059d	not tested	rep_cluster_1280,rep_cluster_1364	000595__CU468231_00001,000682__CU468232_00001	MOBQ	CP032277_00002	-	-	-	-	-	-	-	-	-	-	-
+ERR7226622	chromosome	-	-	NODE_27_length_13993_cov_25.137901	13993	0.38090473808332737	709ee3b1412ea7e6d552b732d0f4c384	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR7226622	chromosome	-	-	NODE_28_length_10093_cov_26.135381	10093	0.40265530565738633	e02c30968c8f1f808cb457b9ef189173	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR7226622	plasmid	AB702	AK583	NODE_29_length_6177_cov_108.413129	6177	0.39598510603853004	1a66a9606d24b7d4aee376e48edc57a1	not tested	-	-	MOBP	NZ_AFDA02000006_00006	-	-	-	-	-	CP027181	0.000143503	Acinetobacter baumannii	-	-	-
+ERR7226622	chromosome	-	-	NODE_2_length_423311_cov_40.366627	423311	0.39840684508552815	17bef87c1a11d99fd57a66f0672855f6	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR7226622	plasmid	AC409	-	NODE_30_length_5552_cov_56.278929	5552	0.43804034582132567	69e7b7869d072e9cb17cc89ef4c26be5	not tested	-	-	MOBP	NZ_AEOY01000096_00007	-	-	-	-	-	KP143090	0.0556462	Escherichia coli	-	-	-
+ERR7226622	chromosome	-	-	NODE_31_length_4922_cov_206.565623	4922	0.49065420560747663	702bad093cbbee1ef6377d3986e2c7a5	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR7226622	chromosome	-	-	NODE_32_length_4685_cov_118.777148	4685	0.3963713980789755	20290e8d3134f5f834165de9936fc595	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR7226622	chromosome	-	-	NODE_33_length_2330_cov_67.279695	2330	0.2875536480686695	4fccef4520d47fdf1a8950224507c21b	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR7226622	chromosome	-	-	NODE_34_length_1511_cov_54.488669	1511	0.48510919920582396	87075f7d2ee5a5abe315c461d67d8eed	not tested	-	-	-	-	-	-	-	-	-	-	-	-	CP001182	IS15	repetitve element
+ERR7226622	chromosome	-	-	NODE_35_length_1310_cov_49.770438	1310	0.47557251908396947	c5858d3a9bdb62ea2a0346d8f2538b08	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR7226622	chromosome	-	-	NODE_36_length_1181_cov_72.518484	1181	0.4462320067739204	f33519ece4d3bc562afdf5745dc5eb34	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR7226622	chromosome	-	-	NODE_37_length_1132_cov_119.405615	1132	0.519434628975265	084125e25cacc1483061f7c4f058542a	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR7226622	chromosome	-	-	NODE_38_length_973_cov_48.789474	973	0.48201438848920863	da718d82156622959a9809ad2335e99b	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR7226622	chromosome	-	-	NODE_39_length_953_cov_50.822014	953	0.46379853095487933	8e46642d6bee5056ca154cee5dee95bf	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR7226622	chromosome	-	-	NODE_3_length_365924_cov_38.564611	365924	0.40103682731933404	732edded3d965b4c676925d5ec4209f2	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR7226622	chromosome	-	-	NODE_40_length_820_cov_93.950069	820	0.525609756097561	81d10680dfaf95dec022e8bd079dc170	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR7226622	chromosome	-	-	NODE_41_length_793_cov_107.776657	793	0.4123581336696091	e98296b8886e45f21b9be54d05b91b3e	not tested	-	-	MOBP	NZ_AEOY01000096_00007	-	-	-	-	-	-	-	-	-	-	-
+ERR7226622	chromosome	-	-	NODE_42_length_755_cov_222.803354	755	0.37350993377483444	ed51aff001cb713c22165ef24740bd09	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR7226622	chromosome	-	-	NODE_43_length_731_cov_57.797468	731	0.3912448700410397	0815a15f7160c86b887aff2ed7d9473d	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR7226622	chromosome	-	-	NODE_44_length_641_cov_226.404059	641	0.46957878315132606	08df0560b3e1611df54ad4fe674ee10d	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR7226622	chromosome	-	-	NODE_45_length_571_cov_97.052966	571	0.404553415061296	1fbec2fd60aa75dad2b5cae6613807b2	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR7226622	chromosome	-	-	NODE_4_length_221946_cov_30.303718	221946	0.3814846854640318	9bd5a865dece4fc23abca50fff330c95	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR7226622	chromosome	-	-	NODE_5_length_217474_cov_27.713601	217474	0.39093408867266893	82a917221907e9db16ae95e2110a6f5e	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR7226622	chromosome	-	-	NODE_6_length_216776_cov_26.201595	216776	0.37474628187622244	0cd7006ddb78900d416f9590768397a6	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR7226622	chromosome	-	-	NODE_7_length_196261_cov_35.379523	196261	0.3938062345474473	a1219877b925574e6242dde3768deec7	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR7226622	chromosome	-	-	NODE_8_length_184037_cov_32.664490	184037	0.38938909023728924	49113e277443e50cb01c645f3151a184	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR7226622	chromosome	-	-	NODE_9_length_163449_cov_41.760673	163449	0.3977203898463741	978293999d00f8b2ce8203c14973355d	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-

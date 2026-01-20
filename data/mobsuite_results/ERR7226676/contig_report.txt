@@ -1,0 +1,72 @@
+sample_id	molecule_type	primary_cluster_id	secondary_cluster_id	contig_id	size	gc	md5	circularity_status	rep_type(s)	rep_type_accession(s)	relaxase_type(s)	relaxase_type_accession(s)	mpf_type	mpf_type_accession(s)	orit_type(s)	orit_accession(s)	predicted_mobility	mash_nearest_neighbor	mash_neighbor_distance	mash_neighbor_identification	repetitive_dna_id	repetitive_dna_type	filtering_reason
+ERR7226676	chromosome	-	-	NODE_10_length_149180_cov_33.681314	149180	0.39054597720449463	3081a42ca6d327ed6f0256b94c014f27	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR7226676	chromosome	-	-	NODE_11_length_140092_cov_30.728194	140092	0.3817705507809154	dd15bbf87403bfd533b9eda2b10aa16f	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR7226676	chromosome	-	-	NODE_12_length_129324_cov_30.283800	129324	0.3947449815966101	7e850dafec05a5e56737f8f098dc6dd8	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR7226676	chromosome	-	-	NODE_13_length_118877_cov_29.317997	118877	0.3905297071763251	d50b9ad1a0d4216ae4355a63ea387d7e	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR7226676	plasmid	AB114	AJ690	NODE_14_length_114232_cov_34.734301	114232	0.41694971636669237	4fa4df6ac2b2ad7379c9a474b4671830	not tested	rep_cluster_718	002191__CP004359_00001	MOBP	NC_020524_00069	-	-	-	-	-	CP038645	0.00308338	Acinetobacter baumannii	-	-	-
+ERR7226676	chromosome	-	-	NODE_15_length_92590_cov_33.122985	92590	0.37923101846851714	a3d0992fcc9bf4c046549d9a8f81fe7f	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR7226676	chromosome	-	-	NODE_16_length_92261_cov_30.415008	92261	0.3720531969087697	517749252e91fafb599ec88ce5a0c3cc	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR7226676	chromosome	-	-	NODE_17_length_88412_cov_31.010916	88412	0.3883635705560331	275ced68fdd75881d5bad1abdade313d	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR7226676	chromosome	-	-	NODE_18_length_88307_cov_31.639080	88307	0.39902838959538883	6ef867b4e75d3d93a216a2281196a86f	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR7226676	chromosome	-	-	NODE_19_length_80446_cov_38.786277	80446	0.3973721502622877	b3be31404181e662c1cdd4d100957c5f	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR7226676	chromosome	-	-	NODE_1_length_347741_cov_36.358843	347741	0.4014999669294101	532e23af3c0c405b57722993ef262d29	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR7226676	chromosome	-	-	NODE_20_length_79554_cov_35.158064	79554	0.39559293058802825	fb0f96906c52825e853d4f8299c45035	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR7226676	chromosome	-	-	NODE_21_length_74603_cov_37.431024	74603	0.39636475744943234	c8d86dd0cf061c06fef5d8de3d5de1f3	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR7226676	chromosome	-	-	NODE_22_length_56804_cov_29.982788	56804	0.3830716146750229	374d651844811bb971b6e0a32cf4a17d	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR7226676	chromosome	-	-	NODE_23_length_55210_cov_31.227232	55210	0.3836623800036225	6088495898124b2b1496ca105aed4eae	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR7226676	chromosome	-	-	NODE_24_length_54726_cov_27.786369	54726	0.36958666812849467	f54274bc63e81f8776b7924a7c7dffb1	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR7226676	chromosome	-	-	NODE_25_length_53841_cov_28.002345	53841	0.3801378131906911	5b4cbfaf77e3c5653a575f69ae5420a1	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR7226676	chromosome	-	-	NODE_26_length_49319_cov_32.382731	49319	0.39378332894016504	18cbb6a7ce64068dc0e05883545a070d	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR7226676	chromosome	-	-	NODE_27_length_48559_cov_32.299216	48559	0.37774665870384483	09d962e8477ed0236adb8d32a30ba405	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR7226676	plasmid	AE272	-	NODE_28_length_40742_cov_28.536156	40742	0.3925187766923568	77e7d59a416b37b48c47ebe8a3899a8c	not tested	-	-	-	-	-	-	-	-	-	CP036285	0.0574401	Acinetobacter baumannii	-	-	-
+ERR7226676	chromosome	-	-	NODE_29_length_38823_cov_34.690605	38823	0.3944826520361641	b765337548424f702e263dbbd45a5bce	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR7226676	chromosome	-	-	NODE_2_length_257147_cov_32.518751	257147	0.38622266641259667	42caa897eb4f8d6b83ad8f628a16b0ee	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR7226676	chromosome	-	-	NODE_30_length_36296_cov_33.875211	36296	0.38943685254573507	6e5c17e3a27852a439bf139cd773eaf6	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR7226676	chromosome	-	-	NODE_31_length_35845_cov_37.700022	35845	0.3916585297810015	9169640074decd0f1f79d8bcb7664957	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR7226676	chromosome	-	-	NODE_32_length_30185_cov_27.986638	30185	0.3650157362928607	3c2078ca8b2fd785ed58e9e6030bbe9d	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR7226676	chromosome	-	-	NODE_33_length_29445_cov_35.656955	29445	0.38658515877058924	9a4a02e7f6c1fdff97f480c1da36c28c	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR7226676	chromosome	-	-	NODE_34_length_26423_cov_37.563744	26423	0.390985126594255	fbf609de73a74795874af0450a7c6511	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR7226676	chromosome	-	-	NODE_35_length_26135_cov_28.439008	26135	0.3832026018748804	cc8ba605d5a149468925f60abda1bf38	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR7226676	chromosome	-	-	NODE_36_length_25292_cov_31.260271	25292	0.3458405820022141	895e3be024598b8761d2900a73febbe9	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR7226676	chromosome	-	-	NODE_37_length_21126_cov_34.178152	21126	0.3866799204771372	c58e3631a39b2a9334e2f017c8d6f7d6	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR7226676	chromosome	-	-	NODE_38_length_20456_cov_29.884659	20456	0.3648688476274683	9ff234e1336cea537732a7db47f10beb	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR7226676	chromosome	-	-	NODE_39_length_18226_cov_35.523087	18226	0.37973225063096677	52d165f514ec72dab1a64ac17dd9f6e9	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR7226676	chromosome	-	-	NODE_3_length_211070_cov_37.514711	211070	0.395143791159331	164730a9901a07c267ddd48533af9eca	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR7226676	chromosome	-	-	NODE_40_length_16688_cov_30.983965	16688	0.39022051773729627	f00f79e93fba9a989e9fde850f71c275	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR7226676	chromosome	-	-	NODE_41_length_16384_cov_27.941173	16384	0.3511962890625	de73b2cd86dc7a89a8d027589eb8242c	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR7226676	chromosome	-	-	NODE_42_length_12993_cov_37.534202	12993	0.3574232278919418	4ca03f15c8c5850a186e54107806f48f	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR7226676	plasmid	AB114	AJ690	NODE_43_length_12471_cov_30.848529	12471	0.4038168551038409	6c46ec9d0cfcf52a91b2f1a63e042e1c	not tested	-	-	-	-	-	-	-	-	-	CP038645	0.00308338	Acinetobacter baumannii	-	-	-
+ERR7226676	chromosome	-	-	NODE_44_length_11892_cov_29.023743	11892	0.3716784392869156	83adfec32347fc8e6ca6f08061a8a5ed	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR7226676	chromosome	-	-	NODE_45_length_10997_cov_33.459901	10997	0.36673638264981356	a8a201b4f17b8c5090bac3bd5a157856	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR7226676	plasmid	AE271	-	NODE_46_length_10924_cov_29.047113	10924	0.35069571585499815	836cb80ed398a735fcc749ab0af572d8	not tested	-	-	-	-	-	-	-	-	-	CP039931	0.0593303	Acinetobacter baumannii	-	-	-
+ERR7226676	plasmid	AE688	AO520	NODE_47_length_9304_cov_36.113743	9304	0.34716251074806537	9978ca352f8b8d4848efbb124806f50e	not tested	rep_cluster_1364	000682__CU468232_00001	MOBQ	CP042207_00010	-	-	-	-	-	CP038648	2.38274e-05	Acinetobacter baumannii	-	-	-
+ERR7226676	chromosome	-	-	NODE_48_length_8296_cov_39.129560	8296	0.31497107039537126	8b99b4683dfdc3cf336eb19c4257690d	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR7226676	plasmid	AE271	-	NODE_49_length_7955_cov_27.841268	7955	0.3739786297925833	566604aa2c3313e8562b4d30f04254bd	not tested	-	-	-	-	-	-	-	-	-	CP039931	0.0593303	Acinetobacter baumannii	-	-	-
+ERR7226676	chromosome	-	-	NODE_4_length_199400_cov_36.248614	199400	0.39208625877632897	531e2864ea7f5bea636b0574c0caabf0	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR7226676	chromosome	-	-	NODE_50_length_6926_cov_67.781163	6926	0.3742419867167196	e6d128540239e58809d34b1412373943	not tested	rep_cluster_463	001812__CP017939	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR7226676	chromosome	-	-	NODE_51_length_6319_cov_27.834727	6319	0.3690457350846653	fe7a965c214211ae8780266d7ecdac92	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR7226676	plasmid	AB702	AK583	NODE_52_length_6177_cov_94.186410	6177	0.39388052452646916	61e69a558e894f9bcb29414be7f36bc1	not tested	-	-	MOBP	NZ_AFDA02000006_00006	-	-	-	-	-	CP027181	4.76906e-05	Acinetobacter baumannii	-	-	-
+ERR7226676	chromosome	-	-	NODE_53_length_5793_cov_42.610292	5793	0.32729155877783533	8ef39fc9bd0a4a7bbbb7e60ac4b7d592	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR7226676	chromosome	-	-	NODE_54_length_4493_cov_176.800865	4493	0.504885993485342	8938c36263136fbcf749493a18473045	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR7226676	chromosome	-	-	NODE_55_length_3982_cov_27.627865	3982	0.3930185836263184	3b39b8a50bda02e585146773217d9ade	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR7226676	plasmid	AE581	-	NODE_56_length_3576_cov_32.730515	3576	0.6252796420581656	8750e71ee48c19feb3d043ad7bd31524	not tested	-	-	-	-	-	-	-	-	-	KR059864	0.0345853	Klebsiella pneumoniae	KY978629	IS5D	repetitve element
+ERR7226676	plasmid	AE581	-	NODE_57_length_2846_cov_41.765926	2846	0.3608573436401968	0e518b702fa22e515bdad06a86dc8f89	not tested	-	-	-	-	-	-	-	-	-	KR059864	0.0345853	Klebsiella pneumoniae	-	-	-
+ERR7226676	plasmid	AB880	AK846	NODE_58_length_2394_cov_294.531590	2394	0.38847117794486213	89acaec84f39b3b2969a028b7111d373	not tested	rep_cluster_586	001993__CP021784_00001	-	-	-	-	-	-	-	CP028572	0.000656154	Acinetobacter pittii	-	-	-
+ERR7226676	chromosome	-	-	NODE_59_length_2259_cov_38.962963	2259	0.30810092961487384	1243349b79981d5def5c2791125148aa	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR7226676	chromosome	-	-	NODE_5_length_190581_cov_28.290300	190581	0.3762809514064886	b466e9fde1bf32e318c83facc9d30ba3	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR7226676	chromosome	-	-	NODE_60_length_2014_cov_36.332637	2014	0.4126117179741807	41afc144e0d29c13b1ae4bbd92cbfac1	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR7226676	chromosome	-	-	NODE_61_length_1633_cov_54.936767	1633	0.3741579914268218	cd9ea727ec8e1834fda77f784ee89243	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR7226676	chromosome	-	-	NODE_62_length_1566_cov_54.697342	1566	0.4731800766283525	9a83657445c0dbfc322ebd5ff0e9e335	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR7226676	plasmid	AF235	-	NODE_63_length_1282_cov_238.304311	1282	0.38065522620904835	1213f2930214826b1c834c5bcb1177da	not tested	-	-	-	-	-	-	-	-	-	CP032267	0.0387085	Acinetobacter sp. WCHAc010034	KF702385	ISAba14	repetitve element
+ERR7226676	plasmid	AF235	-	NODE_64_length_1116_cov_38.300885	1116	0.33602150537634407	577d3a61535bc818842c49f5c8d90305	not tested	-	-	-	-	-	-	-	-	-	CP032267	0.0387085	Acinetobacter sp. WCHAc010034	-	-	-
+ERR7226676	chromosome	-	-	NODE_65_length_862_cov_162.555701	862	0.35266821345707655	63c9e2bf57501848fd8f0186a475d85a	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR7226676	chromosome	-	-	NODE_66_length_860_cov_496.909330	860	0.37209302325581395	42db5952050b9a58a910a3e9e13e8037	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR7226676	chromosome	-	-	NODE_67_length_746_cov_93.088099	746	0.4155495978552279	74d37e726a7e997dcc9760b0747e15ba	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR7226676	chromosome	-	-	NODE_68_length_697_cov_127.145485	697	0.40746054519368724	0323eb9f2b3f33dece7497646e119f60	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR7226676	chromosome	-	-	NODE_69_length_690_cov_70.575296	690	0.45217391304347826	799fbb6232681e4dac6ce372004d4f6b	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR7226676	chromosome	-	-	NODE_6_length_180343_cov_34.728046	180343	0.39731704475475593	d0365300df960e8e1f2d57cf65e224af	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR7226676	chromosome	-	-	NODE_70_length_632_cov_319.360225	632	0.37183544303797467	394ecbc5c853c8e17923de6f2c3b28ff	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR7226676	chromosome	-	-	NODE_71_length_592_cov_45.912779	592	0.36655405405405406	4df439dfec4593346ae43830cc8b0a04	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR7226676	chromosome	-	-	NODE_7_length_175226_cov_33.731338	175226	0.3866663622978325	fe05f4fea855ee0988cab0d87ad7e4e5	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR7226676	chromosome	-	-	NODE_8_length_161266_cov_38.376746	161266	0.3962955613706547	2c05e09437b2606496c6ec718e543759	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR7226676	chromosome	-	-	NODE_9_length_159284_cov_28.051217	159284	0.3832148866176138	9b81956fceffd1f8ada850c0b213a393	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-

@@ -1,0 +1,4 @@
+sample_id	molecule_type	primary_cluster_id	secondary_cluster_id	contig_id	size	gc	md5	mge_id	mge_acs	mge_type	mge_subtype	mge_length	mge_start	mge_end	contig_start	contig_end	length	sstrand	qcovhsp	pident	evalue	bitscore
+ERR7226646	chromosome			NODE_19_length_67090_cov_36.411413	67090	0.3927410940527649	bb42a215e391576e5f8a6545ddae1643	00596	JX076770	ISAba21	IS3	1274	1	1274	44989	46262						
+ERR7226646	chromosome			NODE_19_length_67090_cov_36.411413	67090	0.3927410940527649	bb42a215e391576e5f8a6545ddae1643	00966	CP001182	ISAlw1	IS5	1039	1	1039	60929	61967						
+ERR7226646	chromosome			NODE_31_length_15799_cov_36.520828	15799	0.3861003861003861	bba08f0d8618077da8cab8b1d37babfd	00345	CP001182	ISAba26	IS256	1318	1	1318	154	1471						

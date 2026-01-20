@@ -1,0 +1,174 @@
+sample_id	molecule_type	primary_cluster_id	secondary_cluster_id	contig_id	size	gc	md5	circularity_status	rep_type(s)	rep_type_accession(s)	relaxase_type(s)	relaxase_type_accession(s)	mpf_type	mpf_type_accession(s)	orit_type(s)	orit_accession(s)	predicted_mobility	mash_nearest_neighbor	mash_neighbor_distance	mash_neighbor_identification	repetitive_dna_id	repetitive_dna_type	filtering_reason
+ERR10852925	plasmid	AE272	-	NODE_100_length_6231_cov_5.605023	6231	0.36623334938212165	1f0095ebadf000256f184f29151c498d	not tested	-	-	-	-	-	-	-	-	-	CP036285	0.026819	Acinetobacter baumannii	-	-	-
+ERR10852925	chromosome	-	-	NODE_101_length_5888_cov_7.184833	5888	0.37618885869565216	ea87a88f10680c125023dc6f9246316d	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR10852925	chromosome	-	-	NODE_102_length_5816_cov_6.905195	5816	0.3607290233837689	16d1e8f8cde1da895b37e0b08e1f4158	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR10852925	chromosome	-	-	NODE_103_length_5605_cov_5.266437	5605	0.4067796610169492	ed8017239ce92dd243f3d43166bf37ee	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR10852925	chromosome	-	-	NODE_104_length_5502_cov_4.971312	5502	0.31897491821155943	8d1c2c3fd8a7dae17a7a4128293b32a7	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR10852925	chromosome	-	-	NODE_105_length_5489_cov_7.553803	5489	0.38604481690654036	78e216d642bffb8f476fbd63956bdf6e	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR10852925	chromosome	-	-	NODE_106_length_5470_cov_5.289518	5470	0.33345521023765995	e86d7604afca1e8572156a3cbe68baf8	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR10852925	chromosome	-	-	NODE_107_length_5433_cov_6.981252	5433	0.398490704951224	a8e0ed3498412ed5efd602e68109a74e	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR10852925	chromosome	-	-	NODE_108_length_5265_cov_6.781843	5265	0.33010446343779676	1ffd25b6e761c1160f6927d7f97c4a53	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR10852925	chromosome	-	-	NODE_109_length_5249_cov_5.498641	5249	0.31644122690036197	83de6810adf9dde5f03f8e310ce52ade	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR10852925	chromosome	-	-	NODE_10_length_67640_cov_6.931716	67640	0.402602010644589	d5a0b749a2f386421a11c2e7f2688d14	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR10852925	chromosome	-	-	NODE_110_length_4923_cov_5.535033	4923	0.3591306114158034	fff10b4267c133d50942e0e2d177b829	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR10852925	chromosome	-	-	NODE_111_length_4886_cov_39.120744	4886	0.4916086778550962	4e057b45b1041c63548d567ada96e001	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR10852925	plasmid	AB408	AK177	NODE_112_length_4789_cov_7.823667	4789	0.5245353936103571	12f043d1173726c255b4c16c2920da06	not tested	-	-	-	-	-	-	-	-	-	CP033769	0.00511931	Acinetobacter baumannii	-	-	-
+ERR10852925	chromosome	-	-	NODE_113_length_4781_cov_5.922042	4781	0.3735620163145785	14ff0f2cb48ca2fc951c1ab1ed0e80e2	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR10852925	plasmid	AB408	AK177	NODE_114_length_4684_cov_8.975136	4684	0.36507258753202393	1d5ff1b26c4d87a54be86b45c3cefe36	not tested	-	-	-	-	-	-	-	-	-	CP033769	0.00511931	Acinetobacter baumannii	-	-	-
+ERR10852925	chromosome	-	-	NODE_115_length_4372_cov_7.394103	4372	0.37008234217749314	efdd0506f6b2cef0a3b64b0280217bf0	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR10852925	chromosome	-	-	NODE_116_length_4290_cov_6.973515	4290	0.36876456876456876	aa31eff6ba5748f9f5aa58065f54ac4c	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR10852925	chromosome	-	-	NODE_117_length_4164_cov_6.587454	4164	0.38064361191162344	64fcef32853ffbb2b0ff974ded71a4bd	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR10852925	chromosome	-	-	NODE_118_length_3838_cov_6.236694	3838	0.38692027097446585	e8ec9a6ad7ded3aac4ffed98bea4ec23	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR10852925	chromosome	-	-	NODE_119_length_3357_cov_6.050338	3357	0.3095025320226393	699b9f8ddce231001e996bc67c6662eb	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR10852925	chromosome	-	-	NODE_11_length_67357_cov_7.375747	67357	0.4045904657273928	9526a59b7428e75701a1e3e50e95c3d0	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR10852925	chromosome	-	-	NODE_120_length_2998_cov_6.716799	2998	0.32888592394929955	b306a90292479804a93fa840387b4339	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR10852925	chromosome	-	-	NODE_121_length_2954_cov_5.801051	2954	0.3896411645226811	701ae047d78d4ddaf89a5791f7d2d863	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR10852925	chromosome	-	-	NODE_122_length_2926_cov_6.922886	2926	0.41216678058783324	2e6312aa12e622089f02b1f0f6bb157c	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR10852925	chromosome	-	-	NODE_123_length_2888_cov_5.642524	2888	0.3559556786703601	92281f63a4da0b9cab2c7e64a6aad3c2	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR10852925	plasmid	AE271	AO017	NODE_124_length_2842_cov_4.530077	2842	0.330752990851513	73286624cdf74252f698ad2f77e6e332	not tested	-	-	-	-	-	-	-	-	-	CP039931	0.0244475	Acinetobacter baumannii	-	-	-
+ERR10852925	plasmid	AB408	AK177	NODE_125_length_2802_cov_8.876434	2802	0.36616702355460384	e1505cac4aaad9ed102609a30ec6b420	not tested	-	-	-	-	-	-	-	-	-	CP033769	0.00511931	Acinetobacter baumannii	-	-	-
+ERR10852925	chromosome	-	-	NODE_126_length_2640_cov_5.499803	2640	0.3068181818181818	f7682593a9bfb1f7c803a330f815d964	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR10852925	chromosome	-	-	NODE_127_length_2615_cov_34.544118	2615	0.47648183556405355	1ec250b7210cc1065b3f9473bda88933	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR10852925	chromosome	-	-	NODE_128_length_2592_cov_6.395106	2592	0.3306327160493827	d234a5ae33764d2c7da79dead907a244	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR10852925	chromosome	-	-	NODE_129_length_2431_cov_7.495712	2431	0.3517071164129988	40ea8361d8c63f53390d51555432bfcc	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR10852925	chromosome	-	-	NODE_12_length_67357_cov_5.343186	67357	0.37491277818192614	c77564abb5fd25c09064b80dacb8bf30	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR10852925	chromosome	-	-	NODE_130_length_2344_cov_6.787973	2344	0.3515358361774744	0e3603f8217d8c08d01d8fea02dca86d	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR10852925	plasmid	AE271	AO017	NODE_131_length_2332_cov_6.080609	2332	0.3649228130360206	0ce9b6ed8b91b708bb58892f0138bd9c	not tested	-	-	-	-	-	-	-	-	-	CP039931	0.0244475	Acinetobacter baumannii	-	-	-
+ERR10852925	chromosome	-	-	NODE_132_length_2160_cov_7.922853	2160	0.36342592592592593	59678f5785bd0a3b4b1eeb0381bfae1a	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR10852925	chromosome	-	-	NODE_133_length_2134_cov_8.708108	2134	0.3683223992502343	bc969f5d837ea4ab79eeef4bb73bd6a6	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR10852925	chromosome	-	-	NODE_134_length_2129_cov_7.953695	2129	0.34805072804133397	e0658606ffba839fa71aa1862ef990ff	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR10852925	chromosome	-	-	NODE_135_length_1977_cov_6.818956	1977	0.3783510369246333	2db84dc3280676d6da9050872d1d5c4a	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR10852925	chromosome	-	-	NODE_136_length_1902_cov_8.153078	1902	0.30441640378548895	58db5441597038b8c2e8c5a08d5ae9bc	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR10852925	plasmid	AE271	AO017	NODE_137_length_1900_cov_4.527485	1900	0.36894736842105263	6372de294e1dc4f528d2d909e998251a	not tested	-	-	-	-	-	-	-	-	-	CP039931	0.0244475	Acinetobacter baumannii	-	-	-
+ERR10852925	chromosome	-	-	NODE_138_length_1860_cov_5.826803	1860	0.3209677419354839	b8f7845e532fd7c00b2d1545e414d690	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR10852925	plasmid	AE271	AO017	NODE_139_length_1840_cov_5.354968	1840	0.36467391304347824	b226e5c473a055fa790f83e04f22c31c	not tested	-	-	-	-	-	-	-	-	-	CP039931	0.0244475	Acinetobacter baumannii	-	-	-
+ERR10852925	chromosome	-	-	NODE_13_length_61285_cov_6.200078	61285	0.38908378885534795	4f1d42ea6303592927ae815dc72f6407	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR10852925	chromosome	-	-	NODE_140_length_1807_cov_4.915691	1807	0.3574986164914222	96ae17aed323b03596414e146253f3dc	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR10852925	chromosome	-	-	NODE_141_length_1748_cov_78.950273	1748	0.39359267734553777	aaca1ab5fb6e2a6bc04bee80d9200dbf	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR10852925	chromosome	-	-	NODE_142_length_1717_cov_8.229295	1717	0.3506115317414094	a2447d7837c0ff667e3b32b0dc1e7b7d	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR10852925	plasmid	AE271	AO017	NODE_143_length_1620_cov_5.694938	1620	0.3567901234567901	ba81ebeb7b52e2e63e0a3dcad8b2ab63	not tested	-	-	-	-	-	-	-	-	-	CP039931	0.0244475	Acinetobacter baumannii	-	-	-
+ERR10852925	chromosome	-	-	NODE_144_length_1574_cov_6.277288	1574	0.36658195679796696	859951753962527b34fd5bb7333a73d8	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR10852925	chromosome	-	-	NODE_145_length_1407_cov_4.754587	1407	0.35110163468372424	d7cceed16a93a9d8bbecde1de3a1c9b1	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR10852925	chromosome	-	-	NODE_146_length_1396_cov_5.885891	1396	0.3631805157593123	4e1d307660dee1bc139b20ec03d0a1da	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR10852925	chromosome	-	-	NODE_147_length_1371_cov_4.989780	1371	0.47191830780452226	eb018dbd8d23e9e76910366ad074258d	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR10852925	plasmid	AB408	AK177	NODE_148_length_1364_cov_7.120158	1364	0.33284457478005863	832c62d4f9868dbe66651d4ae2c5e36f	not tested	-	-	-	-	-	-	-	-	-	CP033769	0.00511931	Acinetobacter baumannii	-	-	-
+ERR10852925	plasmid	AE271	AO017	NODE_149_length_1357_cov_5.496025	1357	0.369933677229182	d824ac6226fd5e3b07b3f93a474e502c	not tested	-	-	-	-	-	-	-	-	-	CP039931	0.0244475	Acinetobacter baumannii	-	-	-
+ERR10852925	chromosome	-	-	NODE_14_length_55475_cov_7.491946	55475	0.4044344299233889	37d09dc7302cf6d0bb26849f99ce1054	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR10852925	chromosome	-	-	NODE_150_length_1290_cov_6.952981	1290	0.32868217054263565	346213677e5fe7d6b1bd006e4bcaf3c8	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR10852925	chromosome	-	-	NODE_151_length_1203_cov_13.769928	1203	0.4455527847049044	4219bde9322fc8a40e8ce9976f45e5dd	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR10852925	chromosome	-	-	NODE_152_length_1162_cov_7.186265	1162	0.29518072289156627	cec49c6cf46a015ca74da3705830976d	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR10852925	chromosome	-	-	NODE_153_length_1127_cov_9.709144	1127	0.28660159716060335	a5e9428bc4e4fd32f78d274991aede67	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR10852925	chromosome	-	-	NODE_154_length_1077_cov_14.960123	1077	0.3398328690807799	8f2162715de0a6366ef6f54db01491ce	not tested	-	-	-	-	-	-	-	-	-	-	-	-	JX072963	ISAba11	repetitve element
+ERR10852925	plasmid	AB408	AK177	NODE_155_length_1040_cov_57.687566	1040	0.3903846153846154	cc25476ef3317b6687981a42baf8dcbd	not tested	-	-	-	-	-	-	-	-	-	CP033769	0.00511931	Acinetobacter baumannii	MF399199	ISAha2	repetitve element
+ERR10852925	chromosome	-	-	NODE_156_length_1029_cov_6.668817	1029	0.4033041788143829	6f59a360735587e1409b1fcfd18b148c	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR10852925	chromosome	-	-	NODE_157_length_997_cov_8.962138	997	0.2708124373119358	699735a774256fd7fb031c044c17396c	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR10852925	chromosome	-	-	NODE_158_length_939_cov_39.301190	939	0.41959531416400425	b8dccecac2cd10906bac0d08bdf3b57e	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR10852925	chromosome	-	-	NODE_159_length_912_cov_5.441574	912	0.26864035087719296	e8ea85b2b089590082bc809f9de0af00	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR10852925	chromosome	-	-	NODE_15_length_54137_cov_7.769588	54137	0.37706189851672606	9c6d0b2f3a58f73bdd0494e520904823	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR10852925	chromosome	-	-	NODE_160_length_892_cov_6.691047	892	0.3038116591928251	645ee62f90c97bae64a8441ea16481c7	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR10852925	chromosome	-	-	NODE_161_length_890_cov_25.413401	890	0.3393258426966292	e26ef95d6d819456e8624d876efafc81	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR10852925	chromosome	-	-	NODE_162_length_803_cov_33.271307	803	0.46824408468244083	d06e2ef86ac2f8b7368d2a50bb368405	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR10852925	chromosome	-	-	NODE_163_length_756_cov_8.832572	756	0.33201058201058203	385666367b82025f119685d9d07b8075	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR10852925	chromosome	-	-	NODE_164_length_720_cov_4.801932	720	0.25	1980a92316ee9a866475c3c73dc685f1	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR10852925	chromosome	-	-	NODE_165_length_652_cov_41.336347	652	0.37116564417177916	b8670cae1c2db53fef5cb8bffded61a7	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR10852925	chromosome	-	-	NODE_166_length_635_cov_4.673507	635	0.3464566929133858	b9864ba5c7c719fd6a72b372a65518ff	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR10852925	chromosome	-	-	NODE_167_length_626_cov_42.273245	626	0.4696485623003195	5bf59973167a85191e00a8ca10f53afe	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR10852925	chromosome	-	-	NODE_168_length_611_cov_4.263672	611	0.2635024549918167	4eac2d304058b0c5828178e6049090a4	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR10852925	chromosome	-	-	NODE_169_length_580_cov_5.661123	580	0.44655172413793104	cfb2fb7faf45e88379ac5dac1f5550ce	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR10852925	chromosome	-	-	NODE_16_length_53511_cov_7.368588	53511	0.38218310253966475	8214130447608e5ba5c96dff56522244	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR10852925	chromosome	-	-	NODE_170_length_570_cov_90.910828	570	0.39473684210526316	7e780bc9b5f3038fd49f4b9b37471b6e	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR10852925	chromosome	-	-	NODE_171_length_554_cov_17.261538	554	0.388086642599278	df49b8b9a3a9e1cec6d18020552e3975	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR10852925	chromosome	-	-	NODE_172_length_551_cov_76.617257	551	0.3738656987295826	38e7117c4c663fcfec53c851f630b0fc	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR10852925	chromosome	-	-	NODE_173_length_540_cov_35.700680	540	0.4203703703703704	aa0aff9518f02012c4a585ef377bec06	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR10852925	chromosome	-	-	NODE_17_length_53406_cov_6.064663	53406	0.3942066434483017	08be615c1656027c8c29dabef3e49669	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR10852925	chromosome	-	-	NODE_18_length_52772_cov_7.945190	52772	0.41046388236185855	07bd6bda297098874a5d9a92555a9acc	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR10852925	chromosome	-	-	NODE_19_length_52049_cov_6.500366	52049	0.40102595631039983	e37a7895be446cd1a9ca165dbe7e0e57	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR10852925	chromosome	-	-	NODE_1_length_129148_cov_6.684802	129148	0.38942918202372473	7bb21abed6173426f8a7c0eb3ebfae48	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR10852925	chromosome	-	-	NODE_20_length_50673_cov_5.658975	50673	0.38560969352515145	f1cd5b26e8192f6adb0d32b60ddad54c	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR10852925	chromosome	-	-	NODE_21_length_50207_cov_5.164904	50207	0.38452805385703187	e4ca379406ddb5088e5953cb3be157d6	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR10852925	chromosome	-	-	NODE_22_length_50149_cov_5.652747	50149	0.3842748609144749	e6cfe99e01e813a44df85b91d35ac550	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR10852925	chromosome	-	-	NODE_23_length_49139_cov_7.697002	49139	0.39184761594660045	ce13cfca99938c79f9cb2d5364aadb55	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR10852925	chromosome	-	-	NODE_24_length_47856_cov_6.746571	47856	0.3970244065529923	b72fe69ae53014c34b3d9de0760e26b7	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR10852925	plasmid	AH171	AR227	NODE_25_length_47598_cov_7.093265	47598	0.40041598386486826	dd5e9d5ba562f825071a08b4f570477b	not tested	-	-	-	-	-	-	-	-	-	CP039027	0.0246043	Acinetobacter baumannii ATCC 17978	-	-	-
+ERR10852925	chromosome	-	-	NODE_26_length_47095_cov_5.399460	47095	0.37549633719078457	3a94dbe9afb3c9c06035adc2219134ba	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR10852925	chromosome	-	-	NODE_27_length_45934_cov_5.477255	45934	0.40558192188792613	1e5bb45df583da10d78260a2def96354	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR10852925	chromosome	-	-	NODE_28_length_42730_cov_5.504445	42730	0.37069974256962324	7522dd5431d312ecd8140865a5188fcf	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR10852925	chromosome	-	-	NODE_29_length_42567_cov_6.888716	42567	0.3914299809711749	d69563f223336ef8ae938a4c253b0dae	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR10852925	chromosome	-	-	NODE_2_length_127499_cov_6.428132	127499	0.3975090000705888	ce6fa9dbf513db75b47bf672a424d858	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR10852925	chromosome	-	-	NODE_30_length_42056_cov_8.186095	42056	0.40562583222370174	f18483fab52df5734f94bf18eaf92b11	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR10852925	chromosome	-	-	NODE_31_length_40786_cov_6.104554	40786	0.3912862256656696	bb24d1e30d8decd9cfb274214226de27	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR10852925	chromosome	-	-	NODE_32_length_40388_cov_5.271371	40388	0.3997474497375458	8bc07c35af96c3ece5b4975b750d02c5	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR10852925	chromosome	-	-	NODE_33_length_39886_cov_7.766054	39886	0.379732236875094	01fe4d1a87c9a67fb3eb5a3808a1cb58	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR10852925	plasmid	AE272	-	NODE_34_length_37078_cov_5.299846	37078	0.3900156426991747	d0e4af3b71e1fd9654d1c478c330b18a	not tested	-	-	-	-	-	-	-	-	-	CP036285	0.026819	Acinetobacter baumannii	-	-	-
+ERR10852925	chromosome	-	-	NODE_35_length_36250_cov_5.987331	36250	0.38071724137931034	870876c1e1b3819e6559b1b392282188	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR10852925	chromosome	-	-	NODE_36_length_35084_cov_5.857053	35084	0.3829095884163721	6c2bb749ee33842b149a62ce93639bdb	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR10852925	chromosome	-	-	NODE_37_length_34780_cov_7.413915	34780	0.40060379528464635	47e777be9c330b7e3be0605c779ee8d3	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR10852925	chromosome	-	-	NODE_38_length_32990_cov_5.441458	32990	0.3747802364352834	18e25ee5cc0095877c62f100a8fe9519	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR10852925	chromosome	-	-	NODE_39_length_32979_cov_6.145620	32979	0.38839867794657207	446186d8d920a804999fc18d7c3b9bf7	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR10852925	chromosome	-	-	NODE_3_length_108564_cov_7.621270	108564	0.4065528167716739	f3897995dbd5690c53ab1e76d4359eff	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR10852925	chromosome	-	-	NODE_40_length_32594_cov_7.243668	32594	0.39310704640314265	b331d58468d3e95ee7fed2463ee44ded	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR10852925	chromosome	-	-	NODE_41_length_32081_cov_7.922425	32081	0.3865216171565724	679c92352e3f5c91c687640ad2151924	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR10852925	chromosome	-	-	NODE_42_length_31729_cov_6.786469	31729	0.3915030413817013	9b07cbda03330439368ef6df3cc1095e	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR10852925	chromosome	-	-	NODE_43_length_30392_cov_6.251444	30392	0.3915833113977362	896a1f025faba87d9a2e66dc17e5b38a	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR10852925	chromosome	-	-	NODE_44_length_30347_cov_6.024993	30347	0.38099317889741985	42a2b986e5ba1d1c277fdc9fa89c788d	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR10852925	chromosome	-	-	NODE_45_length_29122_cov_5.956758	29122	0.3893963326694595	873bda65e3a166b9575a4b2b48108e8f	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR10852925	chromosome	-	-	NODE_46_length_27912_cov_7.693093	27912	0.3880768128403554	f05be74746a37425baf7532de790a5e5	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR10852925	chromosome	-	-	NODE_47_length_27273_cov_5.471149	27273	0.34293990393429397	ede8714a19a72eec509ba1d4fab7eb07	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR10852925	plasmid	AB408	AK177	NODE_48_length_26253_cov_9.524356	26253	0.38647011770083417	31a58e774369ad4ddb08b4e15571066c	not tested	-	-	MOBP	NZ_AEOY01000096_00007	-	-	-	-	-	CP033769	0.00511931	Acinetobacter baumannii	-	-	-
+ERR10852925	chromosome	-	-	NODE_49_length_24026_cov_5.777448	24026	0.38807958045450763	da8db80520bfcac6114e7601c908c743	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR10852925	chromosome	-	-	NODE_4_length_107529_cov_7.064963	107529	0.3947121241711538	af93b0a7fde7caa11cd72bb2b62f9808	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR10852925	chromosome	-	-	NODE_50_length_22682_cov_6.283930	22682	0.3971871968962173	b275e3c08ff78bcd5cfb993a096f8ada	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR10852925	chromosome	-	-	NODE_51_length_22453_cov_5.709403	22453	0.3998129425911905	b95f87385960f482e0415fe86f4cbc29	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR10852925	chromosome	-	-	NODE_52_length_22105_cov_6.679587	22105	0.3822664555530423	335220e446e38dc75d8eacce2658fb69	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR10852925	chromosome	-	-	NODE_53_length_22089_cov_6.324375	22089	0.3749377518221739	73c2cfd64015bb1d96f3ec4052242bc7	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR10852925	chromosome	-	-	NODE_54_length_21210_cov_7.378570	21210	0.39203206034889204	5916508b01f161028e59d3f161ad7bd7	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR10852925	chromosome	-	-	NODE_55_length_20751_cov_6.174898	20751	0.3923666329333526	172f2a532708e9dacd42adeacfb63bb9	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR10852925	plasmid	AE272	-	NODE_56_length_20333_cov_5.421321	20333	0.37987507991934294	3370ba37309f2d9f27e90476cd98aca8	not tested	-	-	-	-	-	-	-	-	-	CP036285	0.026819	Acinetobacter baumannii	-	-	-
+ERR10852925	chromosome	-	-	NODE_57_length_20179_cov_5.697659	20179	0.3934288121314238	545ac369654471f287cf62a57486019b	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR10852925	chromosome	-	-	NODE_58_length_19727_cov_5.612340	19727	0.3934201855325189	1809313aca893baa6a798231f79fd1df	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR10852925	chromosome	-	-	NODE_59_length_18816_cov_6.302987	18816	0.40407100340136054	3305fec2b94d8cb0c876181576249fc1	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR10852925	chromosome	-	-	NODE_5_length_84652_cov_7.361584	84652	0.40093559514246563	15380ff2ea3af5c117f23835b88ceb44	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR10852925	chromosome	-	-	NODE_60_length_18708_cov_7.235424	18708	0.37994440880906566	03045ba4293ff038732f21a80126c64f	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR10852925	chromosome	-	-	NODE_61_length_18616_cov_6.028190	18616	0.39229694886119465	1430808c709aea8b20ef29864cd4f9f9	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR10852925	chromosome	-	-	NODE_62_length_18446_cov_6.234576	18446	0.39244280602840725	9c5bc45f351f2c3d04bb16ef4435b9f3	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR10852925	chromosome	-	-	NODE_63_length_18133_cov_6.772485	18133	0.40842662548943914	f7251afe60fba0f9d3d8a63f705de667	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR10852925	chromosome	-	-	NODE_64_length_18069_cov_5.640735	18069	0.40218053018982786	073da236694ce06b78ed823f24a65132	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR10852925	chromosome	-	-	NODE_65_length_18021_cov_5.719618	18021	0.3827756506298208	024f90abfc6e4163986b9014fb5e04d2	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR10852925	chromosome	-	-	NODE_66_length_17836_cov_6.650223	17836	0.37788741870374526	81329901158a33a97304357eb306f883	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR10852925	chromosome	-	-	NODE_67_length_17579_cov_5.718650	17579	0.3652084873997383	b45cda3a52330a83a28ce86f08c2f2e6	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR10852925	chromosome	-	-	NODE_68_length_17488_cov_7.144057	17488	0.4145128087831656	d5f046856ea6ad7a2799b4d841032737	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR10852925	chromosome	-	-	NODE_69_length_17146_cov_7.632897	17146	0.38743730316108715	dc423d74bb0a9f112683cc8fcee8c278	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR10852925	chromosome	-	-	NODE_6_length_79140_cov_7.087309	79140	0.39668941117007833	f98aae67b3a68dabe0ceb70c827bfaac	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR10852925	plasmid	AE271	AO017	NODE_70_length_16421_cov_5.520034	16421	0.3852384142256866	8e138ad13311f0230e8bf72aa8fff06d	not tested	-	-	-	-	-	-	-	-	-	CP039931	0.0244475	Acinetobacter baumannii	-	-	-
+ERR10852925	plasmid	AB408	AK177	NODE_71_length_15940_cov_9.249605	15940	0.36166875784190716	0b57c62cf47cf3174fcf9663d5fa7170	not tested	-	-	-	-	-	-	-	-	-	CP033769	0.00511931	Acinetobacter baumannii	-	-	-
+ERR10852925	plasmid	AE688	AO519	NODE_72_length_13641_cov_13.495126	13641	0.34623561322483687	e3e7e0fefa4ad8edaa11d8d75c655024	not tested	rep_cluster_1364	000682__CU468232_00001	MOBQ	CP042207_00010	-	-	-	-	-	CP021348	0.0195632	Acinetobacter baumannii	-	-	-
+ERR10852925	chromosome	-	-	NODE_73_length_13428_cov_6.025883	13428	0.41294310396187073	94bc4c3558b076c1f4cd8cb89e5808b4	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR10852925	chromosome	-	-	NODE_74_length_13370_cov_7.684952	13370	0.3769633507853403	c4768697f950a144136fa1ed566f9488	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR10852925	chromosome	-	-	NODE_75_length_12452_cov_5.265118	12452	0.3511082557018953	f6d2aa72dd51faeb6545129f39160399	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR10852925	chromosome	-	-	NODE_76_length_12325_cov_6.871094	12325	0.37103448275862067	3b2732b3854812326964980a3c6421cc	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR10852925	chromosome	-	-	NODE_77_length_11975_cov_5.617801	11975	0.40133611691022963	6efe07d532e074403cffd02d36420655	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR10852925	plasmid	AB408	AK177	NODE_78_length_11051_cov_7.163075	11051	0.5621210750158356	a462c6dfdd95125fdfd2dbeab61a93a6	not tested	-	-	-	-	-	-	-	-	-	CP033769	0.00511931	Acinetobacter baumannii	-	-	-
+ERR10852925	chromosome	-	-	NODE_79_length_10951_cov_6.064965	10951	0.3829787234042553	406e327292c1c2d2c5f966557b43f2b6	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR10852925	chromosome	-	-	NODE_7_length_70184_cov_6.144753	70184	0.3901601504616437	19b5ec110b697d4ce6b1af47c4ee2b21	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR10852925	chromosome	-	-	NODE_80_length_10404_cov_5.442698	10404	0.4108996539792388	ea934114c5c715ecee49260abfae7b3d	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR10852925	chromosome	-	-	NODE_81_length_10220_cov_6.006719	10220	0.3563600782778865	5c20edfdd656915b61a544324aecf9b6	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR10852925	plasmid	AE271	AO017	NODE_82_length_10136_cov_5.162299	10136	0.39936858721389107	a220eead7bb7b51a0f7bc273b1ff92dd	not tested	-	-	-	-	-	-	-	-	-	CP039931	0.0244475	Acinetobacter baumannii	-	-	-
+ERR10852925	chromosome	-	-	NODE_83_length_9809_cov_5.970752	9809	0.39484147211744314	088b4f94188d217341edf735c892d0b7	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR10852925	plasmid	AE271	AO017	NODE_84_length_9490_cov_5.522522	9490	0.3939936775553214	589842373ae68e7e03ce200ab81a9481	not tested	-	-	-	-	-	-	-	-	-	CP039931	0.0244475	Acinetobacter baumannii	-	-	-
+ERR10852925	plasmid	AE271	AO017	NODE_85_length_9051_cov_5.190237	9051	0.3841564468014584	2d20f7731c07b5bd0e88c42ae1e9044e	not tested	-	-	-	-	-	-	-	-	-	CP039931	0.0244475	Acinetobacter baumannii	-	-	-
+ERR10852925	chromosome	-	-	NODE_86_length_8953_cov_5.443528	8953	0.3779738635094382	88d697659737649c08293b62e1b43cfd	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR10852925	plasmid	AB408	AK177	NODE_87_length_8470_cov_9.825469	8470	0.34533648170011805	f84f1c2938f309106acafecf94f73c79	not tested	rep_cluster_639	002092__CU459140_00002	-	-	-	-	-	-	-	CP033769	0.00511931	Acinetobacter baumannii	-	-	-
+ERR10852925	chromosome	-	-	NODE_88_length_8014_cov_5.641819	8014	0.40566508609932617	f58bc41cef04455d9d665bad972823d4	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR10852925	chromosome	-	-	NODE_89_length_8003_cov_5.401189	8003	0.3533674871923029	39e1ff2f9c4e79722976c2b5690a909d	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR10852925	chromosome	-	-	NODE_8_length_69736_cov_6.043698	69736	0.3862423999082253	7ddced9bba9870d2ddde509bd35d1b24	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR10852925	plasmid	AE272	-	NODE_90_length_7797_cov_5.820473	7797	0.3745030139797358	3f0570b647c1e244bbe47506136657d2	not tested	-	-	-	-	-	-	-	-	-	CP036285	0.026819	Acinetobacter baumannii	-	-	-
+ERR10852925	chromosome	-	-	NODE_91_length_7573_cov_5.513246	7573	0.37303578502574936	847a02e9e27db75e762d6048db89e123	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR10852925	plasmid	AB408	AK177	NODE_92_length_7259_cov_9.244832	7259	0.36038021766083483	38e077a9226a608af6e7c3ca4bf78727	not tested	-	-	-	-	-	-	-	-	-	CP033769	0.00511931	Acinetobacter baumannii	-	-	-
+ERR10852925	plasmid	AE271	AO017	NODE_93_length_7186_cov_5.497813	7186	0.3886724185917061	567dd5400e3c4961ac3b65d48fc02890	not tested	-	-	-	-	-	-	-	-	-	CP039931	0.0244475	Acinetobacter baumannii	-	-	-
+ERR10852925	chromosome	-	-	NODE_94_length_7062_cov_6.580641	7062	0.3598130841121495	fcf9e954c756728c972b43144aa8d198	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR10852925	chromosome	-	-	NODE_95_length_6858_cov_5.555408	6858	0.40726159230096237	337e78a08a468387f1e665fbc160edff	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR10852925	plasmid	AB408	AK177	NODE_96_length_6582_cov_8.855468	6582	0.367213612883622	e870778856bb40d62a7297120c86d976	not tested	-	-	-	-	-	-	-	-	-	CP033769	0.00511931	Acinetobacter baumannii	-	-	-
+ERR10852925	chromosome	-	-	NODE_97_length_6551_cov_5.349504	6551	0.3226988246069302	d146f33d26768ab5eb2aa28af58503f8	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR10852925	chromosome	-	-	NODE_98_length_6499_cov_6.964688	6499	0.39698415140790894	c90bf0fae414fb6232f9cddb97c17daf	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR10852925	chromosome	-	-	NODE_99_length_6373_cov_7.263946	6373	0.3714106386317276	9d8ebb95eb6c8c37822a620f916f9c97	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR10852925	chromosome	-	-	NODE_9_length_68495_cov_6.505146	68495	0.37424629535002557	1e7364b31ad25f65d256be0260090fd0	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-

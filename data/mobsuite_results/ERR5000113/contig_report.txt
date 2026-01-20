@@ -1,0 +1,49 @@
+sample_id	molecule_type	primary_cluster_id	secondary_cluster_id	contig_id	size	gc	md5	circularity_status	rep_type(s)	rep_type_accession(s)	relaxase_type(s)	relaxase_type_accession(s)	mpf_type	mpf_type_accession(s)	orit_type(s)	orit_accession(s)	predicted_mobility	mash_nearest_neighbor	mash_neighbor_distance	mash_neighbor_identification	repetitive_dna_id	repetitive_dna_type	filtering_reason
+ERR5000113	chromosome	-	-	NODE_10_length_172683_cov_22.119848	172683	0.3964026568915296	620144c0b20b378b065d18780a4804a8	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR5000113	chromosome	-	-	NODE_11_length_165853_cov_24.661625	165853	0.3800775385431677	c0115391676bc70117f2d4777c33d52a	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR5000113	chromosome	-	-	NODE_12_length_140046_cov_26.571402	140046	0.39112148865372803	f4b32df3b64eb2add1f29340c5708b95	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR5000113	chromosome	-	-	NODE_13_length_130133_cov_30.294177	130133	0.4037023660408966	d5cb14e48b2fe823227af816f74044bb	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR5000113	chromosome	-	-	NODE_14_length_95810_cov_27.129452	95810	0.3951988310197265	a2f43d09b4f6ab97c41364f017e452ef	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR5000113	chromosome	-	-	NODE_15_length_95713_cov_26.043853	95713	0.38121258345261355	8e1baa8054e19aa073f77b2420de310f	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR5000113	chromosome	-	-	NODE_16_length_89327_cov_26.114695	89327	0.3916844850940925	2913b32327a9961277e7ac7950ed899f	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR5000113	chromosome	-	-	NODE_17_length_86564_cov_27.291054	86564	0.38986183632918997	d14f3bed42794a5010406fa02209a9a5	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR5000113	chromosome	-	-	NODE_18_length_86458_cov_29.891835	86458	0.3989682851789308	34dfa1d3ce38d1dd8d729aa985d6c256	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR5000113	chromosome	-	-	NODE_19_length_84324_cov_23.770769	84324	0.38561975238366303	dbd3ac119a82be4ea015b0c1fb649411	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR5000113	chromosome	-	-	NODE_1_length_580018_cov_22.324459	580018	0.3797916616380871	5ff89be68b7fb5b7741c6259eaf21407	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR5000113	chromosome	-	-	NODE_20_length_62269_cov_31.108412	62269	0.40113057861857426	5198deda77fefccce806dcc5ad125c9d	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR5000113	chromosome	-	-	NODE_21_length_60614_cov_22.869923	60614	0.3886560860527271	8f1592506c9c4bba551ac1a2b34b11ea	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR5000113	plasmid	AB082	AJ649	NODE_22_length_55843_cov_55.716759	55843	0.3412603191089304	e0918e956d4b1003c6d04b84215f3d03	not tested	rep_cluster_734	002211__NC_010606_00001	-	-	MPF_F,MPF_F,MPF_F,MPF_F,MPF_F,MPF_F,MPF_F,MPF_F,MPF_F,MPF_T	NC_017163_00053,NC_017163_00052,NZ_AEOY01000095_00077,NC_010606_00080,NC_010606_00079,NC_010606_00078,NC_010606_00075,NC_010606_00072,NC_010606_00071,NC_010606_00076	-	-	-	CP014292	0.00337267	Acinetobacter baumannii	-	-	-
+ERR5000113	plasmid	AC716	AM018	NODE_23_length_55593_cov_53.288752	55593	0.34455776806432464	34b65ab9c3fc88721874156096a9d9d0	not tested	-	-	-	-	MPF_I	NZ_AFDA02000009_00109	-	-	-	KT779035	0.00752278	Acinetobacter baumannii	-	-	-
+ERR5000113	chromosome	-	-	NODE_24_length_50243_cov_32.182774	50243	0.3851481798459487	3789fb8aeb2722f346349bebe9412ac5	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR5000113	chromosome	-	-	NODE_25_length_48682_cov_26.098800	48682	0.3717595825972639	0daedf0365ad5ed397452b72604081d2	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR5000113	chromosome	-	-	NODE_26_length_39617_cov_30.752391	39617	0.4081833556301588	81a2580564c65fe45dd1c9b2e04b85a4	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR5000113	chromosome	-	-	NODE_27_length_33751_cov_23.600440	33751	0.3789813635151551	639b3e37e09f848961d82f65ae9dc8bf	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR5000113	chromosome	-	-	NODE_28_length_33707_cov_31.276333	33707	0.38597323997982613	94c51306a5fc4be18528127f0df2a27d	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR5000113	chromosome	-	-	NODE_29_length_26530_cov_29.076539	26530	0.39415755748209574	58ac7b2b4b4af7d35cfb4dc7b3a37be4	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR5000113	chromosome	-	-	NODE_2_length_393005_cov_30.811920	393005	0.3910331929619216	dc8a4906efb425ffbbc9dec8ccec6b8b	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR5000113	plasmid	AC716	AM018	NODE_30_length_25671_cov_54.580166	25671	0.339137548206147	4c1d39f4ff0bb2060c398101d83a769b	not tested	-	-	-	-	-	-	-	-	-	KT779035	0.00752278	Acinetobacter baumannii	-	-	-
+ERR5000113	plasmid	AC716	AM018	NODE_31_length_12822_cov_47.326810	12822	0.43160193417563564	ee66dc571ad750a34e5a6333a63cafb0	not tested	-	-	-	-	-	-	-	-	-	KT779035	0.00752278	Acinetobacter baumannii	-	-	-
+ERR5000113	plasmid	AB082	AJ649	NODE_32_length_11204_cov_64.160018	11204	0.31872545519457335	33bf6e406ef7eeed1ce98a62e572da95	not tested	-	-	-	-	-	-	-	-	-	CP014292	0.00337267	Acinetobacter baumannii	-	-	-
+ERR5000113	chromosome	-	-	NODE_33_length_10532_cov_27.930413	10532	0.3907140144322066	df95a4cdc6fa142d87e026b950958ee2	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR5000113	plasmid	AB082	AJ649	NODE_34_length_10367_cov_60.872224	10367	0.3219832159737629	9ffef7160173425cda889581f6348ee6	not tested	-	-	MOBF	NC_017163_00021	MPF_T	NC_017163_00020	-	-	-	CP014292	0.00337267	Acinetobacter baumannii	-	-	-
+ERR5000113	chromosome	-	-	NODE_35_length_9997_cov_52.301576	9997	0.41462438731619483	163f1a2e78dcda9455cace9e4198175d	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR5000113	plasmid	AE689	AO523	NODE_36_length_9507_cov_154.786884	9507	0.34911118123487955	7cd3f41fcd911c9def53ce7c5bbbce67	not tested	rep_cluster_1226	000523__LT594096_00001	MOBQ	NC_006877_00013	-	-	-	-	-	CP040086	0.00343111	Acinetobacter baumannii	-	-	-
+ERR5000113	plasmid	AB702	AK583	NODE_37_length_6177_cov_187.379566	6177	0.39161405212886513	4b2dd620a1dcd499e9a1a8ae96d11b87	not tested	-	-	MOBP,MOBP	NZ_AFDA02000006_00006,AF003958_00007	-	-	-	-	-	CP027181	4.76906e-05	Acinetobacter baumannii	-	-	-
+ERR5000113	chromosome	-	-	NODE_38_length_5937_cov_26.093183	5937	0.39397001852787605	c5a09b0ec95f0b2091702c57f67d0d93	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR5000113	chromosome	-	-	NODE_39_length_5659_cov_154.445504	5659	0.48768207156986154	ed23954c54e61db3d7fc80cb5fee7257	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR5000113	chromosome	-	-	NODE_3_length_266760_cov_29.554596	266760	0.3965961913330334	8137375a278b58701c48f735113afea6	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR5000113	chromosome	-	-	NODE_40_length_2942_cov_32.235120	2942	0.4724677090414684	33cf494abc6ad27b6f417bbbbca40aa9	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR5000113	plasmid	AE296	AO047	NODE_41_length_2376_cov_162.161177	2376	0.40404040404040403	43b05653c4bc6fd2688755d036b9cfbc	not tested	rep_cluster_1280	000594__NZ_AFDL01000005_00001	-	-	-	-	-	-	-	MK386684	0.00128842	Acinetobacter baumannii	-	-	-
+ERR5000113	chromosome	-	-	NODE_42_length_1138_cov_34.750722	1138	0.43233743409490333	f6c1715e60a537d9c176a64dc86cc414	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR5000113	plasmid	AB082	AJ649	NODE_43_length_1096_cov_54.915747	1096	0.3375912408759124	305f379698569ebb5c9eefdcf9d83ecd	not tested	-	-	-	-	-	-	-	-	-	CP014292	0.00337267	Acinetobacter baumannii	JQ241792	ISC1041	repetitve element
+ERR5000113	plasmid	AB082	AJ649	NODE_44_length_1087_cov_212.045547	1087	0.3689052437902484	bf32ead907cf7f3f6873b0250a239dd7	not tested	-	-	-	-	-	-	-	-	-	CP014292	0.00337267	Acinetobacter baumannii	KF702385,JQ241792,MF458176	ISAba125,ISC1041,ISKox3	repetitve element
+ERR5000113	plasmid	AB082	AJ649	NODE_45_length_1018_cov_437.398259	1018	0.3644400785854617	0710367ed8463f711ade7d13325c0b49	not tested	-	-	-	-	-	-	-	-	-	CP014292	0.00337267	Acinetobacter baumannii	CP001182,KY437727	ISAba1,ISShfr9	repetitve element
+ERR5000113	chromosome	-	-	NODE_46_length_821_cov_48.293629	821	0.5249695493300852	04f7c60af5776b326bb2837072fd80de	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR5000113	chromosome	-	-	NODE_47_length_820_cov_163.579750	820	0.4060975609756098	fd0f1a496b359285be69d49bd20ba9ef	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR5000113	chromosome	-	-	NODE_48_length_704_cov_57.280992	704	0.44886363636363635	055fd9155254578305caa974cf47cb17	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR5000113	chromosome	-	-	NODE_4_length_254188_cov_28.584567	254188	0.39052590995641023	bda883f52292013adcc839e6497da7cd	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR5000113	chromosome	-	-	NODE_5_length_230394_cov_23.721718	230394	0.39029228191706383	30e0ab68071abad45d707a1494d87156	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR5000113	chromosome	-	-	NODE_6_length_225418_cov_27.331565	225418	0.38424171982716554	3d860019346943bdabca184d96528305	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR5000113	chromosome	-	-	NODE_7_length_209998_cov_23.887646	209998	0.37764645377575023	1f8c41cbc547ad2a026090336717d824	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR5000113	chromosome	-	-	NODE_8_length_191928_cov_28.217115	191928	0.3958546197635382	4a9c1dece73b2ccb951621ef7a4d27dd	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR5000113	chromosome	-	-	NODE_9_length_172867_cov_30.811840	172867	0.3948700446007624	ff351df927e3853a2a5fe43e2e78ba3e	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-

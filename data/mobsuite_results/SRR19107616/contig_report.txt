@@ -1,0 +1,66 @@
+sample_id	molecule_type	primary_cluster_id	secondary_cluster_id	contig_id	size	gc	md5	circularity_status	rep_type(s)	rep_type_accession(s)	relaxase_type(s)	relaxase_type_accession(s)	mpf_type	mpf_type_accession(s)	orit_type(s)	orit_accession(s)	predicted_mobility	mash_nearest_neighbor	mash_neighbor_distance	mash_neighbor_identification	repetitive_dna_id	repetitive_dna_type	filtering_reason
+SRR19107616	chromosome	-	-	NODE_10_length_159116_cov_8.607916	159116	0.39711908293320597	c206d3acf9a6690861f4b43b75e9f199	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR19107616	chromosome	-	-	NODE_11_length_146246_cov_8.880600	146246	0.3839284493251097	27bcbd0a954dd6398b70ddc9a1885f4f	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR19107616	chromosome	-	-	NODE_12_length_141183_cov_7.678844	141183	0.4038871535524815	c8ca72ab2e3fc56bbf0535b7572a3f59	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR19107616	chromosome	-	-	NODE_13_length_128074_cov_8.681453	128074	0.3831456814029389	983e434183e4211c3275ff8f5bfcad80	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR19107616	chromosome	-	-	NODE_14_length_121825_cov_8.248550	121825	0.3849456187153704	37030ddfc98fe3113163b07718e7d941	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR19107616	chromosome	-	-	NODE_15_length_119312_cov_8.486314	119312	0.3801713155424433	82a994e087936dc0cc248fb68d3b35f7	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR19107616	chromosome	-	-	NODE_16_length_115646_cov_7.775044	115646	0.3935717621015859	1fabe48bd46d9f08f0880a107f357233	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR19107616	chromosome	-	-	NODE_17_length_108562_cov_8.194315	108562	0.4014203865072493	5ff70c5d5fbf3e11ee363084de9cb30d	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR19107616	chromosome	-	-	NODE_18_length_89856_cov_8.293147	89856	0.3906138710826211	d177cb7a3acaae9547e62777dc89bebe	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR19107616	chromosome	-	-	NODE_19_length_89577_cov_8.466137	89577	0.38411645846590087	8ff86b41cea2bb4d456a895279df5e69	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR19107616	chromosome	-	-	NODE_1_length_339847_cov_9.005896	339847	0.3740742157500287	331de8831f29ed7dcd7cab92d2864ff4	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR19107616	chromosome	-	-	NODE_20_length_71908_cov_8.374744	71908	0.3856733604049619	bd7d3a04728c33f1c7e03b8f5e284e37	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR19107616	chromosome	-	-	NODE_21_length_68033_cov_8.204890	68033	0.39389707935854656	b016c9ccdef6e3a3925fe023bf5f0e99	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR19107616	chromosome	-	-	NODE_22_length_67285_cov_7.765532	67285	0.40416140298729286	c3802bc73116015c1df34840b1f35e3c	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR19107616	chromosome	-	-	NODE_23_length_50197_cov_8.381113	50197	0.3846843436858776	58b0044afe6238b76958c93b90cd8037	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR19107616	chromosome	-	-	NODE_24_length_43852_cov_7.909880	43852	0.390449694426708	aaad5aad23b56a33349c70d4a6cce852	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR19107616	chromosome	-	-	NODE_25_length_29978_cov_103.196158	29978	0.358729735139102	9cdac2f7695f37e9230305687764bf94	not tested	rep_cluster_1172,rep_cluster_1259	000454__KY202458_00008,000571__CP015620_00012	MOBQ	CP032102_00178	-	-	-	-	-	-	-	-	-	-	-
+SRR19107616	chromosome	-	-	NODE_26_length_26588_cov_7.999132	26588	0.3930720625846246	0808d4020aa0c9d16f9aed85b96d2904	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR19107616	chromosome	-	-	NODE_27_length_26095_cov_8.857978	26095	0.3827936386280897	b6ac69ee4a1782699e79ba65c0a42368	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR19107616	chromosome	-	-	NODE_28_length_24099_cov_8.676167	24099	0.4016764181086352	9f49ba4f88a8f0c63fd21fe9e3d966ab	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR19107616	chromosome	-	-	NODE_29_length_23329_cov_8.272191	23329	0.40919027819452186	7619e82d9e06176f8de92ff5b5322694	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR19107616	chromosome	-	-	NODE_2_length_315019_cov_8.477474	315019	0.3836530494986017	84242b70f28db6821b28ff6ca2a49419	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR19107616	chromosome	-	-	NODE_30_length_12073_cov_11.273426	12073	0.39087219415224056	dd267a1b357440b8eb3ba28b3b840e65	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR19107616	chromosome	-	-	NODE_31_length_10483_cov_8.064233	10483	0.3736525803682152	7b412b0c200db52ca0d6d9ff259bcbb2	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR19107616	chromosome	-	-	NODE_32_length_7698_cov_4.023424	7698	0.5742715920915713	1e6d93b554b8c4ef209641ddfc5d5013	not tested	-	-	-	-	-	-	-	-	-	-	-	-	CP001182	IS15	repetitve element
+SRR19107616	chromosome	-	-	NODE_33_length_7633_cov_8.793204	7633	0.4016769291235425	1ba9ce976411286cc5bb0c2fa66a6a8a	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR19107616	chromosome	-	-	NODE_34_length_7293_cov_8.003058	7293	0.4077882901412313	673370135dc36739b1429fabf46ce701	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR19107616	chromosome	-	-	NODE_35_length_7172_cov_11.519723	7172	0.3858059118795315	746004330e1f92bf34ec4fe5f0078f39	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR19107616	chromosome	-	-	NODE_36_length_6850_cov_4.379647	6850	0.5353284671532846	645ff6d0caeb22092897086b3f04afaa	not tested	-	-	-	-	-	-	-	-	-	-	-	-	CP001182	IS15	repetitve element
+SRR19107616	plasmid	AB702	AK583	NODE_37_length_6177_cov_143.174235	6177	0.39161405212886513	623b88ba3e6a74a55977fb7fa8173213	not tested	-	-	MOBP	NZ_AFDA02000006_00006	-	-	-	-	-	CP027181	4.76906e-05	Acinetobacter baumannii	-	-	-
+SRR19107616	chromosome	-	-	NODE_38_length_5558_cov_43.356292	5558	0.48812522490104354	c36a9fc416aa6aa62616d883d31b91c7	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR19107616	chromosome	-	-	NODE_39_length_4203_cov_9.958090	4203	0.36902212705210563	24825653ef9c9d8df96db3169701b15b	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR19107616	chromosome	-	-	NODE_3_length_289953_cov_8.558550	289953	0.39087024448789975	745326467f02971067ed063a2c9e1e37	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR19107616	chromosome	-	-	NODE_40_length_3972_cov_2.241157	3972	0.6180765357502518	165d7b1580ac77548d96978139cca206	not tested	-	-	-	-	-	-	-	-	-	-	-	-	CP001182	IS15	repetitve element
+SRR19107616	chromosome	-	-	NODE_41_length_3524_cov_11.279124	3524	0.40408626560726446	c8fb49dcb9ed670ee300fc710de5233c	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR19107616	plasmid	AB879	-	NODE_42_length_2277_cov_432.177686	2277	0.3877909530083443	491e4e644b9033c4551bf492756c9bbd	not tested	-	-	-	-	-	-	-	-	-	NC_023281	0.0405854	Acinetobacter nosocomialis	-	-	-
+SRR19107616	chromosome	-	-	NODE_43_length_1970_cov_4.336184	1970	0.5350253807106599	2c4eca00fa1f305868696e6bc0694dc7	not tested	-	-	-	-	-	-	-	-	-	-	-	-	CP001182	IS15	repetitve element
+SRR19107616	chromosome	-	-	NODE_44_length_1857_cov_2.985210	1857	0.6068928379106086	be9d0eb4323e14abdc08dd491d6ee0e6	not tested	-	-	-	-	-	-	-	-	-	-	-	-	U12338,CP001182,KX646543,KX710093,KY494864,KY978628,CP022426,JQ899055,MG764534	-,IS15,ISAba43,ISArsp6,ISPa56,ISShes11,ISStma11,Tn3,TnAs3	repetitve element
+SRR19107616	chromosome	-	-	NODE_45_length_1721_cov_10.453761	1721	0.40499709471237655	82f05565ffeeb09ab3b75acf02fb53d3	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR19107616	chromosome	-	-	NODE_46_length_1457_cov_13.871134	1457	0.4131777625257378	efa8a80abc7bf013752348d56d566315	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR19107616	chromosome	-	-	NODE_47_length_1451_cov_4.936391	1451	0.4638180565127498	581a4dd37e7f17459e75ce8f7e30f061	not tested	-	-	-	-	-	-	-	-	-	-	-	-	CP001182	IS15	repetitve element
+SRR19107616	chromosome	-	-	NODE_48_length_1448_cov_19.723499	1448	0.380524861878453	a73453be8e5285e19dc35dad9ae27f45	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR19107616	chromosome	-	-	NODE_49_length_1396_cov_42.822668	1396	0.5272206303724928	b0089c17d400c666b5d972cf3d49e1fd	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR19107616	chromosome	-	-	NODE_4_length_279266_cov_7.911068	279266	0.3951859517449314	0affa8423501163d28ef621020eb73a7	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR19107616	chromosome	-	-	NODE_50_length_1135_cov_8.866795	1135	0.42555066079295156	d5b42bf89735618fffb6f5ea938b1026	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR19107616	chromosome	-	-	NODE_51_length_1088_cov_17.629929	1088	0.36856617647058826	7f84ef24b0eb99ee055fcac133595ddc	not tested	-	-	-	-	-	-	-	-	-	-	-	-	KF702385,MF458176	ISAba125,ISKox3	repetitve element
+SRR19107616	chromosome	-	-	NODE_52_length_1035_cov_1.373932	1035	0.6579710144927536	5928acc76369a4c906bdaaac48016f63	not tested	-	-	-	-	-	-	-	-	-	-	-	-	U12338,CP001182,KX646543,KX710093,JF274989,KY978628,CP022426,KF743817	-,IS15,ISAba43,ISArsp6,ISCsp2,ISShes11,ISStma11,TnAs2	repetitve element
+SRR19107616	chromosome	-	-	NODE_53_length_942_cov_18.638197	942	0.42144373673036095	053b73f8c713e15dd6568580b9c8d38e	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR19107616	chromosome	-	-	NODE_54_length_929_cov_11.537349	929	0.39181916038751347	840fc571215f1142ecb23139b81d7906	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR19107616	chromosome	-	-	NODE_55_length_919_cov_1.585366	919	0.5897714907508161	60bf9581cb01b966abb2906adce65a00	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR19107616	chromosome	-	-	NODE_56_length_830_cov_17.604651	830	0.44216867469879517	0cf6bd356b6a4cd98a6dd2721445f491	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR19107616	chromosome	-	-	NODE_57_length_830_cov_9.131327	830	0.4879518072289157	fbf57e5e355f5a48089cae6ec52cdb18	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR19107616	chromosome	-	-	NODE_58_length_820_cov_20.230236	820	0.524390243902439	316751b2fd22bdbcb6f22c031f01750a	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR19107616	chromosome	-	-	NODE_59_length_702_cov_1.331675	702	0.6638176638176638	d5d09fabd0cf67ba0f0668474c0dd45e	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR19107616	chromosome	-	-	NODE_5_length_247888_cov_7.656930	247888	0.3907974569160266	661d555ca26681e0abef591d751f7463	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR19107616	chromosome	-	-	NODE_60_length_676_cov_1.689775	676	0.5769230769230769	062192c9009de27692fcb949ce17dd72	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR19107616	chromosome	-	-	NODE_61_length_657_cov_15.973118	657	0.4292237442922374	adb68689abf2a753c49adf5819a42a3e	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR19107616	chromosome	-	-	NODE_62_length_590_cov_8.107943	590	0.44745762711864406	00f9647aa41d7f820ae82cc50c8def59	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR19107616	chromosome	-	-	NODE_63_length_544_cov_12.519101	544	0.4375	2bdd4fc0ec977e2d3ea321218d9f0aeb	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR19107616	chromosome	-	-	NODE_64_length_511_cov_9.657767	511	0.41291585127201563	b37556c14ddfd7c8321bf5f1c5d4b16b	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR19107616	chromosome	-	-	NODE_65_length_505_cov_17.480296	505	0.4158415841584158	71571a8e5b180fb35333714ce2ffe513	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR19107616	chromosome	-	-	NODE_6_length_229105_cov_8.014262	229105	0.3980821738275704	d88b408c921563934c96f7713c6c2afc	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR19107616	chromosome	-	-	NODE_7_length_224676_cov_8.684723	224676	0.37723655397105166	aaeeba1885c6a203ac36d9202cf6eb75	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR19107616	chromosome	-	-	NODE_8_length_201598_cov_8.070884	201598	0.3930892171549321	c85cd2093b5c95f3e51101aaf7fbde41	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR19107616	chromosome	-	-	NODE_9_length_196707_cov_8.376165	196707	0.3947343002536768	30bcb81c8469ed0297f5a95f57158290	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-

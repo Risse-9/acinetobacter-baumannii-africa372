@@ -1,0 +1,2 @@
+sample_id	molecule_type	primary_cluster_id	secondary_cluster_id	contig_id	size	gc	md5	mge_id	mge_acs	mge_type	mge_subtype	mge_length	mge_start	mge_end	contig_start	contig_end	length	sstrand	qcovhsp	pident	evalue	bitscore
+ERR7226680	chromosome			NODE_18_length_5366_cov_209.925954	5366	0.4942228848304137	c0bdd8ede009cc01139c46eefe9cdae0	01399	CP016586.1	16s-rRNA	16S	1554	1	1544	10	1548						

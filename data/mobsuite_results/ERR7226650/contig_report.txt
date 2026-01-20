@@ -1,0 +1,80 @@
+sample_id	molecule_type	primary_cluster_id	secondary_cluster_id	contig_id	size	gc	md5	circularity_status	rep_type(s)	rep_type_accession(s)	relaxase_type(s)	relaxase_type_accession(s)	mpf_type	mpf_type_accession(s)	orit_type(s)	orit_accession(s)	predicted_mobility	mash_nearest_neighbor	mash_neighbor_distance	mash_neighbor_identification	repetitive_dna_id	repetitive_dna_type	filtering_reason
+ERR7226650	chromosome	-	-	NODE_10_length_117583_cov_30.190588	117583	0.38807480673226574	da69eb12259e60f43b52029328bd5cba	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR7226650	chromosome	-	-	NODE_11_length_106080_cov_31.566583	106080	0.3942727744492145	10c2c13bb9c5676c4021481aa3bdcf62	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR7226650	chromosome	-	-	NODE_12_length_102546_cov_36.463918	102546	0.402824098453377	2fbf682aee5e6d06cab824829b63b331	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR7226650	plasmid	AB114	AJ692	NODE_13_length_96930_cov_34.281129	96930	0.4205612297534303	c817016c766dce20d8beeb9ea3f3c757	not tested	rep_cluster_718	002191__CP004359_00001	-	-	-	-	-	-	-	CP026128	0.0102718	Acinetobacter baumannii	-	-	-
+ERR7226650	chromosome	-	-	NODE_14_length_96141_cov_30.492368	96141	0.3878886219198885	5e8df50ad46551874940fb568bcbee19	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR7226650	chromosome	-	-	NODE_15_length_90505_cov_36.866491	90505	0.4025191978343738	f3901fe4f4dee015d87d3ac36025c4c3	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR7226650	chromosome	-	-	NODE_16_length_84067_cov_33.125036	84067	0.39114039991911215	ac8660089d3ecde8d95b09e7bb35ac63	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR7226650	chromosome	-	-	NODE_17_length_82658_cov_28.108819	82658	0.3878874398122384	e462db9a3edf1678a258dfb921fadbf1	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR7226650	plasmid	AE272	AO018	NODE_18_length_76985_cov_26.985862	76985	0.37646294732740143	5a2236dee34e49e492fbb97349b8e091	not tested	-	-	-	-	-	-	-	-	-	CP036285	0.0168963	Acinetobacter baumannii	-	-	-
+ERR7226650	chromosome	-	-	NODE_19_length_76434_cov_26.400681	76434	0.39211607399848236	9e1d62c513a48756bfe82f86d35cc46b	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR7226650	chromosome	-	-	NODE_1_length_358856_cov_35.127791	358856	0.39448855570708635	3b882b60ecf3e9f5106f690e9514c58a	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR7226650	chromosome	-	-	NODE_20_length_75258_cov_30.029883	75258	0.39816365037603973	6fa904d841718a47a450acbbed498c59	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR7226650	chromosome	-	-	NODE_21_length_68270_cov_37.403427	68270	0.3855719935550022	653df2052ebd1de9637571dc07295b1f	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR7226650	chromosome	-	-	NODE_22_length_64022_cov_29.417158	64022	0.39089687919777577	cdd27230e1e3bd04e22bb51847ba5988	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR7226650	chromosome	-	-	NODE_23_length_61391_cov_28.210256	61391	0.38098418334935086	d587f745cb6d32b6301d44f899311f32	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR7226650	chromosome	-	-	NODE_24_length_56114_cov_32.144533	56114	0.3855365862351641	439df7c67f6b6b1616cc469b569d90c8	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR7226650	chromosome	-	-	NODE_25_length_50252_cov_36.796204	50252	0.3839449176152193	a715be26e373a0c425d9f36e24f07e4d	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR7226650	chromosome	-	-	NODE_26_length_48884_cov_32.321779	48884	0.40305621471238035	587485fdfec372ea43725518433c9ded	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR7226650	chromosome	-	-	NODE_27_length_46048_cov_28.890923	46048	0.36874565670604587	009da03332eb58c7b2b09ff3b54bcbbe	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR7226650	chromosome	-	-	NODE_28_length_44146_cov_27.329534	44146	0.3715625424727042	1ea7b5b3ff0b91f2a83d6c1ba150baf1	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR7226650	chromosome	-	-	NODE_29_length_39607_cov_30.067657	39607	0.3840735223571591	37a197ce88f21e7d3d4599718c228a61	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR7226650	chromosome	-	-	NODE_2_length_283604_cov_26.080115	283604	0.3763205032369078	9775e0163ae3760b90a570bba71d36ee	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR7226650	chromosome	-	-	NODE_30_length_38733_cov_26.746286	38733	0.38269692510262565	15264e87cf7eb42ff41c9e95d4b5159c	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR7226650	chromosome	-	-	NODE_31_length_37398_cov_32.842838	37398	0.3827210011230547	2732d83f8f2d71c91b519810739d2492	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR7226650	chromosome	-	-	NODE_32_length_27975_cov_33.832544	27975	0.3886327077747989	17086653075638a93061fffaf60a38a9	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR7226650	plasmid	AE272	AO018	NODE_33_length_23948_cov_26.306596	23948	0.37477033572740936	2278088b2ddae2051f95b8913bb38335	not tested	-	-	-	-	-	-	-	-	-	CP036285	0.0168963	Acinetobacter baumannii	-	-	-
+ERR7226650	chromosome	-	-	NODE_34_length_22585_cov_30.959175	22585	0.39827319017046714	8836773c5dd43d8cd009e5c997480f51	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR7226650	chromosome	-	-	NODE_35_length_20904_cov_32.243980	20904	0.39002104860313813	ab2b8b33f75f3236394d4d37c6f23ac7	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR7226650	chromosome	-	-	NODE_36_length_19173_cov_26.705515	19173	0.37912689719918635	32bdd9be795710b22d22adac9ee57434	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR7226650	chromosome	-	-	NODE_37_length_15438_cov_26.484777	15438	0.4137841689337997	21b560898bac11db748de66e419c3daf	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR7226650	plasmid	novel_90a24cc7358c721c23f4d8448338ab0d	-	NODE_38_length_14283_cov_103.709391	14283	0.3238815374921235	301b140b283a9dfd7d032d7febbfee47	not tested	rep_cluster_481	001839__KT325596	-	-	-	-	MOBP	CP016696	-	CP038024	0.0782587	Acinetobacter radioresistens	-	-	-
+ERR7226650	chromosome	-	-	NODE_39_length_13469_cov_36.987584	13469	0.387111144108694	d3eb35e099d3b89addcdacb682e2594c	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR7226650	chromosome	-	-	NODE_3_length_198434_cov_35.329730	198434	0.4002035941421329	241403c2e42e28b31dd445dfe6b6f42e	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR7226650	plasmid	AB114	AJ692	NODE_40_length_13185_cov_34.077869	13185	0.3811907470610542	5d916287cf46abcc881359e07a05d9bb	not tested	-	-	-	-	-	-	-	-	-	CP026128	0.0102718	Acinetobacter baumannii	-	-	-
+ERR7226650	chromosome	-	-	NODE_41_length_10972_cov_28.281707	10972	0.36091870215092964	122cd270bc29553b82b5536ce4636bb5	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR7226650	chromosome	-	-	NODE_42_length_9654_cov_106.952590	9654	0.35840066293764244	0847e564f7d70064049befc9a90e540f	not tested	-	-	MOBP	NZ_AEOY01000096_00007	-	-	-	-	-	-	-	-	-	-	-
+ERR7226650	chromosome	-	-	NODE_43_length_9457_cov_25.532165	9457	0.3868034260336259	a806d6afe0eca842e6f24350f9382771	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR7226650	plasmid	AF709	AP699	NODE_44_length_9420_cov_80.541036	9420	0.33312101910828024	2f5b693195c0324f5ba4c51599d9139c	not tested	-	-	-	-	-	-	-	-	-	CP023300	0.0064892	Acinetobacter baumannii	-	-	-
+ERR7226650	chromosome	-	-	NODE_45_length_9089_cov_26.589766	9089	0.395533061943008	f372df2b52322fa60809a7a18149563c	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR7226650	chromosome	-	-	NODE_46_length_9011_cov_26.936041	9011	0.3755410054377982	d55bf89f77399245349132decf65c613	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR7226650	plasmid	AF709	AP699	NODE_47_length_8867_cov_79.460538	8867	0.3721664599075223	7a9c1aeb2c9a7f56fbbddb2779c99a50	not tested	rep_cluster_1906	001341__NC_013277_00009	MOBQ	NZ_AEOZ01000236_00020	MPF_T	NZ_AEOZ01000236_00018	-	-	-	CP023300	0.0064892	Acinetobacter baumannii	-	-	-
+ERR7226650	chromosome	-	-	NODE_48_length_8826_cov_33.034147	8826	0.3678903240426014	02e17fd31cc3e5c18b82da9f5fc79c22	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR7226650	chromosome	-	-	NODE_49_length_8573_cov_27.420345	8573	0.32998950192464716	e63433ce16740c2b73486509a5cd2eca	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR7226650	chromosome	-	-	NODE_4_length_197534_cov_29.123641	197534	0.3874514811549259	1596ca4b58e6d60d0d036a172254bf9b	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR7226650	chromosome	-	-	NODE_50_length_8157_cov_28.315091	8157	0.352825793796739	96da6aa798cf501809a579660736aa46	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR7226650	plasmid	AE272	AO018	NODE_51_length_7201_cov_26.513658	7201	0.35092348284960423	c48e2a271c07deb1b7869dd1699866a0	not tested	-	-	-	-	-	-	-	-	-	CP036285	0.0168963	Acinetobacter baumannii	-	-	-
+ERR7226650	chromosome	-	-	NODE_52_length_6217_cov_41.899150	6217	0.3200900755991636	5385832b4eed9b2d13fff5c8e3701ab8	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR7226650	chromosome	-	-	NODE_53_length_5560_cov_195.701337	5560	0.4893884892086331	22003e314e83e72e8f88d15664deb764	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR7226650	chromosome	-	-	NODE_54_length_5343_cov_173.076468	5343	0.4188658057271196	2a8e2e03e0210a83a3afc3e1b5f646cf	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR7226650	chromosome	-	-	NODE_55_length_4714_cov_33.929794	4714	0.26092490453966904	7c39ac782a1dafd1065717c13cc2fedd	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR7226650	chromosome	-	-	NODE_56_length_4613_cov_104.184980	4613	0.3561673531324518	677c7db7c655fea2d56eb46fb1106e1b	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR7226650	chromosome	-	-	NODE_57_length_3856_cov_39.211871	3856	0.2730809128630705	28eac83a68e63d8299e44d00023cae84	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR7226650	plasmid	novel_90a24cc7358c721c23f4d8448338ab0d	-	NODE_58_length_3530_cov_106.382687	3530	0.33257790368271956	49c41c9cc7dd30ccf117244942a0c257	not tested	-	-	-	-	-	-	-	-	-	CP038024	0.0782587	Acinetobacter radioresistens	-	-	-
+ERR7226650	plasmid	novel_90a24cc7358c721c23f4d8448338ab0d	-	NODE_59_length_2473_cov_103.657119	2473	0.36271734735139505	0a11a16d288f0307c62cdc6fdafaec3e	not tested	-	-	MOBP	CP038024_00064	-	-	-	-	-	CP038024	0.0782587	Acinetobacter radioresistens	-	-	-
+ERR7226650	chromosome	-	-	NODE_5_length_190780_cov_27.215260	190780	0.39140895272041093	070b3af4ded43ccef3869dd738aac4d1	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR7226650	chromosome	-	-	NODE_60_length_2269_cov_40.301843	2269	0.2609078889378581	fe679a6046e74ea9686005e8a963c235	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR7226650	plasmid	AB114	AJ692	NODE_61_length_2113_cov_206.617180	2113	0.4694746805489825	af0891e57668121579e236b70ea5694d	not tested	-	-	-	-	-	-	-	-	-	CP026128	0.0102718	Acinetobacter baumannii	-	-	-
+ERR7226650	chromosome	-	-	NODE_62_length_2071_cov_31.830629	2071	0.3220666344760985	b90852850ae79858ec6cf80f7965ac36	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR7226650	chromosome	-	-	NODE_63_length_1663_cov_34.414962	1663	0.3295249549007817	e19d818b3052146245e7d6f752496cfa	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR7226650	chromosome	-	-	NODE_64_length_1530_cov_54.990915	1530	0.46339869281045754	5d6b6484851f61aa203257f1fd85e2df	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR7226650	chromosome	-	-	NODE_65_length_1451_cov_36.527367	1451	0.27291523087525843	20894ccccbc73283eba2fb93d1923585	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR7226650	plasmid	AB355	-	NODE_66_length_1301_cov_183.686356	1301	0.40507302075326673	edef06776e3360418377199f2ad88b37	not tested	-	-	-	-	-	-	-	-	-	CP033554	0.051337	Acinetobacter nosocomialis	-	-	-
+ERR7226650	plasmid	AB114	AJ692	NODE_67_length_1276_cov_262.730671	1276	0.46316614420062696	a0e72547b3ebd6c13537cf12969f3e14	not tested	-	-	-	-	-	-	-	-	-	CP026128	0.0102718	Acinetobacter baumannii	JX441323	ISAba17	repetitve element
+ERR7226650	chromosome	-	-	NODE_68_length_1260_cov_45.486649	1260	0.24126984126984127	88d5df80bbc59b033eebc854cc0711b7	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR7226650	chromosome	-	-	NODE_69_length_1220_cov_24.624442	1220	0.36885245901639346	7da7033b9dd3231bfd12c4f31e21158d	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR7226650	chromosome	-	-	NODE_6_length_188030_cov_33.676307	188030	0.39963497823704064	797e17698e8aa6f5327b6f2948b00296	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR7226650	chromosome	-	-	NODE_70_length_1099_cov_30.915000	1099	0.26387625113739765	ca0fc760f39969dd73b4e78c7b46c8fa	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR7226650	plasmid	AB114	AJ692	NODE_71_length_1041_cov_70.394904	1041	0.3909702209414025	4780630d726a229ad99522726d3cf01d	not tested	-	-	-	-	-	-	-	-	-	CP026128	0.0102718	Acinetobacter baumannii	CP024418,MF399199,EU850412	ISAba12,ISAha2,ISAha3	repetitve element
+ERR7226650	plasmid	AB114	AJ692	NODE_72_length_1038_cov_994.971246	1038	0.42196531791907516	626b3332b8aa91e46d07cedb1d1526c3	not tested	-	-	-	-	-	-	-	-	-	CP026128	0.0102718	Acinetobacter baumannii	MF399199,EU850412,CP001182	ISAha2,ISAha3,ISAlw1	repetitve element
+ERR7226650	chromosome	-	-	NODE_73_length_952_cov_553.202814	952	0.3277310924369748	3f6a420baf5052269d292dda36fe44cf	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR7226650	chromosome	-	-	NODE_74_length_818_cov_27.926287	818	0.28973105134474325	eb8b1b2e9e53af1324c3eccf28f841f2	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR7226650	chromosome	-	-	NODE_75_length_747_cov_56.831790	747	0.2971887550200803	da278e24597ee29a5a27b87b63b08b40	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR7226650	chromosome	-	-	NODE_76_length_742_cov_169.790047	742	0.36792452830188677	f31d9fd8545ea31de09dd8ef23a40edd	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR7226650	chromosome	-	-	NODE_77_length_736_cov_33.361068	736	0.28532608695652173	318b7f4833326e40c9ca55b458be1436	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR7226650	chromosome	-	-	NODE_78_length_685_cov_258.634812	685	0.48175182481751827	ac27fd7eae75bcd8b7266a896684ab3f	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR7226650	chromosome	-	-	NODE_79_length_553_cov_96.376652	553	0.3960216998191682	6c40e7ac48da8d153eb979fd3917008c	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR7226650	chromosome	-	-	NODE_7_length_178349_cov_31.914008	178349	0.3960583229078424	31a54fa4c42dc416d953eee6de99b9db	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR7226650	chromosome	-	-	NODE_8_length_159717_cov_28.920040	159717	0.39639487343238355	e6a2289192bdbd4b5bcfa1698861be53	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR7226650	chromosome	-	-	NODE_9_length_150760_cov_33.095592	150760	0.39365879543645527	6a4b4694637af74c0c81a58e804ebd87	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-

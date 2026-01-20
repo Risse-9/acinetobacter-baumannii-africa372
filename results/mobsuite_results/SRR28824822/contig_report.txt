@@ -1,0 +1,74 @@
+sample_id	molecule_type	primary_cluster_id	secondary_cluster_id	contig_id	size	gc	md5	circularity_status	rep_type(s)	rep_type_accession(s)	relaxase_type(s)	relaxase_type_accession(s)	mpf_type	mpf_type_accession(s)	orit_type(s)	orit_accession(s)	predicted_mobility	mash_nearest_neighbor	mash_neighbor_distance	mash_neighbor_identification	repetitive_dna_id	repetitive_dna_type	filtering_reason
+SRR28824822	chromosome	-	-	NODE_10_length_131685_cov_25.145240	131685	0.373064510004936	85aab3d260662f2a6fea8e52f6a0dce3	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR28824822	chromosome	-	-	NODE_11_length_120094_cov_25.342312	120094	0.3873549053241627	4b03c56a38570fd28f93b90a42fc91de	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR28824822	chromosome	-	-	NODE_12_length_111163_cov_25.223048	111163	0.3958151543229312	cb1466b58ee55373d546653c6e88e172	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR28824822	chromosome	-	-	NODE_13_length_98460_cov_23.200498	98460	0.39218178121187475	ca8dc92840c4ce8f7500c755f52bfb82	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR28824822	chromosome	-	-	NODE_14_length_94963_cov_27.099243	94963	0.3905731706032876	f062d272f136a567f7fb32f0fdf3eaa6	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR28824822	chromosome	-	-	NODE_15_length_76818_cov_26.048903	76818	0.40110390793824363	56a1895194c6c85b1ef1b0071f25d38a	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR28824822	chromosome	-	-	NODE_16_length_75092_cov_27.461589	75092	0.39024130400042617	1ed91a10acfa8f9fa5f69453b5725405	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR28824822	chromosome	-	-	NODE_17_length_74778_cov_26.223592	74778	0.3826660247666426	d77d4e6f79d71ef531378ea4df8b041a	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR28824822	chromosome	-	-	NODE_18_length_72612_cov_27.753450	72612	0.38501900512312015	663a9067b79c23e43037320d0c0c3a73	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR28824822	chromosome	-	-	NODE_19_length_67749_cov_27.012398	67749	0.3822639448552746	1b6832eaa94f86aebba40166e32fc61c	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR28824822	chromosome	-	-	NODE_1_length_507424_cov_25.478113	507424	0.3854262759104635	a1af27ce8bf222006cf5281e46321383	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR28824822	plasmid	AB082	AJ649	NODE_20_length_57392_cov_11.068723	57392	0.34102313911346527	c4b39dbc51fcaf659d57abf8fbbe8204	not tested	rep_cluster_734	002211__NC_010606_00001	-	-	MPF_F,MPF_F,MPF_F,MPF_F,MPF_F,MPF_F,MPF_F,MPF_F,MPF_F,MPF_T	NC_010606_00071,NC_010606_00072,NC_010606_00075,NC_010606_00078,NC_010606_00079,NC_010606_00080,NZ_AEOY01000095_00077,NC_017163_00052,NC_017163_00053,NC_010606_00076	-	-	-	CP020594	0.00483188	Acinetobacter baumannii	-	-	-
+SRR28824822	chromosome	-	-	NODE_21_length_57151_cov_27.036390	57151	0.40515476544592394	14a5d0b0bafe932740ecf65e208ebe14	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR28824822	chromosome	-	-	NODE_22_length_45134_cov_25.203733	45134	0.3795143350910622	912004de3c87dedaf6f8e2acfcb976c5	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR28824822	chromosome	-	-	NODE_23_length_44794_cov_24.768398	44794	0.41541277849712016	d83d12f5934f21def941e9466c60254f	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR28824822	chromosome	-	-	NODE_24_length_43576_cov_26.788947	43576	0.384110519552047	22b391630650854000c3e2157dcaaa77	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR28824822	chromosome	-	-	NODE_25_length_43136_cov_25.238081	43136	0.3954237759643917	6d0abe85f173152a67b8946e1687ab7d	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR28824822	chromosome	-	-	NODE_26_length_31899_cov_27.325258	31899	0.3897300855826201	2ac9aa9d600af843a90115454532ee83	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR28824822	chromosome	-	-	NODE_27_length_26477_cov_28.108704	26477	0.3932092004381161	d710c2579c3e2177a8d56ddf7277021a	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR28824822	chromosome	-	-	NODE_28_length_25551_cov_28.312804	25551	0.38335094516848656	e926206126aa74b4e6ea75120387e99c	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR28824822	chromosome	-	-	NODE_29_length_17627_cov_24.402062	17627	0.5862029840585465	8898ea718cf30ff8b00524ec6337a37e	not tested	-	-	-	-	-	-	-	-	-	-	-	-	CP001182	IS15	repetitve element
+SRR28824822	chromosome	-	-	NODE_2_length_469406_cov_26.737560	469406	0.3841067221126275	d7de5cc42bdd80244e306742309280f1	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR28824822	chromosome	-	-	NODE_30_length_17109_cov_26.125807	17109	0.3798585539774388	37aa803f36802cb934e382434d37984b	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR28824822	chromosome	-	-	NODE_31_length_16713_cov_21.629162	16713	0.4028600490636032	579093a302973ab78d1babfb41f43c63	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR28824822	plasmid	AB082	AJ649	NODE_32_length_12046_cov_11.075182	12046	0.31836294205545407	8302de53f7835a4af306f5876fc66c02	not tested	-	-	MOBF	NC_017163_00021	MPF_T	NC_017163_00020	-	-	-	CP020594	0.00483188	Acinetobacter baumannii	-	-	-
+SRR28824822	plasmid	AB082	AJ649	NODE_33_length_8828_cov_253.737004	8828	0.3437924784775714	2f51f89b7d1d55f41d638147c312c16f	not tested	rep_cluster_1172	000454__KY202458_00008	-	-	-	-	-	-	-	CP020594	0.00483188	Acinetobacter baumannii	-	-	-
+SRR28824822	chromosome	-	-	NODE_34_length_7113_cov_28.136402	7113	0.3833761049329912	892130ffdb2cbb867204985f7d73c1f1	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR28824822	chromosome	-	-	NODE_35_length_6849_cov_28.813699	6849	0.3975762885092714	a7278b245d4f8fab376924f23a19d108	not tested	-	-	-	-	-	-	-	-	-	-	-	-	CP001182	IS15	repetitve element
+SRR28824822	chromosome	-	-	NODE_36_length_5532_cov_143.704966	5532	0.4919117647058823	a17015e7fe8efad72ae4be0ba9af2485	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR28824822	plasmid	AE296	AO047	NODE_37_length_4609_cov_629.278783	4609	0.39618138424821003	4c820557705a366fad930e9046e9ff2f	not tested	rep_cluster_1280	000594__NZ_AFDL01000005_00001	-	-	-	-	-	-	-	MK386684	0.000215742	Acinetobacter baumannii	-	-	-
+SRR28824822	chromosome	-	-	NODE_38_length_4569_cov_22.462394	4569	0.6263952724885096	ef7fa93662439828095fa5ba65c8d845	not tested	-	-	-	-	-	-	-	-	-	-	-	-	CP001182	IS15	repetitve element
+SRR28824822	plasmid	AB082	AJ649	NODE_39_length_4466_cov_11.138237	4466	0.32422749664128975	974e6ca1ba05e4f31d6b6aded4dd38c8	not tested	-	-	-	-	-	-	-	-	-	CP020594	0.00483188	Acinetobacter baumannii	-	-	-
+SRR28824822	chromosome	-	-	NODE_3_length_330661_cov_24.978239	330661	0.38237651250071825	708164b2739608a1fe83ea8794101869	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR28824822	plasmid	AB082	AJ649	NODE_40_length_4199_cov_30.458162	4199	0.3580126643935704	d9e341e0f4ea36202a6bfd2de4a70419	not tested	-	-	-	-	-	-	-	-	-	CP020594	0.00483188	Acinetobacter baumannii	CP001182	IS15	repetitve element
+SRR28824822	chromosome	-	-	NODE_41_length_3232_cov_49.009503	3232	0.557240099009901	b9beea66a8881cfa0b9c7c39f9c16ff9	not tested	-	-	-	-	-	-	-	-	-	-	-	-	CP001182,KX243407,CP002457,KY437727	IS15,ISMrsp3,ISPpu12,ISShfr9	repetitve element
+SRR28824822	chromosome	-	-	NODE_42_length_3173_cov_27.087153	3173	0.337850614560353	2eb1c26d09aa2087587854a2ad99281e	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR28824822	plasmid	AB082	AJ649	NODE_43_length_2907_cov_34.201271	2907	0.3785129847029527	f6f432ab1a34cf6e29674bd11873a933	not tested	-	-	-	-	-	-	-	-	-	CP020594	0.00483188	Acinetobacter baumannii	CP001182	IS15	repetitve element
+SRR28824822	plasmid	AB082	AJ649	NODE_44_length_2594_cov_12.418817	2594	0.36854279105628374	19e27767c34be51c6383b1791d325272	not tested	-	-	-	-	-	-	-	-	-	CP020594	0.00483188	Acinetobacter baumannii	-	-	-
+SRR28824822	plasmid	AB880	AK846	NODE_45_length_2418_cov_850.830559	2418	0.391232423490488	b8f67a7b563d2aa0eb9b7b1c584db10d	not tested	rep_cluster_586	001993__CP021784_00001	-	-	-	-	-	-	-	CP021784	0.00060662	Acinetobacter baumannii	-	-	-
+SRR28824822	chromosome	-	-	NODE_46_length_2402_cov_31.256554	2402	0.34388009991673607	179b900d25a9f99a96bdb10203f57ca9	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR28824822	chromosome	-	-	NODE_47_length_2316_cov_23.715752	2316	0.6234887737478411	e8d38b93418c5de3826c876651ba2cbd	not tested	-	-	-	-	-	-	-	-	-	-	-	-	CP001182	IS15	repetitve element
+SRR28824822	plasmid	AB082	AJ649	NODE_48_length_2240_cov_12.026790	2240	0.29017857142857145	cfa1af4e9f180d8a1c10c1bc99372cf2	not tested	-	-	-	-	-	-	-	-	-	CP020594	0.00483188	Acinetobacter baumannii	-	-	-
+SRR28824822	chromosome	-	-	NODE_49_length_2232_cov_63.498377	2232	0.38620071684587814	137cc3eac6be7d61398fbadc0b17705f	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR28824822	chromosome	-	-	NODE_4_length_280472_cov_24.884738	280472	0.38536823640149465	7feae0d0f1414f0ee4c7c6eb9d95109a	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR28824822	plasmid	AB082	AJ649	NODE_50_length_2179_cov_12.106939	2179	0.39743001376778336	4d74803c084c47b7030df307b27f49a4	not tested	-	-	-	-	-	-	-	-	-	CP020594	0.00483188	Acinetobacter baumannii	-	-	-
+SRR28824822	chromosome	-	-	NODE_51_length_1929_cov_48.639698	1929	0.4204250907205806	283bdfd6e9f428dff5ffe02ac2eb2128	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR28824822	plasmid	AB082	AJ649	NODE_52_length_1925_cov_12.004865	1925	0.321038961038961	4222799c1a04150632780c5e056b1632	not tested	-	-	-	-	-	-	-	-	-	CP020594	0.00483188	Acinetobacter baumannii	-	-	-
+SRR28824822	chromosome	-	-	NODE_53_length_1885_cov_373.990608	1885	0.4090185676392573	81fcebfff6e9b6a8a014bf365c06fa83	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR28824822	plasmid	AB082	AJ649	NODE_54_length_1597_cov_46.253614	1597	0.6330619912335629	d7ced66eaea5cac9d1abd88ebef33fef	not tested	-	-	-	-	-	-	-	-	-	CP020594	0.00483188	Acinetobacter baumannii	U12338,MF805806,JQ004407,CP001182,KU997026,FJ384365,KC543497,MG764534	-,IS1006,IS1326,IS15,IS6100,ISEc28,ISPa40,TnAs3	repetitve element
+SRR28824822	plasmid	AB082	AJ649	NODE_55_length_1509_cov_27.906555	1509	0.3797216699801193	5c0807dcd4a38382000ae00b7280c0d4	not tested	-	-	-	-	-	-	-	-	-	CP020594	0.00483188	Acinetobacter baumannii	CP001182	IS15	repetitve element
+SRR28824822	plasmid	AB082	AJ649	NODE_56_length_1509_cov_10.755230	1509	0.37839628893306826	eb93770e96d3be37e64f3f46f58dc526	not tested	-	-	-	-	-	-	-	-	-	CP020594	0.00483188	Acinetobacter baumannii	CP001182	IS15	repetitve element
+SRR28824822	chromosome	-	-	NODE_57_length_1323_cov_165.725962	1323	0.527588813303099	2d6efdb716f6be1d485c432cd5540f6a	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR28824822	chromosome	-	-	NODE_58_length_1127_cov_18.468631	1127	0.4241348713398403	9d37511bab1d65d4cc5208587c6452d6	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR28824822	chromosome	-	-	NODE_59_length_1113_cov_32.468208	1113	0.47349505840071876	bfff837fb4789fdf6910fc732f2ada2c	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR28824822	chromosome	-	-	NODE_5_length_268797_cov_24.700892	268797	0.4038674897058057	b3383f52feb47e5a67f252698047eb00	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR28824822	plasmid	AB082	AJ649	NODE_60_length_1110_cov_31.931401	1110	0.36666666666666664	0da3b7bcd2e70bee694b2750e4cf5441	not tested	-	-	-	-	-	-	-	-	-	CP020594	0.00483188	Acinetobacter baumannii	CP001182	IS15	repetitve element
+SRR28824822	plasmid	AB082	AJ649	NODE_61_length_1087_cov_46.609684	1087	0.3689052437902484	bf32ead907cf7f3f6873b0250a239dd7	not tested	-	-	-	-	-	-	-	-	-	CP020594	0.00483188	Acinetobacter baumannii	KF702385,JQ241792,MF458176	ISAba125,ISC1041,ISKox3	repetitve element
+SRR28824822	plasmid	AB082	AJ649	NODE_62_length_1048_cov_11.501542	1048	0.33587786259541985	f80bd3d02545a10dfd9a69eeadec690c	not tested	-	-	-	-	-	-	-	-	-	CP020594	0.00483188	Acinetobacter baumannii	JQ241792	ISC1041	repetitve element
+SRR28824822	plasmid	AB082	AJ649	NODE_63_length_1039_cov_255.423237	1039	0.40038498556304136	79488ac06c25b86f7320aa2195fabea4	not tested	-	-	-	-	-	-	-	-	-	CP020594	0.00483188	Acinetobacter baumannii	CP001182	ISAlw1	repetitve element
+SRR28824822	chromosome	-	-	NODE_64_length_998_cov_27.193933	998	0.343687374749499	844660fb1b9fbab01ffa2796e8d86f05	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR28824822	chromosome	-	-	NODE_65_length_928_cov_36.134818	928	0.39655172413793105	6c513d689c2816b03109cec8a2d7c510	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR28824822	chromosome	-	-	NODE_66_length_909_cov_24.381098	909	0.6061606160616062	2b1c74338d54685aa336c5b16bdde5af	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR28824822	chromosome	-	-	NODE_67_length_828_cov_43.970784	828	0.427536231884058	0fe8de8f82a4504f95598e4a5895725c	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR28824822	chromosome	-	-	NODE_68_length_806_cov_45.860465	806	0.41935483870967744	a4326f76f09ed725d91539f4e99c5680	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR28824822	chromosome	-	-	NODE_69_length_744_cov_49.872945	744	0.38844086021505375	e6ba8637a7e41be697ec649e1e896a43	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR28824822	chromosome	-	-	NODE_6_length_244799_cov_25.143558	244799	0.3965743324114886	8df5051ad69279d524c587ccebd3cc88	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR28824822	chromosome	-	-	NODE_70_length_660_cov_30.894017	660	0.3106060606060606	70d1b75c90b74471ee4fc8d9668c880e	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR28824822	chromosome	-	-	NODE_71_length_655_cov_47.987931	655	0.38778625954198476	8c97e2724cec9fe49a95a86df9e063bb	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR28824822	chromosome	-	-	NODE_72_length_619_cov_28.976103	619	0.40387722132471726	10a102b1bf4f345392ed607f197eaede	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR28824822	chromosome	-	-	NODE_73_length_553_cov_34.453975	553	0.43399638336347196	ecd223b340f9f6815d7550578eaf77e5	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR28824822	chromosome	-	-	NODE_7_length_223310_cov_24.832844	223310	0.38944516591285655	1f775b076f46fdeb8a0591e06a07deee	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR28824822	chromosome	-	-	NODE_8_length_196641_cov_26.263331	196641	0.3947024315289784	9c7ff7e753e888fc939c515c29e44110	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SRR28824822	chromosome	-	-	NODE_9_length_155533_cov_25.823888	155533	0.39860351179492454	f577fb6c381ee24d19f9094a2c56bd2a	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-

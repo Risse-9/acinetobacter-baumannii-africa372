@@ -1,0 +1,69 @@
+sample_id	molecule_type	primary_cluster_id	secondary_cluster_id	contig_id	size	gc	md5	circularity_status	rep_type(s)	rep_type_accession(s)	relaxase_type(s)	relaxase_type_accession(s)	mpf_type	mpf_type_accession(s)	orit_type(s)	orit_accession(s)	predicted_mobility	mash_nearest_neighbor	mash_neighbor_distance	mash_neighbor_identification	repetitive_dna_id	repetitive_dna_type	filtering_reason
+ERR10794308	chromosome	-	-	NODE_10_length_155948_cov_9.743104	155948	0.39339395183009723	02dbf53ef8d6abfa32a941c0213aaed4	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR10794308	chromosome	-	-	NODE_11_length_149317_cov_9.180548	149317	0.4018564530495523	d0fbba235c024a3ec6c11380634a8c26	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR10794308	chromosome	-	-	NODE_12_length_134643_cov_9.222329	134643	0.3939454706148853	62f811587a6cd159d64fe29c6a3fa59d	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR10794308	chromosome	-	-	NODE_13_length_129078_cov_7.610262	129078	0.38799795472504994	bb19688505b69bd529eb2e3d25e79205	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR10794308	chromosome	-	-	NODE_14_length_127046_cov_9.843454	127046	0.4004061521023881	59d5c802908519595525cd6dde11bbd0	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR10794308	chromosome	-	-	NODE_15_length_125537_cov_8.237751	125537	0.3903072400965452	0c7b56a2ef400af6da82a9384619df91	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR10794308	chromosome	-	-	NODE_16_length_124184_cov_6.894766	124184	0.3882947883785351	093843cd0922cf91b396e32feac815f3	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR10794308	plasmid	AB114	AJ690	NODE_17_length_110999_cov_9.652678	110999	0.4161208659537473	ff9dc184fa1c2b96e41a58b2c8156690	not tested	rep_cluster_718	002191__CP004359_00001	MOBP	NC_020524_00069	-	-	-	-	-	CP021327	0.00396608	Acinetobacter baumannii	-	-	-
+ERR10794308	plasmid	AC935	AM305	NODE_18_length_109416_cov_11.003851	109416	0.37060007317965604	c4dffb88446ffbc44cf4b327e57602ac	not tested	-	-	-	-	-	-	-	-	-	CP033531	0.0156702	Acinetobacter pittii	-	-	-
+ERR10794308	chromosome	-	-	NODE_19_length_106819_cov_8.095821	106819	0.3847349254346137	799bb6f4bcbeb721517a445759c5b8fb	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR10794308	chromosome	-	-	NODE_1_length_340514_cov_7.273563	340514	0.3891969199504279	d30b7973f57562a080ea05bb1055d5c5	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR10794308	chromosome	-	-	NODE_20_length_100185_cov_9.530314	100185	0.3958476817886909	cfd793b4193b81242143c0d2fec5b698	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR10794308	chromosome	-	-	NODE_21_length_94961_cov_8.254928	94961	0.38455787112604123	bce75594783b9993e74f0e30d7c21931	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR10794308	chromosome	-	-	NODE_22_length_75973_cov_6.976870	75973	0.37195154138513514	9ea7bcded11703e64f0dabcd4e446322	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR10794308	plasmid	AC935	AM305	NODE_23_length_65554_cov_10.344191	65554	0.398526405711322	4ada3918037e5639f50e5e7ade2a89e2	not tested	-	-	MOBP	NZ_AEOY01000096_00007	-	-	-	-	-	CP033531	0.0156702	Acinetobacter pittii	-	-	-
+ERR10794308	chromosome	-	-	NODE_24_length_62965_cov_6.452709	62965	0.3783371714444533	6a23896c05648e24ec0ee951166a953e	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR10794308	chromosome	-	-	NODE_25_length_56753_cov_8.436933	56753	0.39862209927228515	4aaf4a83919b30e90537b629c4021afe	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR10794308	chromosome	-	-	NODE_26_length_54026_cov_6.581156	54026	0.3800022211527783	76aa38a69182f8643cc00f189eafe6a4	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR10794308	chromosome	-	-	NODE_27_length_51910_cov_7.293992	51910	0.3676555576960123	3d37d6d8a27dbd96c2b9f41d1a0fb81b	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR10794308	chromosome	-	-	NODE_28_length_50880_cov_9.677813	50880	0.38307783018867925	d7a713f76e9914fc4cb4053b728040dd	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR10794308	plasmid	AH171	AR227	NODE_29_length_41728_cov_9.268443	41728	0.3937164493865031	2b3c90d3e5faf9ab667b49801269e449	not tested	-	-	-	-	-	-	-	-	-	CP039027	0.0209501	Acinetobacter baumannii ATCC 17978	-	-	-
+ERR10794308	chromosome	-	-	NODE_2_length_272046_cov_7.250615	272046	0.3811933251454333	5f8f1a08c637f20746bcab44d364bcbc	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR10794308	chromosome	-	-	NODE_30_length_37360_cov_9.441776	37360	0.4035064239828694	547c6903a62cc0c62ddaece3ab3dc38a	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR10794308	plasmid	AC935	AM305	NODE_31_length_32133_cov_11.077824	32133	0.40332368593035195	b3f11db8fc63cf7aeecf60a7265ba55b	not tested	-	-	-	-	-	-	-	-	-	CP033531	0.0156702	Acinetobacter pittii	-	-	-
+ERR10794308	chromosome	-	-	NODE_32_length_29092_cov_8.046218	29092	0.3452495531417572	b182f45c4096dcad6e88897b4884f546	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR10794308	chromosome	-	-	NODE_33_length_27961_cov_8.002512	27961	0.3855369979614463	7ed1273f80a7d57f0905b312be402490	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR10794308	chromosome	-	-	NODE_34_length_26950_cov_8.807233	26950	0.3930612244897959	02b71aef0a23011241d2934ca241d366	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR10794308	chromosome	-	-	NODE_35_length_26438_cov_7.974145	26438	0.40695211438081547	e82c092f39ab155322f5b901d3306a73	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR10794308	plasmid	AC935	AM305	NODE_36_length_24845_cov_9.685121	24845	0.48279331857516605	2ab8266a2885b40409f5e5f4d128f41b	not tested	-	-	-	-	-	-	-	-	-	CP033531	0.0156702	Acinetobacter pittii	-	-	-
+ERR10794308	chromosome	-	-	NODE_37_length_24399_cov_8.958107	24399	0.38804869052010327	64b3c2236b37b3ae8bbd143f516e84c8	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR10794308	chromosome	-	-	NODE_38_length_21699_cov_9.083148	21699	0.3816765749573713	7e4a998e52dfc02672b274c3282df24a	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR10794308	chromosome	-	-	NODE_39_length_19380_cov_8.937244	19380	0.37543859649122807	d284b69f98cf0dcacf08e6071054a438	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR10794308	chromosome	-	-	NODE_3_length_258366_cov_7.000294	258366	0.3766788199685717	05fdfbb5a0a83c69aa334061c9bc800c	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR10794308	chromosome	-	-	NODE_40_length_12737_cov_9.069394	12737	0.3710449870456151	f1390e7ceb314e41222d4d1ea716d7d0	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR10794308	plasmid	AB114	AJ690	NODE_41_length_9217_cov_11.727023	9217	0.3411088206574807	3c9f3531bc45f0c3811a4da9275f3afb	not tested	-	-	-	-	-	-	-	-	-	CP021327	0.00396608	Acinetobacter baumannii	-	-	-
+ERR10794308	plasmid	AE581	AO392	NODE_42_length_7927_cov_6.887328	7927	0.6313864009082881	0b6b2dd755b441bc6400c694da881ab2	not tested	-	-	-	-	-	-	-	-	-	KR059864	0.0112201	Klebsiella pneumoniae	KY978629	IS5D	repetitve element
+ERR10794308	plasmid	AB338	AK069	NODE_43_length_7211_cov_24.228346	7211	0.3178477326307031	c4062bff6b9997072a134fbf22b2652d	not tested	rep_cluster_1226	000523__LT594096_00001	-	-	-	-	-	-	-	CP026126	0.0189925	Acinetobacter baumannii	-	-	-
+ERR10794308	chromosome	-	-	NODE_44_length_6512_cov_8.874006	6512	0.4014127764127764	445b06e826e2379b36dd8e433a8831d2	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR10794308	plasmid	AC935	AM305	NODE_45_length_6501_cov_10.145580	6501	0.38486386709736964	f50de83c6a9329245fed1a9d4911166f	not tested	-	-	-	-	-	-	-	-	-	CP033531	0.0156702	Acinetobacter pittii	-	-	-
+ERR10794308	chromosome	-	-	NODE_46_length_5933_cov_8.457833	5933	0.36962750716332377	95a08bf948d60c4849393861f99d5acb	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR10794308	chromosome	-	-	NODE_47_length_5485_cov_24.899554	5485	0.4463081130355515	7c4e4ba12370bc7aae2a81662d4f8c4b	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR10794308	plasmid	AC935	AM305	NODE_48_length_4867_cov_11.247064	4867	0.49763714814053833	aa903528851c99e83cd169dcf2f2eebf	not tested	-	-	-	-	-	-	-	-	-	CP033531	0.0156702	Acinetobacter pittii	-	-	-
+ERR10794308	chromosome	-	-	NODE_49_length_4791_cov_45.393436	4791	0.4939245363461948	9cb48c8162ddcb31fe4b25b66f0bf5c0	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR10794308	chromosome	-	-	NODE_4_length_222875_cov_8.698859	222875	0.3905283230510376	44a80177698ec5c420b9b2416da3b123	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR10794308	chromosome	-	-	NODE_50_length_4463_cov_7.214482	4463	0.3757562177907237	7102ab7713393ef00d7ecebe3c573252	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR10794308	plasmid	AE581	AO392	NODE_51_length_2944_cov_12.436204	2944	0.35665760869565216	374c53e63716b81ae22333f22f7bf79f	not tested	-	-	-	-	-	-	-	-	-	KR059864	0.0112201	Klebsiella pneumoniae	-	-	-
+ERR10794308	plasmid	AB114	AJ690	NODE_52_length_2635_cov_7.699527	2635	0.5943074003795067	a7c3eca25cccd01620c765a850cb6eca	not tested	-	-	-	-	-	-	-	-	-	CP021327	0.00396608	Acinetobacter baumannii	MF805806,KY437728,KY437727,KU736877	IS1006,ISPst9,ISShfr9,ISSusp2	repetitve element
+ERR10794308	plasmid	AB114	AJ690	NODE_53_length_2510_cov_47.545832	2510	0.47051792828685257	7cb54a44ea4917c80d12c70087283067	not tested	-	-	-	-	-	-	-	-	-	CP021327	0.00396608	Acinetobacter baumannii	JX441323	ISAba17	repetitve element
+ERR10794308	plasmid	AC935	AM305	NODE_54_length_2412_cov_10.881971	2412	0.37023217247097845	5c9f5ec6e4333131abd23691c3dda9d4	not tested	-	-	-	-	-	-	-	-	-	CP033531	0.0156702	Acinetobacter pittii	-	-	-
+ERR10794308	plasmid	AC935	AM305	NODE_55_length_2241_cov_8.377218	2241	0.5613565372601517	215c247f787839d4f91846df1e0843c8	not tested	-	-	-	-	-	-	-	-	-	CP033531	0.0156702	Acinetobacter pittii	M95402,KX009061	IS1133,Tn5393	repetitve element
+ERR10794308	plasmid	AB114	AJ690	NODE_56_length_2169_cov_10.436232	2169	0.4024896265560166	360bc51353d27bce2f98828d4553e7f7	not tested	-	-	-	-	-	-	-	-	-	CP021327	0.00396608	Acinetobacter baumannii	-	-	-
+ERR10794308	chromosome	-	-	NODE_57_length_1566_cov_10.629857	1566	0.4731800766283525	52294732211885fce1bdd83ce12f26ce	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR10794308	plasmid	AB114	AJ690	NODE_58_length_1359_cov_8.739683	1359	0.5710080941869021	f94746d2ae07c4bd70042ba76efa3a87	not tested	-	-	-	-	-	-	-	-	-	CP021327	0.00396608	Acinetobacter baumannii	MF805806,KX709966,KY437727,KU736876	IS1006,ISAzs17,ISShfr9,ISVsa3	repetitve element
+ERR10794308	plasmid	AB114	AJ690	NODE_59_length_1180_cov_52.104533	1180	0.35847457627118645	08588a72aa56eb0dbd06b3844b996c32	not tested	-	-	-	-	-	-	-	-	-	CP021327	0.00396608	Acinetobacter baumannii	MF805806,KY216144,KY437727	IS1006,ISAba33,ISShfr9	repetitve element
+ERR10794308	chromosome	-	-	NODE_5_length_210380_cov_9.055835	210380	0.3984741895617454	d0bbbee58072cf62007e90f06cd67d98	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR10794308	plasmid	AC935	AM305	NODE_60_length_1095_cov_19.656627	1095	0.3360730593607306	c8f8ad2d5c8b3aa14d269cefec3123c5	not tested	-	-	-	-	-	-	-	-	-	CP033531	0.0156702	Acinetobacter pittii	JQ241792	ISC1041	repetitve element
+ERR10794308	chromosome	-	-	NODE_61_length_833_cov_18.377384	833	0.4069627851140456	b25f8720a569440b81249b4207c2b0b0	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR10794308	chromosome	-	-	NODE_62_length_832_cov_103.371078	832	0.3798076923076923	a67908ead9eb69ce89cc8f9eb1cdc73c	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR10794308	chromosome	-	-	NODE_63_length_822_cov_14.142462	822	0.5255474452554745	7a65197ed2ed445092734be1f2399fcd	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR10794308	chromosome	-	-	NODE_64_length_810_cov_52.054852	810	0.38765432098765434	4e395ac7af551837c12982ae68094049	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR10794308	chromosome	-	-	NODE_65_length_710_cov_18.785597	710	0.48169014084507045	5996f0fa44c88d3cabaacbed731eca29	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR10794308	chromosome	-	-	NODE_66_length_680_cov_7.468158	680	0.35	e51958ba5d3dc9f23b91d10dd7f47e5c	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR10794308	chromosome	-	-	NODE_67_length_520_cov_8.615202	520	0.325	c12f33ee90dcc11cde325ae0b5017831	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR10794308	chromosome	-	-	NODE_68_length_503_cov_14.272277	503	0.43538767395626243	7917b8e42da7a2d86bf68c9efd583616	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR10794308	chromosome	-	-	NODE_6_length_191911_cov_7.606630	191911	0.38527755053123586	a523126c42c8f821c158e31700f4ec82	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR10794308	chromosome	-	-	NODE_7_length_176391_cov_8.655390	176391	0.3969459586706071	35f2a7d2b338f9e7fb668b6d4be7f649	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR10794308	chromosome	-	-	NODE_8_length_171490_cov_8.309124	171490	0.3854568779520672	4419999df624212281d75c787d5c41ab	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ERR10794308	chromosome	-	-	NODE_9_length_157360_cov_9.596219	157360	0.3702211489578038	2283b7114f8db5bc0e012f1650a26bf4	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
