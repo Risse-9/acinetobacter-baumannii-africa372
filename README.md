@@ -97,7 +97,6 @@ Generates the final tables and figures.
 * `generate_plasmid_table.py` (Table 4.5).
 
 
-
 ---
 
 ## Key Results
@@ -109,5 +108,54 @@ Generates the final tables and figures.
 ## License
 
 This project is for academic research purposes.
+
+---
+
+
+
+---
+
+## Software & References
+
+The following bioinformatics tools and platforms were used in this analysis. Please refer to their official documentation for detailed usage instructions.
+
+* **Snippy:** Core genome alignment and SNP calling.
+* [https://github.com/tseemann/snippy](https://github.com/tseemann/snippy)
+
+
+* **IQ-TREE 2:** Maximum Likelihood phylogenetics.
+* [http://www.iqtree.org/](http://www.iqtree.org/)
+
+
+* **MLST:** Multi-Locus Sequence Typing (Pasteur scheme).
+* [https://github.com/tseemann/mlst](https://github.com/tseemann/mlst)
+
+
+* **MOB-suite:** Plasmid reconstruction and typing.
+* [https://github.com/phac-nml/mob-suite](https://github.com/phac-nml/mob-suite)
+
+
+* **AMRFinderPlus:** Identification of antimicrobial resistance genes.
+* [https://github.com/ncbi/amr](https://github.com/ncbi/amr)
+
+
+* **PathogenWatch:** Genomic assembly and surveillance.
+* [https://pathogen.watch/](https://pathogen.watch/)
+
+
+* **Galaxy Platform:** Web-based platform used for running AMRFinderPlus.
+* [https://usegalaxy.org/](https://usegalaxy.org/)
+
+
+* **Microreact:** Phylogeographic visualization.
+* [https://microreact.org/](https://microreact.org/)
+
+
+* **Quality Control:**
+* **FastQC:** [https://www.bioinformatics.babraham.ac.uk/projects/fastqc/](https://www.bioinformatics.babraham.ac.uk/projects/fastqc/)
+* **MultiQC:** [https://multiqc.info/](https://multiqc.info/)
+* **QUAST:** [https://quast.sourceforge.net/](https://quast.sourceforge.net/)
+
+
 
 ---
