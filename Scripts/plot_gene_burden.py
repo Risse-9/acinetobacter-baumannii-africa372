@@ -1,14 +1,15 @@
-# 09_plot_gene_burden.py
+# plot_gene_burden.py
 # Description: Calculates the 'Gene Burden' (Total Resistance Genes per Genome) and visualizes
 # the dispersion using a histogram. Corresponds to Figure 4.1.
 
 import pandas as pd
 import matplotlib.pyplot as plt
+from matplotlib.ticker import MaxNLocator
 import os
 
 # --- Configuration ---
-INPUT_FILE = "../results/amr_results_wide_filtered.csv"
-OUTPUT_IMAGE = "../results/figures/Figure_4_1_Gene_Burden.png"
+INPUT_FILE = "results/amr_results_wide_filtered.csv"
+OUTPUT_IMAGE = "results/figures/Figure_4_1_Gene_Burden.png"
 
 # Ensure figure directory exists
 os.makedirs(os.path.dirname(OUTPUT_IMAGE), exist_ok=True)
@@ -31,15 +32,24 @@ stats = {
 }
 
 print("Gene Burden Statistics:")
-print(pd.DataFrame([stats]))
+print(pd.DataFrame([stats]).T)
 
 # 3. Generate Histogram
 plt.figure(figsize=(10, 6))
 plt.hist(df['Total_Genes'], bins=15, color='skyblue', edgecolor='black')
-# plt.title('Distribution of Resistance Genes per Genome')
-plt.xlabel('Number of Genes')
-plt.ylabel('Number of Genomes')
+
+# --- STYLE SETTINGS (Increased Sizes) ---
+plt.xlabel('Number of Genes', fontsize=14, fontweight='bold')
+plt.ylabel('Number of Genomes', fontsize=14, fontweight='bold')
+
+# Increase the size of the numbers on the axes
+plt.tick_params(axis='both', which='major', labelsize=12)
 plt.grid(axis='y', alpha=0.5)
+
+# Fix: x-axis to show integer ticks only
+ax = plt.gca() 
+ax.xaxis.set_major_locator(MaxNLocator(integer=True))
+ax.yaxis.set_major_locator(MaxNLocator(integer=True))
 
 # 4. Save
 plt.savefig(OUTPUT_IMAGE, dpi=300)
