@@ -1,6 +1,6 @@
-# 14_plot_faceted_source_st.py
+# 14_plot_faceted_source_st_bold.py
 # Description: Creates a faceted bar chart showing Sequence Type (ST) distribution
-# separated by Isolation Source (e.g., Blood, Respiratory, Wound).
+# separated by Isolation Source with BOLD AXIS TEXT and MEGA LEGEND.
 # Corresponds to Figure 4.5 in the thesis.
 
 import pandas as pd
@@ -8,8 +8,8 @@ import matplotlib.pyplot as plt
 import os
 
 # --- Configuration ---
-INPUT_FILE = "../data/microreact_metadata_final_Copy.xlsx"
-OUTPUT_IMAGE = "../results/figures/Figure_4_5_Faceted_ST_By_Source.png"
+INPUT_FILE = "data/microreact_metadata_final_Copy.xlsx"
+OUTPUT_IMAGE = "results/figures/Figure_4_5_Faceted_ST_By_Source.png"
 
 os.makedirs(os.path.dirname(OUTPUT_IMAGE), exist_ok=True)
 
@@ -19,17 +19,14 @@ meta = pd.read_excel(INPUT_FILE, index_col='id')
 
 # 2. BASIC CLEANING
 meta = meta.dropna(subset=['Country', 'ST'])
-
 meta['Country'] = meta['Country'].str.strip()
 meta['Isolation source'] = meta['Isolation source'].str.lower().str.strip()
 meta['Isolation source'] = meta['Isolation source'].fillna('unknown')
-
 meta['ST'] = pd.to_numeric(meta['ST'], errors='coerce')
 meta = meta.dropna(subset=['ST'])
 meta['ST'] = meta['ST'].astype(int)
 
 # 3. ISOLATION SOURCE MAPPING
-# Standardizing diverse source names into broad categories
 source_map = {
     # PATIENT SAMPLES
     'blood': 'blood', 'cvp blood': 'blood', 'cerebrospinal fluid (csf)': 'csf',
@@ -71,7 +68,6 @@ priority_sources = [
 meta = meta[meta['Isolation source'].isin(priority_sources)]
 
 # 5. GLOBAL COUNTRY + ST SELECTION
-# Define consistent categories for all facets
 global_country_counts = meta['Country'].value_counts()
 top_countries = global_country_counts[global_country_counts >= 5].nlargest(5).index
 top_st_global = meta['ST'].value_counts().nlargest(10).index
@@ -82,8 +78,13 @@ sources = priority_sources
 ncols = 2
 nrows = (len(sources) + 1) // ncols
 
-fig, axes = plt.subplots(nrows, ncols, figsize=(18, 6 * nrows), sharey=True)
+# Wide figure
+fig, axes = plt.subplots(nrows, ncols, figsize=(24, 11 * nrows), sharey=True)
 axes = axes.flatten()
+
+# We need to capture handles for the legend from a valid plot
+legend_handles = None
+legend_labels = None
 
 for ax, source in zip(axes, sources):
     subset = meta[meta['Isolation source'] == source]
@@ -114,32 +115,57 @@ for ax, source in zip(axes, sources):
         width=0.8, legend=False
     )
 
-    # Formatting
-    ax.set_xticklabels(plot_data_pct.index, rotation=45, ha='right', rotation_mode='anchor', fontsize=12)
-    ax.tick_params(axis='y', labelsize=12)
-    
+    # Capture handles/labels from the first successful plot
+    if legend_handles is None:
+        legend_handles, legend_labels = ax.get_legend_handles_labels()
+
+    # --- STYLE UPDATES (BOLD EVERYWHERE) ---
     n_source = subset.shape[0]
-    ax.set_title(f"{source.capitalize()} (n={n_source})", fontsize=14, fontweight='bold')
-    ax.set_ylabel('Percentage (%)')
+    ax.set_title(f"{source.capitalize()} (n={n_source})", fontsize=20, fontweight='bold')
+    
+    ax.set_ylabel('Percentage (%)', fontsize=18, fontweight='bold')
     ax.set_xlabel('')
+    
+    # 1. BOLD X-AXIS LABELS (Countries)
+    ax.set_xticklabels(
+        plot_data_pct.index, 
+        rotation=45, 
+        ha='right', 
+        rotation_mode='anchor', 
+        fontsize=16, 
+        fontweight='bold'  # <--- BOLD ADDED HERE
+    )
+
+    # 2. BOLD Y-AXIS TICKS (Numbers)
+    # We have to iterate to force them bold
+    for label in ax.get_yticklabels():
+        label.set_fontweight('bold')
+    ax.tick_params(axis='y', labelsize=16)
+    
     ax.set_ylim(0, 100)
     ax.axhline(50, linestyle='--', alpha=0.3)
     ax.spines['top'].set_visible(False)
     ax.spines['right'].set_visible(False)
     ax.grid(axis='y', alpha=0.2)
 
-# 7. GLOBAL LEGEND FIX
-for a in axes:
-    handles, labels = a.get_legend_handles_labels()
-    if handles:
-        break
+# Hide unused axes
+for i in range(len(sources), len(axes)):
+    axes[i].set_visible(False)
 
-fig.legend(
-    handles, labels, title='Pasteur ST',
-    bbox_to_anchor=(1.02, 0.5), loc='center left',
-    fontsize=14, title_fontsize=16, markerscale=2.0
-)
+# 7. GLOBAL LEGEND FIX (MEGA SIZE)
+if legend_handles:
+    fig.legend(
+        legend_handles, legend_labels, 
+        title='Pasteur ST',
+        bbox_to_anchor=(0.99, 0.5), 
+        loc='center right',         
+        fontsize=22,           
+        title_fontsize=24,     
+        markerscale=3.0        
+    )
 
-plt.tight_layout(rect=[0, 0, 0.9, 1])
-plt.savefig(OUTPUT_IMAGE, dpi=300)
+# --- LAYOUT ADJUSTMENT ---
+plt.tight_layout(rect=[0, 0, 0.78, 1]) 
+
+plt.savefig(OUTPUT_IMAGE, dpi=300) 
 print(f"Faceted plot saved to {OUTPUT_IMAGE}")

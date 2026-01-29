@@ -1,4 +1,4 @@
-# 13_plot_st_distribution.py
+# plot_st_distribution.py
 # Description:Visualizes the distribution of Pasteur Sequence Types (STs) across different countries.
 # Countries with fewer than 5 isolates are filtered out.
 # Corresponds to Figure 4.4 in the thesis.
@@ -8,8 +8,8 @@ import matplotlib.pyplot as plt
 import os
 
 # --- Configuration ---
-INPUT_FILE = "../data/microreact_metadata_final_Copy.xlsx"
-OUTPUT_IMAGE = "../results/figures/Figure_4_4_ST_Distribution.png"
+INPUT_FILE = "data/microreact_metadata_final_Copy.xlsx"
+OUTPUT_IMAGE = "results/figures/Figure_4_4_ST_Distribution.png"
 
 os.makedirs(os.path.dirname(OUTPUT_IMAGE), exist_ok=True)
 
@@ -60,14 +60,22 @@ ax = plot_data_pct.plot(kind='bar',
                         width=0.8)
 
 # 5. FORMATTING
-plt.ylabel('Percentage of Isolates (%)', fontsize=12)
-plt.xlabel('Country of Origin (Sample Size)', fontsize=12)
+plt.ylabel('Percentage of Isolates (%)', fontsize=16, fontweight='bold')
+plt.xlabel('Country of Origin (Sample Size)', fontsize=16, fontweight='bold')
+
+# Increased tick label sizes (Country names and % numbers)
+plt.tick_params(axis='both', which='major', labelsize=14)
 plt.xticks(rotation=45, ha='right')
-plt.legend(title='Pasteur ST', bbox_to_anchor=(1.02, 1), loc='upper left')
+
+plt.legend(title='Pasteur ST', 
+           bbox_to_anchor=(1.02, 1), 
+           loc='upper left',
+           fontsize=14,
+           title_fontsize=16)
 
 # Add a horizontal line at 50% for visual guide
 plt.axhline(y=50, color='gray', linestyle='--', alpha=0.3)
 
 plt.tight_layout()
-plt.savefig(OUTPUT_IMAGE, dpi=300)
+plt.savefig(OUTPUT_IMAGE, dpi=300, bbox_inches='tight')
 print(f"Plot saved to {OUTPUT_IMAGE}")
