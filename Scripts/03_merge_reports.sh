@@ -2,12 +2,11 @@
 # 03_merge_reports.sh
 # Description: Merges all individual tabular reports into a single CSV file.
 
-INPUT_DIR="../data/renamed_outputs"
-OUTPUT_FILE="../results/merged_amrfinder.csv"
+INPUT_DIR="data/renamed_outputs"
+OUTPUT_FILE="results/merged_amrfinder.csv"
 
 # Ensure output directory exists
-mkdir -p ../results
-
+mkdir -p results
 echo "Merging reports into $OUTPUT_FILE"
 
 # Initialize file: Clear it if it exists

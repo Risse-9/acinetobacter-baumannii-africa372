@@ -6,9 +6,9 @@
 import pandas as pd
 
 # --- Configuration ---
-AMR_FILE = "../results/merged_amrfinder.csv"
-MOB_FILE = "../results/master_mob_report.csv"
-OUTPUT_FILE = "../results/amr_plus_mob_merged.csv"
+AMR_FILE = "results/merged_amrfinder.csv"
+MOB_FILE = "results/master_mob_report.csv"
+OUTPUT_FILE = "results/amr_plus_mob_merged.csv"
 
 print("Loading input datasets...")
 

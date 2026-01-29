@@ -6,9 +6,9 @@
 set -euo pipefail
 
 # Configuration
-MAPPING="../data/mapping.csv"       # Path to your mapping file
-INPUT_DIR="../data/datasets"        # Path to the raw Galaxy download folder
-OUTPUT_DIR="../data/renamed_outputs" # Where valid renamed files go
+MAPPING="data/mapping.csv"       # Path to your mapping file
+INPUT_DIR="data/datasets"        # Path to the raw Galaxy download folder
+OUTPUT_DIR="data/renamed_outputs" # Where valid renamed files go
 
 # Set DRYRUN to false to actually move files
 # Run as: DRYRUN=false ./01_rename_amr_files.sh

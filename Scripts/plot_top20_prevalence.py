@@ -9,9 +9,9 @@ import matplotlib.pyplot as plt
 import os
 
 # --- Configuration ---
-WIDE_FILE = "../results/amr_results_wide_filtered.csv"
-RAW_AMR_FILE = "../results/merged_amrfinder.csv"
-OUTPUT_IMAGE = "../results/figures/Figure_4_2_Top20_Prevalence.png"
+WIDE_FILE = "results/amr_results_wide_filtered.csv"
+RAW_AMR_FILE = "results/merged_amrfinder.csv"
+OUTPUT_IMAGE = "results/figures/Figure_4_2_Top20_Prevalence.png"
 
 os.makedirs(os.path.dirname(OUTPUT_IMAGE), exist_ok=True)
 

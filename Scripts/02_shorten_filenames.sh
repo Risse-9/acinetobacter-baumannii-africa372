@@ -4,8 +4,8 @@
 # [Accession]_data[ID]_report.tabular or _sequences.fasta
 set -euo pipefail
 
-INPUT_DIR="../data/renamed_outputs"
-OUTPUT_DIR="../data/renamed_outputs_short"
+INPUT_DIR="data/renamed_outputs"
+OUTPUT_DIR="data/renamed_outputs_short"
 
 mkdir -p "$OUTPUT_DIR"
 shopt -s nullglob

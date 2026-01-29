@@ -6,8 +6,8 @@
 import pandas as pd
 
 # --- Configuration ---
-INPUT_FILE = "../results/amr_plus_mob_merged.csv"
-OUTPUT_FILE = "../results/amr_location_summary.csv"
+INPUT_FILE = "results/amr_plus_mob_merged.csv"
+OUTPUT_FILE = "results/amr_location_summary.csv"
 
 # Define the columns to be extracted for the final report
 COLUMNS_TO_KEEP = [

@@ -5,12 +5,12 @@
 set -e 
 
 # --- CONFIGURATION ---
-REF_GENOME="../data/fasta_372/ERR10710700.fasta"
-GENOME_DIR="../data/fasta_372"
+REF_GENOME="data/fasta_372/ERR10710700.fasta"
+GENOME_DIR="data/fasta_372"
 
 # Output directories
-FINAL_OUTPUT_DIR="../results/snippy_final_core"
-INTERMEDIATE_DIR="../results/snippy_out"
+FINAL_OUTPUT_DIR="results/snippy_final_core"
+INTERMEDIATE_DIR="results/snippy_out"
 
 # --- RESOURCE LIMITS ---
 CPUS_TO_USE=4

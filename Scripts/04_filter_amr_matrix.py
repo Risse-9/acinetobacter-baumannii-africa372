@@ -5,8 +5,8 @@ import pandas as pd
 import sys
 
 # --- CONFIGURATION ---
-INPUT_FILE = '../results/merged_amrfinder.csv' 
-OUTPUT_FILE = '../results/amr_results_wide_filtered.csv'
+INPUT_FILE = 'results/merged_amrfinder.csv' 
+OUTPUT_FILE = 'results/amr_results_wide_filtered.csv'
 
 # Quality Thresholds
 MIN_IDENTITY = 90.0

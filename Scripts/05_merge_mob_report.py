@@ -7,8 +7,8 @@ import pandas as pd
 import glob
 import os
 # --- Configuration ---
-SEARCH_DIR = "../data/mobsuite_results"
-OUTPUT_FILE = "../results/master_mob_report.csv"
+SEARCH_DIR = "data/mobsuite_results"
+OUTPUT_FILE = "results/master_mob_report.csv"
 
 print(f"Initiating search for contig reports in: {SEARCH_DIR}...")
 

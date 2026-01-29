@@ -7,8 +7,8 @@ import pandas as pd
 import os
 
 # --- Configuration ---
-INPUT_FILE = "../data/microreact_metadata_final_Copy.xlsx"
-OUTPUT_FILE = "../results/Table_4_7_Dominant_STs.csv"
+INPUT_FILE = "data/microreact_metadata_final_Copy.xlsx"
+OUTPUT_FILE = "results/Table_4_7_Dominant_STs.csv"
 
 # Ensure output directory exists
 os.makedirs(os.path.dirname(OUTPUT_FILE), exist_ok=True)

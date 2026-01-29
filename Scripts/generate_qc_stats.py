@@ -9,10 +9,10 @@ import os
 
 # --- Configuration ---
 # Paths relative to the 'scripts' folder
-MULTIQC_FILE = "../results/multiqc/multiqc_data/multiqc_general_stats.txt"
-QUAST_FILE = "../results/quast_results/transposed_report.txt"
-PHRED_FILE = "../results/multiqc/multiqc_data/fastqc_per_sequence_quality_scores_plot.txt"
-OUTPUT_FILE = "../results/Table_4_1_Summary_Stats.csv"
+MULTIQC_FILE = "results/multiqc/multiqc_data/multiqc_general_stats.txt"
+QUAST_FILE = "results/quast_results/transposed_report.txt"
+PHRED_FILE = "results/multiqc/multiqc_data/fastqc_per_sequence_quality_scores_plot.txt"
+OUTPUT_FILE = "results/Table_4_1_Summary_Stats.csv"
 
 pd.options.display.float_format = '{:,.2f}'.format
 
