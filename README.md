@@ -71,6 +71,13 @@ The scripts in the `Scripts/` folder.
 
 ### Phase 2: Data Processing & Cleaning (Python/Bash)
 
+*Note: AMRFinderPlus was run via the Galaxy web platform rather than locally,
+which exports results under long filenames tied to Galaxy's internal history
+IDs rather than sample accessions. `01`–`03` convert that into a clean,
+mergeable dataset: `01` maps each file to its real sample accession using
+`data/mapping.csv`, `02` shortens filenames to a standard format, and `03`
+merges everything into one CSV.*
+
 Cleaning raw reports and integrating MOB-suite plasmid data.
 
 * `01_rename_amr_files.sh` - `03_merge_reports.sh`: Prepares raw AMR data.
