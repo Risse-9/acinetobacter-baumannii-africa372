@@ -111,6 +111,21 @@ This project is for academic research purposes.
 
 ---
 
+## Data Availability
+
+Raw sequencing reads for all 372 isolates are publicly available from the NCBI
+Sequence Read Archive (SRA) and European Nucleotide Archive (ENA) under the run
+accessions listed in `data/mapping.csv` (`Accession` column, mapped to the
+internal `DataID` used throughout this repository's scripts and outputs). Reads
+are not redistributed here; they can be retrieved directly using each accession
+via the SRA/ENA browser, the SRA Toolkit (`prefetch` / `fasterq-dump`), or the
+ENA Portal API.
+
+Assembled draft genomes (post-QC, FASTA) for all 372 isolates are included
+directly in this repository under `data/fasta_372/`.
+
+---
+
 
 
 ---
