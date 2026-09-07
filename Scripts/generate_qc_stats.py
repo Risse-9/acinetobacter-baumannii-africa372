@@ -6,6 +6,7 @@
 import pandas as pd
 import numpy as np
 import os
+from ast import literal_eval
 
 # --- Configuration ---
 # Paths relative to the 'scripts' folder
@@ -52,7 +53,7 @@ def main():
                 val = row[col]
                 if isinstance(val, str) and '(' in val:
                     # Parse 'Score(Count)' format often found in MultiQC plots
-                    score, count = eval(val)
+                    score, count = literal_eval(val)
                     total_score += (score * count)
                     total_reads += count
             return total_score / total_reads if total_reads > 0 else np.nan
