@@ -64,7 +64,7 @@ The scripts in the `Scripts/` folder.
 * *Note: These outputs are processed in `generate_qc_stats.py`.*
 
 
-* `run_snippy.sh`: Generates core SNP alignment against reference **ERR10710700**.
+* `00_run_snippy.sh`: Generates core SNP alignment against reference **ERR10710700**.
 * `run_iqtree.sh`: Builds Maximum Likelihood tree (GTR+ASC model, 1000 bootstraps).
 * `run_mlst.sh`: Assigns Sequence Types (Pasteur scheme).
 * `clean_tree.sh`: Formats tree labels for Microreact visualization.
