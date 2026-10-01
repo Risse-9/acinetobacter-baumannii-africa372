@@ -8,8 +8,8 @@ import matplotlib.pyplot as plt
 import os
 
 # --- Configuration ---
-INPUT_FILE = "data/microreact_metadata_final_Copy.xlsx"
-OUTPUT_IMAGE = "results/figures/Figure_4_4_ST_Distribution.png"
+INPUT_FILE   = "data/362/microreact_metadata.xlsx"
+OUTPUT_IMAGE = "results/362/figures/Figure_4_4_ST_Distribution.png"
 
 os.makedirs(os.path.dirname(OUTPUT_IMAGE), exist_ok=True)
 

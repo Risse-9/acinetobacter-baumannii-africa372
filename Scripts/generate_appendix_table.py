@@ -6,12 +6,9 @@ import pandas as pd
 import os
 
 # --- Configuration ---
-# Inputs
-METADATA_FILE = "../data/microreact_metadata_final_Copy.xlsx"
-AMR_MATRIX_FILE = "../results/amr_results_wide_filtered.csv"
-
-# Output
-OUTPUT_FILE = "../results/Appendix_Metadata_Final.csv"
+METADATA_FILE   = "data/362/microreact_metadata.xlsx"
+AMR_MATRIX_FILE = "results/362/amr_results_wide_filtered.csv"
+OUTPUT_FILE     = "results/362/Appendix_Metadata_Final.csv"
 
 def main():
     # Ensure output directory exists

@@ -1,0 +1,759 @@
+IQ-TREE version 3.1.2 for Linux x86 64-bit built May 17 2026
+Developed by Bui Quang Minh, Thomas Wong, Nhan Ly-Trong, Huaiyan Ren
+Contributed by Lam-Tung Nguyen, Dominik Schrempf, Chris Bielow,
+Olga Chernomor, Michael Woodhams, Diep Thi Hoang, Heiko Schmidt
+
+Host:    Marionel (AVX2, FMA3, 10 GB RAM)
+Command: iqtree -s results/snippy_final_core_362/core.aln -pre results/iqtree_out_362/core_362 -m GTR+ASC -B 1000 -T AUTO
+Seed:    543644 (Using SPRNG - Scalable Parallel Random Number Generator)
+Time:    Mon Sep 28 12:53:07 2026
+Kernel:  AVX+FMA - auto-detect threads (14 CPU cores detected)
+
+Reading alignment file results/snippy_final_core_362/core.aln ... Fasta format detected
+Reading fasta file: done in 1.14569 secs using 68.84% CPU
+Alignment most likely contains DNA/RNA sequences
+Constructing alignment: done in 1.10177 secs using 178.5% CPU
+Alignment has 362 sequences with 117452 columns, 63925 distinct patterns
+96820 parsimony-informative, 20632 singleton sites, 0 constant sites
+                    Gap/Ambiguity  Composition  p-value
+Analyzing sequences: done in 0.044805 secs using 1348% CPU
+   1  Reference             0.00%    passed     75.66%
+   2  snippy_ERR10710702    0.00%    passed     75.56%
+   3  snippy_ERR10710703    0.00%    passed     75.32%
+   4  snippy_ERR10710705    0.00%    passed     75.32%
+   5  snippy_ERR10710706    0.00%    passed     97.71%
+   6  snippy_ERR10710707    0.00%    passed     75.99%
+   7  snippy_ERR10710709    0.00%    passed     75.66%
+   8  snippy_ERR10782663    0.00%    passed     86.90%
+   9  snippy_ERR10782668    0.00%    passed     93.76%
+  10  snippy_ERR10782671    0.00%    passed     88.61%
+  11  snippy_ERR10782676    0.00%    passed     97.13%
+  12  snippy_ERR10782680    0.00%    passed     99.61%
+  13  snippy_ERR10782688    0.00%    passed     58.99%
+  14  snippy_ERR10782695    0.00%    passed     99.64%
+  15  snippy_ERR10782717    0.00%    passed     88.71%
+  16  snippy_ERR10782743    0.00%    passed     94.47%
+  17  snippy_ERR10783123    0.00%    passed     99.76%
+  18  snippy_ERR10783128    0.00%    passed     82.05%
+  19  snippy_ERR10783132    0.00%    passed     95.61%
+  20  snippy_ERR10783138    0.00%    passed     77.49%
+  21  snippy_ERR10783144    0.00%    passed     84.98%
+  22  snippy_ERR10783153    0.00%    passed     95.72%
+  23  snippy_ERR10783156    0.00%    passed     91.57%
+  24  snippy_ERR10783159    0.00%    passed     86.35%
+  25  snippy_ERR10783163    0.00%    passed     94.44%
+  26  snippy_ERR10783166    0.00%    passed     93.79%
+  27  snippy_ERR10783178    0.00%    passed     84.78%
+  28  snippy_ERR10787957    0.00%    passed     76.99%
+  29  snippy_ERR10787959    0.00%    passed     98.53%
+  30  snippy_ERR10787961    0.00%    passed     82.64%
+  31  snippy_ERR10788033    0.00%    passed     86.99%
+  32  snippy_ERR10788115    0.00%    passed     61.02%
+  33  snippy_ERR10788118    0.00%    passed     91.64%
+  34  snippy_ERR10788121    0.00%    passed     98.02%
+  35  snippy_ERR10794274    0.00%    passed     62.20%
+  36  snippy_ERR10794308    0.00%    passed     84.84%
+  37  snippy_ERR10794316    0.00%    passed     91.69%
+  38  snippy_ERR10794327    0.00%    passed     85.76%
+  39  snippy_ERR10802836    0.00%    passed     76.41%
+  40  snippy_ERR10802837    0.00%    passed     83.58%
+  41  snippy_ERR10805899    0.00%    passed     96.39%
+  42  snippy_ERR10808103    0.00%    passed     94.89%
+  43  snippy_ERR10808115    0.00%    passed     66.57%
+  44  snippy_ERR10808136    0.00%    passed     92.68%
+  45  snippy_ERR10809417    0.00%    passed     95.87%
+  46  snippy_ERR10809418    0.00%    passed     90.05%
+  47  snippy_ERR10812834    0.00%    passed     95.95%
+  48  snippy_ERR10812835    0.00%    passed     92.54%
+  49  snippy_ERR10812836    0.00%    passed     92.18%
+  50  snippy_ERR10812837    0.00%    passed     72.35%
+  51  snippy_ERR10812838    0.00%    passed     79.63%
+  52  snippy_ERR10812839    0.00%    passed     58.90%
+  53  snippy_ERR10812840    0.00%    passed     99.71%
+  54  snippy_ERR10812841    0.00%    passed     95.55%
+  55  snippy_ERR10812867    0.00%    passed     91.69%
+  56  snippy_ERR10812868    0.00%    passed     99.70%
+  57  snippy_ERR10812869    0.00%    passed     73.44%
+  58  snippy_ERR10812870    0.00%    passed     96.13%
+  59  snippy_ERR10812871    0.00%    passed     78.17%
+  60  snippy_ERR10812872    0.00%    passed     92.09%
+  61  snippy_ERR10812873    0.00%    passed     99.18%
+  62  snippy_ERR10820997    0.00%    passed     89.32%
+  63  snippy_ERR10852925    0.00%    passed     85.89%
+  64  snippy_ERR10852926    0.00%    passed     95.44%
+  65  snippy_ERR10852929    0.00%    passed     93.98%
+  66  snippy_ERR10852931    0.00%    passed     75.71%
+  67  snippy_ERR10852932    0.00%    passed     90.33%
+  68  snippy_ERR10852933    0.00%    passed     98.49%
+  69  snippy_ERR10852935    0.00%    passed     91.67%
+  70  snippy_ERR10852936    0.00%    passed     92.18%
+  71  snippy_ERR10852938    0.00%    passed     75.67%
+  72  snippy_ERR10852993    0.00%    passed     75.63%
+  73  snippy_ERR10852995    0.00%    passed     95.87%
+  74  snippy_ERR10852996    0.00%    passed     32.36%
+  75  snippy_ERR10853648    0.00%    passed     95.33%
+  76  snippy_ERR10854234    0.00%    passed     89.34%
+  77  snippy_ERR10854472    0.00%    passed     97.22%
+  78  snippy_ERR10854473    0.00%    passed     94.60%
+  79  snippy_ERR10854474    0.00%    passed     96.79%
+  80  snippy_ERR10854475    0.00%    passed     81.58%
+  81  snippy_ERR10854476    0.00%    passed     77.39%
+  82  snippy_ERR10854480    0.00%    passed     92.18%
+  83  snippy_ERR10854483    0.00%    passed     92.18%
+  84  snippy_ERR10854484    0.00%    passed     98.28%
+  85  snippy_ERR3569448     0.00%    passed     97.89%
+  86  snippy_ERR3569449     0.00%    passed     97.90%
+  87  snippy_ERR3569450     0.00%    passed     97.89%
+  88  snippy_ERR3569451     0.00%    passed     97.89%
+  89  snippy_ERR4436595     0.00%    passed     78.23%
+  90  snippy_ERR4436596     0.00%    passed     90.76%
+  91  snippy_ERR4436597     0.00%    passed     90.64%
+  92  snippy_ERR4436754     0.00%    passed     59.50%
+  93  snippy_ERR4783172     0.00%    passed     89.08%
+  94  snippy_ERR4783180     0.00%    passed     76.30%
+  95  snippy_ERR4783186     0.00%    passed     67.13%
+  96  snippy_ERR4783188     0.00%    passed     67.13%
+  97  snippy_ERR4783194     0.00%    passed     81.68%
+  98  snippy_ERR4783195     0.00%    passed     67.13%
+  99  snippy_ERR4783200     0.00%    passed     96.11%
+ 100  snippy_ERR4783203     0.00%    passed     67.13%
+ 101  snippy_ERR4783208     0.00%    passed     76.30%
+ 102  snippy_ERR4783214     0.00%    passed     97.55%
+ 103  snippy_ERR4783216     0.00%    passed     67.13%
+ 104  snippy_ERR4783222     0.00%    passed     76.13%
+ 105  snippy_ERR4783223     0.00%    passed     67.51%
+ 106  snippy_ERR4783228     0.00%    passed     75.95%
+ 107  snippy_ERR4783231     0.00%    passed     67.13%
+ 108  snippy_ERR4783239     0.00%    passed     67.51%
+ 109  snippy_ERR4783244     0.00%    passed     98.09%
+ 110  snippy_ERR4783250     0.00%    passed     71.07%
+ 111  snippy_ERR4783252     0.00%    passed     67.13%
+ 112  snippy_ERR4783258     0.00%    passed     67.51%
+ 113  snippy_ERR4783259     0.00%    passed     71.69%
+ 114  snippy_ERR4783264     0.00%    passed     99.32%
+ 115  snippy_ERR4783387     0.00%    passed     76.30%
+ 116  snippy_ERR4783391     0.00%    passed     67.13%
+ 117  snippy_ERR4783401     0.00%    passed     76.30%
+ 118  snippy_ERR4783411     0.00%    passed     75.95%
+ 119  snippy_ERR4783419     0.00%    passed     76.54%
+ 120  snippy_ERR4783518     0.00%    passed     76.40%
+ 121  snippy_ERR4919979     0.00%    passed     97.47%
+ 122  snippy_ERR4919980     0.00%    passed     90.73%
+ 123  snippy_ERR4919981     0.00%    passed     90.73%
+ 124  snippy_ERR4919983     0.00%    passed     90.73%
+ 125  snippy_ERR4919984     0.00%    passed     90.73%
+ 126  snippy_ERR4919985     0.00%    passed     90.73%
+ 127  snippy_ERR4919991     0.00%    passed     79.48%
+ 128  snippy_ERR4919992     0.00%    passed     83.62%
+ 129  snippy_ERR4919993     0.00%    passed     83.98%
+ 130  snippy_ERR4920008     0.00%    passed     75.18%
+ 131  snippy_ERR4920011     0.00%    passed     97.86%
+ 132  snippy_ERR4920012     0.00%    passed     99.93%
+ 133  snippy_ERR4920013     0.00%    passed     99.93%
+ 134  snippy_ERR4999559     0.00%    passed     77.35%
+ 135  snippy_ERR4999560     0.00%    passed     97.32%
+ 136  snippy_ERR4999561     0.00%    passed     97.61%
+ 137  snippy_ERR4999562     0.00%    passed     97.04%
+ 138  snippy_ERR4999563     0.00%    passed     71.56%
+ 139  snippy_ERR4999564     0.00%    passed     77.37%
+ 140  snippy_ERR4999566     0.00%    passed     71.93%
+ 141  snippy_ERR4999567     0.00%    passed     97.30%
+ 142  snippy_ERR4999568     0.00%    passed     71.56%
+ 143  snippy_ERR4999569     0.00%    passed     81.10%
+ 144  snippy_ERR4999570     0.00%    passed     84.33%
+ 145  snippy_ERR4999571     0.00%    passed     92.01%
+ 146  snippy_ERR4999572     0.00%    passed     92.01%
+ 147  snippy_ERR4999574     0.00%    passed     77.37%
+ 148  snippy_ERR4999575     0.00%    passed     83.72%
+ 149  snippy_ERR4999577     0.00%    passed     84.24%
+ 150  snippy_ERR5000113     0.00%    passed     71.56%
+ 151  snippy_ERR5000114     0.00%    passed     92.43%
+ 152  snippy_ERR5000123     0.00%    passed     88.09%
+ 153  snippy_ERR5000189     0.00%    passed     84.28%
+ 154  snippy_ERR5000190     0.00%    passed     91.50%
+ 155  snippy_ERR5000204     0.00%    passed     84.33%
+ 156  snippy_ERR5205865     0.00%    passed     90.52%
+ 157  snippy_ERR5205866     0.00%    passed     86.69%
+ 158  snippy_ERR5205867     0.00%    passed     96.83%
+ 159  snippy_ERR5205868     0.00%    passed     86.69%
+ 160  snippy_ERR5205869     0.00%    passed     84.08%
+ 161  snippy_ERR5205871     0.00%    passed     61.62%
+ 162  snippy_ERR6938061     0.00%    passed     91.68%
+ 163  snippy_ERR6938074     0.00%    passed     96.85%
+ 164  snippy_ERR6938077     0.00%    passed     96.55%
+ 165  snippy_ERR6938084     0.00%    passed     99.61%
+ 166  snippy_ERR6938087     0.00%    passed     99.89%
+ 167  snippy_ERR6938090     0.00%    passed     91.68%
+ 168  snippy_ERR6938093     0.00%    passed     96.85%
+ 169  snippy_ERR6938096     0.00%    passed     80.49%
+ 170  snippy_ERR6938099     0.00%    passed     92.42%
+ 171  snippy_ERR6938111     0.00%    passed     96.27%
+ 172  snippy_ERR6938114     0.00%    passed     91.68%
+ 173  snippy_ERR6938153     0.00%    passed     93.26%
+ 174  snippy_ERR6938409     0.00%    passed     68.39%
+ 175  snippy_ERR6938479     0.00%    passed     97.10%
+ 176  snippy_ERR6938729     0.00%    passed     72.12%
+ 177  snippy_ERR6938731     0.00%    passed     72.12%
+ 178  snippy_ERR6938732     0.00%    passed     72.12%
+ 179  snippy_ERR6938733     0.00%    passed     67.93%
+ 180  snippy_ERR6938734     0.00%    passed     77.01%
+ 181  snippy_ERR6938735     0.00%    passed     77.01%
+ 182  snippy_ERR6938736     0.00%    passed     77.01%
+ 183  snippy_ERR6938739     0.00%    passed     99.68%
+ 184  snippy_ERR6938740     0.00%    passed     99.68%
+ 185  snippy_ERR6938741     0.00%    passed     94.59%
+ 186  snippy_ERR6938743     0.00%    passed     94.59%
+ 187  snippy_ERR6938745     0.00%    passed     82.94%
+ 188  snippy_ERR6938749     0.00%    passed     82.94%
+ 189  snippy_ERR6938913     0.00%    passed     85.73%
+ 190  snippy_ERR6938928     0.00%    passed     98.15%
+ 191  snippy_ERR6938929     0.00%    passed     98.15%
+ 192  snippy_ERR6938931     0.00%    passed     99.07%
+ 193  snippy_ERR7226293     0.00%    passed     99.92%
+ 194  snippy_ERR7226295     0.00%    passed     90.92%
+ 195  snippy_ERR7226554     0.00%    passed     97.91%
+ 196  snippy_ERR7226556     0.00%    passed     97.91%
+ 197  snippy_ERR7226586     0.00%    passed     81.87%
+ 198  snippy_ERR7226590     0.00%    passed     90.38%
+ 199  snippy_ERR7226592     0.00%    passed     90.38%
+ 200  snippy_ERR7226594     0.00%    passed     90.38%
+ 201  snippy_ERR7226612     0.00%    passed     97.55%
+ 202  snippy_ERR7226614     0.00%    passed     76.05%
+ 203  snippy_ERR7226616     0.00%    passed     70.42%
+ 204  snippy_ERR7226618     0.00%    passed     76.31%
+ 205  snippy_ERR7226620     0.00%    passed     81.87%
+ 206  snippy_ERR7226622     0.00%    passed     81.87%
+ 207  snippy_ERR7226626     0.00%    passed     99.92%
+ 208  snippy_ERR7226644     0.00%    passed     93.11%
+ 209  snippy_ERR7226646     0.00%    passed     99.89%
+ 210  snippy_ERR7226648     0.00%    passed     99.60%
+ 211  snippy_ERR7226650     0.00%    passed     91.78%
+ 212  snippy_ERR7226654     0.00%    passed     99.74%
+ 213  snippy_ERR7226656     0.00%    passed     99.92%
+ 214  snippy_ERR7226658     0.00%    passed     99.92%
+ 215  snippy_ERR7226676     0.00%    passed     83.23%
+ 216  snippy_ERR7226678     0.00%    passed     99.92%
+ 217  snippy_ERR7226680     0.00%    passed     94.44%
+ 218  snippy_ERR7226688     0.00%    passed     88.71%
+ 219  snippy_ERR7226690     0.00%    passed     88.71%
+ 220  snippy_ERR8024946     0.00%    passed     70.67%
+ 221  snippy_ERR8024947     0.00%    passed     97.48%
+ 222  snippy_ERR8024950     0.00%    passed     97.62%
+ 223  snippy_ERR8024951     0.00%    passed     97.45%
+ 224  snippy_ERR8024959     0.00%    passed     95.00%
+ 225  snippy_SRR10583096    0.00%    passed     85.71%
+ 226  snippy_SRR11514880    0.00%    passed     98.47%
+ 227  snippy_SRR11589174    0.00%    passed     91.59%
+ 228  snippy_SRR11589267    0.00%    passed     91.45%
+ 229  snippy_SRR12905336    0.00%    passed     71.56%
+ 230  snippy_SRR12905337    0.00%    passed     77.37%
+ 231  snippy_SRR12905338    0.00%    passed     92.01%
+ 232  snippy_SRR12905341    0.00%    passed     91.50%
+ 233  snippy_SRR13327178    0.00%    passed     78.53%
+ 234  snippy_SRR13327179    0.00%    passed     78.61%
+ 235  snippy_SRR13327181    0.00%    passed     98.08%
+ 236  snippy_SRR13327185    0.00%    passed     98.10%
+ 237  snippy_SRR13327186    0.00%    passed     90.77%
+ 238  snippy_SRR13327187    0.00%    passed     98.17%
+ 239  snippy_SRR13327189    0.00%    passed     98.10%
+ 240  snippy_SRR13327190    0.00%    passed     98.12%
+ 241  snippy_SRR13327191    0.00%    passed     97.75%
+ 242  snippy_SRR13327192    0.00%    passed     75.59%
+ 243  snippy_SRR13327193    0.00%    passed     88.03%
+ 244  snippy_SRR13327194    0.00%    passed     75.66%
+ 245  snippy_SRR13327196    0.00%    passed     90.76%
+ 246  snippy_SRR13327198    0.00%    passed     97.83%
+ 247  snippy_SRR13327199    0.00%    passed     86.43%
+ 248  snippy_SRR13327200    0.00%    passed     98.04%
+ 249  snippy_SRR13327201    0.00%    passed     98.17%
+ 250  snippy_SRR13327203    0.00%    passed     97.96%
+ 251  snippy_SRR13327204    0.00%    passed     98.12%
+ 252  snippy_SRR13327205    0.00%    passed     90.77%
+ 253  snippy_SRR13327206    0.00%    passed     98.20%
+ 254  snippy_SRR13327207    0.00%    passed     98.08%
+ 255  snippy_SRR13401434    0.00%    passed     89.05%
+ 256  snippy_SRR13430624    0.00%    passed     88.35%
+ 257  snippy_SRR13430625    0.00%    passed     90.35%
+ 258  snippy_SRR13430626    0.00%    passed     79.76%
+ 259  snippy_SRR13430627    0.00%    passed     73.37%
+ 260  snippy_SRR14100602    0.00%    passed     71.74%
+ 261  snippy_SRR14101519    0.00%    passed     75.38%
+ 262  snippy_SRR14101547    0.00%    passed     96.71%
+ 263  snippy_SRR14101709    0.00%    passed     89.78%
+ 264  snippy_SRR14101949    0.00%    passed     97.24%
+ 265  snippy_SRR14102219    0.00%    passed     88.57%
+ 266  snippy_SRR14102306    0.00%    passed     88.60%
+ 267  snippy_SRR14102521    0.00%    passed     82.72%
+ 268  snippy_SRR14116705    0.00%    passed     99.74%
+ 269  snippy_SRR14116736    0.00%    passed     88.72%
+ 270  snippy_SRR14280111    0.00%    passed     74.09%
+ 271  snippy_SRR14455652    0.00%    passed     97.97%
+ 272  snippy_SRR17931033    0.00%    passed     82.73%
+ 273  snippy_SRR17931048    0.00%    passed     94.87%
+ 274  snippy_SRR17931144    0.00%    passed     95.02%
+ 275  snippy_SRR17931145    0.00%    passed     94.67%
+ 276  snippy_SRR18114233    0.00%    passed     97.97%
+ 277  snippy_SRR19107616    0.00%    passed     96.95%
+ 278  snippy_SRR25445074    0.00%    passed     94.14%
+ 279  snippy_SRR25445075    0.00%    passed     94.14%
+ 280  snippy_SRR25445076    0.00%    passed     93.98%
+ 281  snippy_SRR25445077    0.00%    passed     94.14%
+ 282  snippy_SRR25445078    0.00%    passed     87.26%
+ 283  snippy_SRR25445079    0.00%    passed     87.26%
+ 284  snippy_SRR25445080    0.00%    passed     87.26%
+ 285  snippy_SRR25445081    0.00%    passed     87.26%
+ 286  snippy_SRR25445082    0.00%    passed     87.26%
+ 287  snippy_SRR25445083    0.00%    passed     75.18%
+ 288  snippy_SRR25445084    0.00%    passed     87.26%
+ 289  snippy_SRR25445085    0.00%    passed     87.26%
+ 290  snippy_SRR25445086    0.00%    passed     87.26%
+ 291  snippy_SRR25445087    0.00%    passed     87.03%
+ 292  snippy_SRR25445088    0.00%    passed     87.26%
+ 293  snippy_SRR25445089    0.00%    passed     87.40%
+ 294  snippy_SRR25445090    0.00%    passed     87.26%
+ 295  snippy_SRR25445091    0.00%    passed     87.26%
+ 296  snippy_SRR25445092    0.00%    passed     87.26%
+ 297  snippy_SRR25445094    0.00%    passed     75.18%
+ 298  snippy_SRR25445095    0.00%    passed     87.58%
+ 299  snippy_SRR25445096    0.00%    passed     87.26%
+ 300  snippy_SRR25445097    0.00%    passed     87.26%
+ 301  snippy_SRR25445098    0.00%    passed     87.26%
+ 302  snippy_SRR25445099    0.00%    passed     87.26%
+ 303  snippy_SRR25445100    0.00%    passed     87.26%
+ 304  snippy_SRR25445101    0.00%    passed     87.26%
+ 305  snippy_SRR25445102    0.00%    passed     87.26%
+ 306  snippy_SRR25445103    0.00%    passed     87.35%
+ 307  snippy_SRR25445104    0.00%    passed     87.35%
+ 308  snippy_SRR25445105    0.00%    passed     75.18%
+ 309  snippy_SRR25445106    0.00%    passed     87.35%
+ 310  snippy_SRR25445107    0.00%    passed     87.07%
+ 311  snippy_SRR25445108    0.00%    passed     87.07%
+ 312  snippy_SRR25445109    0.00%    passed     87.07%
+ 313  snippy_SRR25445110    0.00%    passed     87.07%
+ 314  snippy_SRR25445111    0.00%    passed     87.46%
+ 315  snippy_SRR25445112    0.00%    passed     87.26%
+ 316  snippy_SRR25445113    0.00%    passed     87.26%
+ 317  snippy_SRR25445114    0.00%    passed     87.40%
+ 318  snippy_SRR25445115    0.00%    passed     87.26%
+ 319  snippy_SRR25445116    0.00%    passed     74.77%
+ 320  snippy_SRR25445117    0.00%    passed     87.31%
+ 321  snippy_SRR25445118    0.00%    passed     87.07%
+ 322  snippy_SRR25445119    0.00%    passed     87.26%
+ 323  snippy_SRR25445120    0.00%    passed     90.75%
+ 324  snippy_SRR25445121    0.00%    passed     90.75%
+ 325  snippy_SRR25445122    0.00%    passed     90.75%
+ 326  snippy_SRR25445123    0.00%    passed     90.75%
+ 327  snippy_SRR25445124    0.00%    passed     90.75%
+ 328  snippy_SRR25445125    0.00%    passed     90.79%
+ 329  snippy_SRR25445126    0.00%    passed     90.87%
+ 330  snippy_SRR25445127    0.00%    passed     75.18%
+ 331  snippy_SRR25445128    0.00%    passed     75.18%
+ 332  snippy_SRR28167554    0.00%    passed     97.77%
+ 333  snippy_SRR28167555    0.00%    passed     97.77%
+ 334  snippy_SRR28167556    0.00%    passed     97.77%
+ 335  snippy_SRR28167557    0.00%    passed     58.29%
+ 336  snippy_SRR28167558    0.00%    passed     90.66%
+ 337  snippy_SRR28167559    0.00%    passed     97.77%
+ 338  snippy_SRR28167560    0.00%    passed     97.77%
+ 339  snippy_SRR28167561    0.00%    passed     97.86%
+ 340  snippy_SRR28167562    0.00%    passed     97.71%
+ 341  snippy_SRR28167563    0.00%    passed     96.39%
+ 342  snippy_SRR28167564    0.00%    passed     97.77%
+ 343  snippy_SRR28167565    0.00%    passed     97.84%
+ 344  snippy_SRR28167566    0.00%    passed     97.78%
+ 345  snippy_SRR28167567    0.00%    passed     97.80%
+ 346  snippy_SRR28167569    0.00%    passed     90.67%
+ 347  snippy_SRR28167570    0.00%    passed     97.90%
+ 348  snippy_SRR28167571    0.00%    passed     97.80%
+ 349  snippy_SRR28167572    0.00%    passed     97.74%
+ 350  snippy_SRR28167573    0.00%    passed     97.71%
+ 351  snippy_SRR28167574    0.00%    passed     97.71%
+ 352  snippy_SRR28167575    0.00%    passed     97.74%
+ 353  snippy_SRR28167576    0.00%    passed     97.80%
+ 354  snippy_SRR28167577    0.00%    passed     96.87%
+ 355  snippy_SRR28167578    0.00%    passed     97.77%
+ 356  snippy_SRR28167579    0.00%    passed     97.77%
+ 357  snippy_SRR28167581    0.00%    passed     97.77%
+ 358  snippy_SRR28167582    0.00%    passed     97.77%
+ 359  snippy_SRR28167584    0.00%    passed     58.29%
+ 360  snippy_SRR8618098     0.00%    passed     99.91%
+ 361  snippy_SRR8618099     0.00%    passed     99.92%
+ 362  snippy_SRR9017260     0.00%    passed     99.74%
+****  TOTAL                 0.00%  0 sequences failed composition chi2 test (p-value<5%; df=3)
+NOTE: minimal branch length is reduced to 0.000000851412 for long alignment
+NOTE: snippy_ERR10710705 is identical to snippy_ERR10710703 but kept for subsequent analysis
+NOTE: snippy_ERR7226688 is identical to snippy_ERR10782717 but kept for subsequent analysis
+NOTE: snippy_ERR10812867 is identical to snippy_ERR10794316 but kept for subsequent analysis
+NOTE: snippy_ERR10852995 is identical to snippy_ERR10809417 but kept for subsequent analysis
+NOTE: snippy_ERR10854483 is identical to snippy_ERR10854480 but kept for subsequent analysis
+NOTE: snippy_ERR3569450 is identical to snippy_ERR3569448 but kept for subsequent analysis
+NOTE: snippy_ERR4783208 is identical to snippy_ERR4783180 but kept for subsequent analysis
+NOTE: snippy_ERR4783188 is identical to snippy_ERR4783186 but kept for subsequent analysis
+NOTE: snippy_ERR4783239 is identical to snippy_ERR4783223 but kept for subsequent analysis
+NOTE: snippy_ERR4783411 is identical to snippy_ERR4783228 but kept for subsequent analysis
+NOTE: snippy_ERR4919981 is identical to snippy_ERR4919980 but kept for subsequent analysis
+NOTE: snippy_ERR4999568 is identical to snippy_ERR4999563 but kept for subsequent analysis
+NOTE: snippy_SRR12905337 is identical to snippy_ERR4999564 but kept for subsequent analysis
+NOTE: snippy_ERR5000204 is identical to snippy_ERR4999570 but kept for subsequent analysis
+NOTE: snippy_ERR4999572 is identical to snippy_ERR4999571 but kept for subsequent analysis
+NOTE: snippy_SRR12905341 is identical to snippy_ERR5000190 but kept for subsequent analysis
+NOTE: snippy_ERR5205868 is identical to snippy_ERR5205866 but kept for subsequent analysis
+NOTE: snippy_ERR6938090 is identical to snippy_ERR6938061 but kept for subsequent analysis
+NOTE: snippy_ERR6938093 is identical to snippy_ERR6938074 but kept for subsequent analysis
+NOTE: snippy_ERR6938731 is identical to snippy_ERR6938729 but kept for subsequent analysis
+NOTE: snippy_ERR6938735 is identical to snippy_ERR6938734 but kept for subsequent analysis
+NOTE: snippy_ERR6938740 is identical to snippy_ERR6938739 but kept for subsequent analysis
+NOTE: snippy_ERR6938743 is identical to snippy_ERR6938741 but kept for subsequent analysis
+NOTE: snippy_ERR6938749 is identical to snippy_ERR6938745 but kept for subsequent analysis
+NOTE: snippy_ERR6938929 is identical to snippy_ERR6938928 but kept for subsequent analysis
+NOTE: snippy_ERR7226656 is identical to snippy_ERR7226293 but kept for subsequent analysis
+NOTE: snippy_ERR7226556 is identical to snippy_ERR7226554 but kept for subsequent analysis
+NOTE: snippy_ERR7226620 is identical to snippy_ERR7226586 but kept for subsequent analysis
+NOTE: snippy_ERR7226592 is identical to snippy_ERR7226590 but kept for subsequent analysis
+NOTE: snippy_SRR18114233 is identical to snippy_SRR14455652 but kept for subsequent analysis
+NOTE: snippy_SRR25445075 is identical to snippy_SRR25445074 but kept for subsequent analysis
+NOTE: snippy_SRR25445079 is identical to snippy_SRR25445078 but kept for subsequent analysis
+NOTE: snippy_SRR25445094 is identical to snippy_SRR25445083 but kept for subsequent analysis
+NOTE: snippy_SRR25445104 is identical to snippy_SRR25445103 but kept for subsequent analysis
+NOTE: snippy_SRR25445108 is identical to snippy_SRR25445107 but kept for subsequent analysis
+NOTE: snippy_SRR25445121 is identical to snippy_SRR25445120 but kept for subsequent analysis
+NOTE: snippy_SRR28167555 is identical to snippy_SRR28167554 but kept for subsequent analysis
+NOTE: snippy_SRR28167584 is identical to snippy_SRR28167557 but kept for subsequent analysis
+NOTE: snippy_SRR28167573 is identical to snippy_SRR28167562 but kept for subsequent analysis
+NOTE: snippy_SRR28167571 is identical to snippy_SRR28167567 but kept for subsequent analysis
+Checking for duplicate sequences: done in 0.166802 secs using 1294% CPU
+Identifying sites to remove: done in 0.510552 secs using 180.5% CPU
+NOTE: 64 identical sequences (see below) will be ignored for subsequent analysis
+NOTE: snippy_ERR7226690 (identical to snippy_ERR10782717) is ignored but added at the end
+NOTE: snippy_ERR3569451 (identical to snippy_ERR3569448) is ignored but added at the end
+NOTE: snippy_ERR4783387 (identical to snippy_ERR4783180) is ignored but added at the end
+NOTE: snippy_ERR4783401 (identical to snippy_ERR4783180) is ignored but added at the end
+NOTE: snippy_ERR4783195 (identical to snippy_ERR4783186) is ignored but added at the end
+NOTE: snippy_ERR4783203 (identical to snippy_ERR4783186) is ignored but added at the end
+NOTE: snippy_ERR4783216 (identical to snippy_ERR4783186) is ignored but added at the end
+NOTE: snippy_ERR4783231 (identical to snippy_ERR4783186) is ignored but added at the end
+NOTE: snippy_ERR4783252 (identical to snippy_ERR4783186) is ignored but added at the end
+NOTE: snippy_ERR4783391 (identical to snippy_ERR4783186) is ignored but added at the end
+NOTE: snippy_ERR4783258 (identical to snippy_ERR4783223) is ignored but added at the end
+NOTE: snippy_ERR4919983 (identical to snippy_ERR4919980) is ignored but added at the end
+NOTE: snippy_ERR4919984 (identical to snippy_ERR4919980) is ignored but added at the end
+NOTE: snippy_ERR4919985 (identical to snippy_ERR4919980) is ignored but added at the end
+NOTE: snippy_ERR5000113 (identical to snippy_ERR4999563) is ignored but added at the end
+NOTE: snippy_SRR12905336 (identical to snippy_ERR4999563) is ignored but added at the end
+NOTE: snippy_SRR12905338 (identical to snippy_ERR4999571) is ignored but added at the end
+NOTE: snippy_ERR6938114 (identical to snippy_ERR6938061) is ignored but added at the end
+NOTE: snippy_ERR6938732 (identical to snippy_ERR6938729) is ignored but added at the end
+NOTE: snippy_ERR6938736 (identical to snippy_ERR6938734) is ignored but added at the end
+NOTE: snippy_ERR7226658 (identical to snippy_ERR7226293) is ignored but added at the end
+NOTE: snippy_ERR7226678 (identical to snippy_ERR7226293) is ignored but added at the end
+NOTE: snippy_ERR7226622 (identical to snippy_ERR7226586) is ignored but added at the end
+NOTE: snippy_ERR7226594 (identical to snippy_ERR7226590) is ignored but added at the end
+NOTE: snippy_SRR25445077 (identical to snippy_SRR25445074) is ignored but added at the end
+NOTE: snippy_SRR25445080 (identical to snippy_SRR25445078) is ignored but added at the end
+NOTE: snippy_SRR25445081 (identical to snippy_SRR25445078) is ignored but added at the end
+NOTE: snippy_SRR25445082 (identical to snippy_SRR25445078) is ignored but added at the end
+NOTE: snippy_SRR25445084 (identical to snippy_SRR25445078) is ignored but added at the end
+NOTE: snippy_SRR25445085 (identical to snippy_SRR25445078) is ignored but added at the end
+NOTE: snippy_SRR25445086 (identical to snippy_SRR25445078) is ignored but added at the end
+NOTE: snippy_SRR25445088 (identical to snippy_SRR25445078) is ignored but added at the end
+NOTE: snippy_SRR25445090 (identical to snippy_SRR25445078) is ignored but added at the end
+NOTE: snippy_SRR25445091 (identical to snippy_SRR25445078) is ignored but added at the end
+NOTE: snippy_SRR25445092 (identical to snippy_SRR25445078) is ignored but added at the end
+NOTE: snippy_SRR25445096 (identical to snippy_SRR25445078) is ignored but added at the end
+NOTE: snippy_SRR25445097 (identical to snippy_SRR25445078) is ignored but added at the end
+NOTE: snippy_SRR25445098 (identical to snippy_SRR25445078) is ignored but added at the end
+NOTE: snippy_SRR25445099 (identical to snippy_SRR25445078) is ignored but added at the end
+NOTE: snippy_SRR25445100 (identical to snippy_SRR25445078) is ignored but added at the end
+NOTE: snippy_SRR25445101 (identical to snippy_SRR25445078) is ignored but added at the end
+NOTE: snippy_SRR25445102 (identical to snippy_SRR25445078) is ignored but added at the end
+NOTE: snippy_SRR25445112 (identical to snippy_SRR25445078) is ignored but added at the end
+NOTE: snippy_SRR25445113 (identical to snippy_SRR25445078) is ignored but added at the end
+NOTE: snippy_SRR25445115 (identical to snippy_SRR25445078) is ignored but added at the end
+NOTE: snippy_SRR25445119 (identical to snippy_SRR25445078) is ignored but added at the end
+NOTE: snippy_SRR25445105 (identical to snippy_SRR25445083) is ignored but added at the end
+NOTE: snippy_SRR25445127 (identical to snippy_SRR25445083) is ignored but added at the end
+NOTE: snippy_SRR25445128 (identical to snippy_SRR25445083) is ignored but added at the end
+NOTE: snippy_SRR25445106 (identical to snippy_SRR25445103) is ignored but added at the end
+NOTE: snippy_SRR25445109 (identical to snippy_SRR25445107) is ignored but added at the end
+NOTE: snippy_SRR25445110 (identical to snippy_SRR25445107) is ignored but added at the end
+NOTE: snippy_SRR25445122 (identical to snippy_SRR25445120) is ignored but added at the end
+NOTE: snippy_SRR25445123 (identical to snippy_SRR25445120) is ignored but added at the end
+NOTE: snippy_SRR25445124 (identical to snippy_SRR25445120) is ignored but added at the end
+NOTE: snippy_SRR28167556 (identical to snippy_SRR28167554) is ignored but added at the end
+NOTE: snippy_SRR28167559 (identical to snippy_SRR28167554) is ignored but added at the end
+NOTE: snippy_SRR28167560 (identical to snippy_SRR28167554) is ignored but added at the end
+NOTE: snippy_SRR28167564 (identical to snippy_SRR28167554) is ignored but added at the end
+NOTE: snippy_SRR28167578 (identical to snippy_SRR28167554) is ignored but added at the end
+NOTE: snippy_SRR28167579 (identical to snippy_SRR28167554) is ignored but added at the end
+NOTE: snippy_SRR28167581 (identical to snippy_SRR28167554) is ignored but added at the end
+NOTE: snippy_SRR28167582 (identical to snippy_SRR28167554) is ignored but added at the end
+NOTE: snippy_SRR28167574 (identical to snippy_SRR28167562) is ignored but added at the end
+Alignment was printed to results/iqtree_out_362/core_362.uniqueseq.phy
+
+For your convenience alignment with unique sequences printed to results/iqtree_out_362/core_362.uniqueseq.phy
+
+Create initial parsimony tree by phylogenetic likelihood library (PLL)... 8.115 seconds
+Generating 1000 samples for ultrafast bootstrap (seed: 543644)...
+
+NOTE: 861 MB RAM (0 GB) is required!
+Measuring multi-threading efficiency up to 14 CPU cores
+4 trees examined
+Threads: 1 / Time: 15.554 sec / Speedup: 1.000 / Efficiency: 100% / LogL: -14082834
+Threads: 2 / Time: 7.032 sec / Speedup: 2.212 / Efficiency: 111% / LogL: -14082834
+Threads: 3 / Time: 5.822 sec / Speedup: 2.671 / Efficiency: 89% / LogL: -14082834
+Threads: 4 / Time: 4.654 sec / Speedup: 3.342 / Efficiency: 84% / LogL: -14082834
+Threads: 5 / Time: 4.239 sec / Speedup: 3.669 / Efficiency: 73% / LogL: -14082834
+Threads: 6 / Time: 3.427 sec / Speedup: 4.538 / Efficiency: 76% / LogL: -14082834
+Threads: 7 / Time: 3.223 sec / Speedup: 4.825 / Efficiency: 69% / LogL: -14082834
+Threads: 8 / Time: 3.016 sec / Speedup: 5.157 / Efficiency: 64% / LogL: -14082834
+Threads: 9 / Time: 2.832 sec / Speedup: 5.492 / Efficiency: 61% / LogL: -14082834
+Threads: 10 / Time: 2.663 sec / Speedup: 5.842 / Efficiency: 58% / LogL: -14082834
+Threads: 11 / Time: 2.511 sec / Speedup: 6.195 / Efficiency: 56% / LogL: -14082834
+Threads: 12 / Time: 2.465 sec / Speedup: 6.310 / Efficiency: 53% / LogL: -14082834
+Threads: 13 / Time: 2.528 sec / Speedup: 6.154 / Efficiency: 47% / LogL: -14082834
+Determining AUTO threadcount: done in 61.554 secs using 472.2% CPU
+BEST NUMBER OF THREADS: 11
+
+Estimate model parameters (epsilon = 0.100)
+1. Initial log-likelihood: -3133427.803
+2. Current log-likelihood: -2899808.599
+3. Current log-likelihood: -2899560.562
+4. Current log-likelihood: -2899560.363
+Optimal log-likelihood: -2899560.341
+Rate parameters:  A-C: 1.00042  A-G: 6.36246  A-T: 1.52262  C-G: 0.43559  C-T: 6.32199  G-T: 1.00000
+Base frequencies:  A: 0.235  C: 0.265  G: 0.263  T: 0.237
+Parameters optimization took 4 rounds (13.944 sec)
+Wrote distance file to... 
+Computing ML distances based on estimated model parameters...
+Calculating distance matrix: done in 1.27295 secs using 1100% CPU
+Computing ML distances took 1.319458 sec (of wall-clock time) 14.475554 sec (of CPU time)
+Setting up auxiliary I and S matrices: done in 0.000380993 secs using 1156% CPU
+Constructing RapidNJ tree: done in 0.036593 secs using 1139% CPU
+Computing RapidNJ tree took 0.037187 sec (of wall-clock time) 0.426597 sec (of CPU time)
+Log-likelihood of RapidNJ tree: -2925843.353
+--------------------------------------------------------------------
+|             INITIALIZING CANDIDATE TREE SET                      |
+--------------------------------------------------------------------
+Generating 98 parsimony trees... 1166.303 second
+Computing log-likelihood of 98 initial trees ... 354.569 seconds
+Current best score: -2898809.816
+
+Do NNI search on 20 best initial trees
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 1: -2898195.293
+Iteration 10 / LogL: -2899213.614 / Time: 0h:28m:42s
+Iteration 20 / LogL: -2899467.048 / Time: 0h:30m:33s
+Finish initializing candidate tree set (20)
+Current best tree score: -2898195.293 / CPU time: 1740.701
+Number of iterations: 20
+--------------------------------------------------------------------
+|               OPTIMIZING CANDIDATE TREE SET                      |
+--------------------------------------------------------------------
+Iteration 30 / LogL: -2903226.980 / Time: 0h:31m:56s (1h:17m:49s left)
+Iteration 40 / LogL: -2898297.517 / Time: 0h:50m:10s (1h:18m:14s left)
+Iteration 50 / LogL: -2898644.576 / Time: 0h:51m:36s (0h:53m:32s left)
+Log-likelihood cutoff on original alignment: -2899224.436
+Iteration 60 / LogL: -2899302.656 / Time: 0h:52m:59s (0h:36m:43s left)
+Iteration 70 / LogL: -2898627.798 / Time: 0h:54m:23s (0h:24m:22s left)
+Iteration 80 / LogL: -2899674.311 / Time: 1h:6m:5s (0h:17m:31s left)
+Iteration 90 / LogL: -2905837.189 / Time: 1h:7m:33s (0h:8m:19s left)
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 93: -2898173.159
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 100: -2898033.512
+Iteration 100 / LogL: -2898033.512 / Time: 1h:9m:7s (1h:9m:39s left)
+Log-likelihood cutoff on original alignment: -2899224.436
+NOTE: Bootstrap correlation coefficient of split occurrence frequencies: 0.967
+NOTE: UFBoot does not converge, continue at least 100 more iterations
+Iteration 110 / LogL: -2900006.142 / Time: 1h:10m:35s (0h:58m:9s left)
+Iteration 120 / LogL: -2904983.987 / Time: 1h:12m:17s (0h:48m:29s left)
+Iteration 130 / LogL: -2898277.545 / Time: 1h:13m:42s (0h:39m:54s left)
+Iteration 140 / LogL: -2898287.056 / Time: 1h:15m:7s (0h:32m:21s left)
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 141: -2898014.613
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 146: -2897949.901
+Iteration 150 / LogL: -2908945.842 / Time: 1h:22m:24s (0h:52m:59s left)
+Log-likelihood cutoff on original alignment: -2898980.640
+Iteration 160 / LogL: -2898322.808 / Time: 1h:23m:49s (0h:45m:15s left)
+Iteration 170 / LogL: -2911984.542 / Time: 1h:25m:12s (0h:38m:14s left)
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 172: -2897917.995
+Iteration 180 / LogL: -2898341.671 / Time: 1h:26m:40s (0h:44m:28s left)
+Iteration 190 / LogL: -2904435.437 / Time: 1h:28m:2s (0h:38m:7s left)
+Iteration 200 / LogL: -2900143.304 / Time: 1h:29m:25s (0h:32m:17s left)
+Log-likelihood cutoff on original alignment: -2898980.640
+NOTE: Bootstrap correlation coefficient of split occurrence frequencies: 0.974
+NOTE: UFBoot does not converge, continue at least 100 more iterations
+Iteration 210 / LogL: -2900414.628 / Time: 1h:30m:45s (0h:39m:1s left)
+Iteration 220 / LogL: -2898919.322 / Time: 1h:32m:12s (0h:33m:37s left)
+Iteration 230 / LogL: -2898033.203 / Time: 1h:33m:35s (0h:28m:33s left)
+Iteration 240 / LogL: -2898342.581 / Time: 1h:38m:43s (0h:24m:44s left)
+Iteration 250 / LogL: -2902446.092 / Time: 1h:40m:3s (0h:20m:3s left)
+Log-likelihood cutoff on original alignment: -2898980.640
+Iteration 260 / LogL: -2898316.477 / Time: 1h:41m:28s (0h:15m:38s left)
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 268: -2897842.747
+Iteration 270 / LogL: -2900313.728 / Time: 1h:42m:50s (0h:37m:24s left)
+Iteration 280 / LogL: -2898851.755 / Time: 1h:44m:14s (0h:32m:49s left)
+Iteration 290 / LogL: -2899286.557 / Time: 1h:45m:44s (0h:28m:29s left)
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 298: -2897675.772
+Iteration 300 / LogL: -2898150.263 / Time: 1h:47m:11s (0h:35m:4s left)
+Log-likelihood cutoff on original alignment: -2898980.640
+NOTE: Bootstrap correlation coefficient of split occurrence frequencies: 0.972
+NOTE: UFBoot does not converge, continue at least 100 more iterations
+Iteration 310 / LogL: -2897920.480 / Time: 1h:48m:33s (0h:31m:34s left)
+Iteration 320 / LogL: -2898661.289 / Time: 1h:49m:59s (0h:27m:32s left)
+Iteration 330 / LogL: -2898639.643 / Time: 1h:51m:27s (0h:23m:40s left)
+Iteration 340 / LogL: -2904764.544 / Time: 1h:52m:52s (0h:19m:57s left)
+Iteration 350 / LogL: -2898394.566 / Time: 1h:54m:20s (0h:16m:21s left)
+Log-likelihood cutoff on original alignment: -2898980.640
+Iteration 360 / LogL: -2905572.262 / Time: 1h:55m:45s (0h:12m:52s left)
+Iteration 370 / LogL: -2899202.610 / Time: 1h:57m:10s (0h:9m:30s left)
+Iteration 380 / LogL: -2899039.856 / Time: 1h:58m:38s (0h:6m:15s left)
+Iteration 390 / LogL: -2902979.530 / Time: 2h:0m:13s (0h:3m:5s left)
+Iteration 400 / LogL: -2898925.270 / Time: 2h:1m:50s (0h:0m:0s left)
+Log-likelihood cutoff on original alignment: -2898980.640
+NOTE: Bootstrap correlation coefficient of split occurrence frequencies: 0.976
+NOTE: UFBoot does not converge, continue at least 100 more iterations
+Iteration 410 / LogL: -2898011.971 / Time: 2h:3m:19s (0h:27m:6s left)
+Iteration 420 / LogL: -2899037.616 / Time: 2h:4m:45s (0h:23m:47s left)
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 425: -2897618.967
+Iteration 430 / LogL: -2902500.873 / Time: 2h:6m:24s (0h:27m:57s left)
+Iteration 440 / LogL: -2898126.105 / Time: 2h:7m:51s (0h:24m:43s left)
+Iteration 450 / LogL: -2898162.634 / Time: 2h:9m:16s (0h:21m:34s left)
+Log-likelihood cutoff on original alignment: -2898781.539
+Iteration 460 / LogL: -2897933.895 / Time: 2h:10m:46s (0h:18m:29s left)
+Iteration 470 / LogL: -2898786.960 / Time: 2h:12m:14s (0h:15m:29s left)
+Iteration 480 / LogL: -2898827.219 / Time: 2h:13m:42s (0h:12m:32s left)
+Iteration 490 / LogL: -2907269.452 / Time: 2h:15m:3s (0h:9m:39s left)
+Iteration 500 / LogL: -2898346.921 / Time: 2h:16m:31s (0h:6m:49s left)
+Log-likelihood cutoff on original alignment: -2898588.501
+NOTE: Bootstrap correlation coefficient of split occurrence frequencies: 0.972
+NOTE: UFBoot does not converge, continue at least 100 more iterations
+Iteration 510 / LogL: -2899174.189 / Time: 2h:18m:0s (0h:24m:22s left)
+Iteration 520 / LogL: -2899308.235 / Time: 2h:19m:24s (0h:21m:27s left)
+Iteration 530 / LogL: -2898049.072 / Time: 2h:20m:49s (0h:18m:36s left)
+Iteration 540 / LogL: -2899473.625 / Time: 2h:22m:15s (0h:15m:49s left)
+Iteration 550 / LogL: -2905061.042 / Time: 2h:23m:38s (0h:13m:4s left)
+Log-likelihood cutoff on original alignment: -2898588.501
+Iteration 560 / LogL: -2898786.429 / Time: 2h:25m:5s (0h:10m:22s left)
+Iteration 570 / LogL: -2901985.157 / Time: 2h:26m:52s (0h:7m:44s left)
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 579: -2897571.821
+Iteration 580 / LogL: -2899457.814 / Time: 2h:28m:22s (0h:25m:20s left)
+Iteration 590 / LogL: -2898624.880 / Time: 2h:29m:50s (0h:22m:37s left)
+Iteration 600 / LogL: -2899713.030 / Time: 2h:31m:17s (0h:19m:55s left)
+Log-likelihood cutoff on original alignment: -2898546.244
+NOTE: Bootstrap correlation coefficient of split occurrence frequencies: 0.968
+NOTE: UFBoot does not converge, continue at least 100 more iterations
+Iteration 610 / LogL: -2897675.895 / Time: 2h:32m:49s (0h:22m:33s left)
+Iteration 620 / LogL: -2899070.366 / Time: 2h:34m:16s (0h:19m:55s left)
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 630: -2897516.342
+Iteration 630 / LogL: -2897516.342 / Time: 2h:35m:45s (0h:24m:44s left)
+Iteration 640 / LogL: -2897872.457 / Time: 2h:37m:6s (0h:22m:6s left)
+Iteration 650 / LogL: -2899025.141 / Time: 2h:38m:35s (0h:19m:31s left)
+Log-likelihood cutoff on original alignment: -2898546.244
+Iteration 660 / LogL: -2905527.860 / Time: 2h:40m:3s (0h:16m:59s left)
+Iteration 670 / LogL: -2897617.053 / Time: 2h:41m:30s (0h:14m:28s left)
+Iteration 680 / LogL: -2899207.271 / Time: 2h:43m:4s (0h:11m:59s left)
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 682: -2897515.803
+Iteration 690 / LogL: -2898726.352 / Time: 2h:44m:34s (0h:21m:57s left)
+Iteration 700 / LogL: -2898875.910 / Time: 2h:46m:6s (0h:19m:28s left)
+Log-likelihood cutoff on original alignment: -2898546.244
+NOTE: Bootstrap correlation coefficient of split occurrence frequencies: 0.974
+NOTE: UFBoot does not converge, continue at least 100 more iterations
+Iteration 710 / LogL: -2898983.053 / Time: 2h:47m:33s (0h:21m:14s left)
+Iteration 720 / LogL: -2898317.862 / Time: 2h:49m:0s (0h:18m:47s left)
+Iteration 730 / LogL: -2911768.325 / Time: 2h:50m:28s (0h:16m:21s left)
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 738: -2897415.105
+Iteration 740 / LogL: -2898079.339 / Time: 2h:52m:3s (0h:22m:47s left)
+Iteration 750 / LogL: -2898366.061 / Time: 2h:53m:43s (0h:20m:23s left)
+Log-likelihood cutoff on original alignment: -2898546.244
+Iteration 760 / LogL: -2898753.809 / Time: 2h:55m:17s (0h:17m:59s left)
+Iteration 770 / LogL: -2897515.092 / Time: 2h:56m:53s (0h:15m:37s left)
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 771: -2897272.453
+Iteration 780 / LogL: -2904848.357 / Time: 2h:58m:42s (0h:20m:51s left)
+Iteration 790 / LogL: -2901705.208 / Time: 3h:0m:12s (0h:18m:29s left)
+Iteration 800 / LogL: -2898409.964 / Time: 3h:1m:45s (0h:16m:8s left)
+Log-likelihood cutoff on original alignment: -2898457.110
+NOTE: Bootstrap correlation coefficient of split occurrence frequencies: 0.932
+NOTE: UFBoot does not converge, continue at least 100 more iterations
+Iteration 810 / LogL: -2907323.205 / Time: 3h:3m:17s (0h:20m:22s left)
+Iteration 820 / LogL: -2898021.167 / Time: 3h:4m:49s (0h:18m:2s left)
+Iteration 830 / LogL: -2898821.254 / Time: 3h:6m:21s (0h:15m:43s left)
+Iteration 840 / LogL: -2897710.632 / Time: 3h:29m:57s (0h:15m:0s left)
+Iteration 850 / LogL: -2907382.308 / Time: 4h:7m:15s (0h:14m:33s left)
+Log-likelihood cutoff on original alignment: -2898457.110
+Iteration 860 / LogL: -2897912.439 / Time: 4h:8m:51s (0h:11m:34s left)
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 862: -2897272.290
+Iteration 870 / LogL: -2897503.240 / Time: 4h:10m:28s (0h:26m:30s left)
+Iteration 880 / LogL: -2904772.061 / Time: 4h:12m:12s (0h:23m:30s left)
+Iteration 890 / LogL: -2897561.021 / Time: 4h:13m:48s (0h:20m:32s left)
+Iteration 900 / LogL: -2898980.243 / Time: 4h:15m:23s (0h:17m:36s left)
+Log-likelihood cutoff on original alignment: -2898360.159
+NOTE: Bootstrap correlation coefficient of split occurrence frequencies: 0.939
+NOTE: UFBoot does not converge, continue at least 100 more iterations
+Iteration 910 / LogL: -2899332.330 / Time: 5h:33m:25s (0h:32m:59s left)
+Iteration 920 / LogL: -2913814.075 / Time: 5h:34m:56s (0h:29m:8s left)
+Iteration 930 / LogL: -2899508.437 / Time: 5h:36m:34s (0h:25m:20s left)
+Iteration 940 / LogL: -2898365.723 / Time: 5h:38m:8s (0h:21m:35s left)
+Iteration 950 / LogL: -2915161.712 / Time: 5h:39m:40s (0h:17m:53s left)
+Log-likelihood cutoff on original alignment: -2898360.159
+Iteration 960 / LogL: -2897418.362 / Time: 5h:41m:21s (0h:14m:13s left)
+Iteration 970 / LogL: -2898395.868 / Time: 5h:42m:52s (0h:10m:36s left)
+Iteration 980 / LogL: -2898751.293 / Time: 5h:44m:24s (0h:7m:1s left)
+Iteration 990 / LogL: -2899432.199 / Time: 5h:46m:1s (0h:3m:29s left)
+Iteration 1000 / LogL: -2901464.446 / Time: 5h:47m:32s (0h:0m:0s left)
+Log-likelihood cutoff on original alignment: -2898360.159
+NOTE: Bootstrap correlation coefficient of split occurrence frequencies: 0.952
+NOTE: UFBoot does not converge, continue at least 100 more iterations
+WARNING: bootstrap analysis did not converge. You should rerun with higher number of iterations (-nm option)
+TREE SEARCH COMPLETED AFTER 1001 ITERATIONS / Time: 5h:47m:42s
+
+--------------------------------------------------------------------
+|                    FINALIZING TREE SEARCH                        |
+--------------------------------------------------------------------
+Performs final model parameters optimization
+Estimate model parameters (epsilon = 0.010)
+1. Initial log-likelihood: -2897272.290
+Optimal log-likelihood: -2897272.290
+Rate parameters:  A-C: 0.99831  A-G: 6.35924  A-T: 1.52313  C-G: 0.43660  C-T: 6.32067  G-T: 1.00000
+Base frequencies:  A: 0.235  C: 0.265  G: 0.263  T: 0.237
+Parameters optimization took 1 rounds (1.910 sec)
+BEST SCORE FOUND : -2897272.290
+Creating bootstrap support values...
+Split supports printed to NEXUS file results/iqtree_out_362/core_362.splits.nex
+Total tree length: 5.123
+
+Total number of iterations: 1001
+CPU time used for tree search: 100888.554 sec (28h:1m:28s)
+Wall-clock time used for tree search: 20768.952 sec (5h:46m:8s)
+Total CPU time used: 101433.662 sec (28h:10m:33s)
+Total wall-clock time used: 20865.162 sec (5h:47m:45s)
+
+Computing bootstrap consensus tree...
+Reading input file results/iqtree_out_362/core_362.splits.nex...
+298 taxa and 1431 splits.
+Consensus tree written to results/iqtree_out_362/core_362.contree
+Reading input trees file results/iqtree_out_362/core_362.contree
+Log-likelihood of consensus tree: -2897275.138
+
+Analysis results written to: 
+  IQ-TREE report:                results/iqtree_out_362/core_362.iqtree
+  Maximum-likelihood tree:       results/iqtree_out_362/core_362.treefile
+  Likelihood distances:          results/iqtree_out_362/core_362.mldist
+
+Ultrafast bootstrap approximation results written to:
+  Split support values:          results/iqtree_out_362/core_362.splits.nex
+  Consensus tree:                results/iqtree_out_362/core_362.contree
+  Screen log file:               results/iqtree_out_362/core_362.log
+
+Date and Time: Mon Sep 28 18:41:04 2026

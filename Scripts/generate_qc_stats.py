@@ -10,10 +10,10 @@ from ast import literal_eval
 
 # --- Configuration ---
 # Paths relative to the 'scripts' folder
-MULTIQC_FILE = "results/multiqc/multiqc_data/multiqc_general_stats.txt"
-QUAST_FILE = "results/quast_results/transposed_report.txt"
-PHRED_FILE = "results/multiqc/multiqc_data/fastqc_per_sequence_quality_scores_plot.txt"
-OUTPUT_FILE = "results/Table_4_1_Summary_Stats.csv"
+MULTIQC_FILE = "results/362/multiqc_general_stats.txt"
+QUAST_FILE   = "results/362/transposed_report.tsv"
+PHRED_FILE   = "results/362/fastqc_per_sequence_quality_scores_plot.txt"
+OUTPUT_FILE  = "results/362/Table_4_1_Summary_Stats.csv"
 
 pd.options.display.float_format = '{:,.2f}'.format
 
@@ -36,8 +36,8 @@ def main():
     try:
         # Load MultiQC stats
         general_df = pd.read_csv(MULTIQC_FILE, sep='\t')
-        # Load QUAST stats (skiprows=2 handles the specific QUAST header format)
-        quast_df = pd.read_csv(QUAST_FILE, sep=r'\s{2,}', skiprows=2, engine='python')
+        
+        quast_df = pd.read_csv(QUAST_FILE, sep='\t')
     except FileNotFoundError as e:
         print(f"Error: Required input file not found: {e.filename}")
         exit()

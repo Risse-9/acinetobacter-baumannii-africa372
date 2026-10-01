@@ -1,0 +1,11 @@
+Category,Metric,Mean,Median,Q1 (25%),Q3 (75%),Min,Max
+Raw Reads,Mean Phred Score (Q),33.64,34.5,30.0,35.51,27.15,38.28
+Raw Reads,Total Sequences (Millions),1.54,1.04,0.55,1.94,0.16,6.13
+Raw Reads,Sequence Duplication (%),23.97,19.25,8.02,38.57,0.07,64.87
+Raw Reads,Read GC Content (%),39.39,39.0,39.0,40.0,37.0,43.0
+Assembly,Genome Size (Mbp),3.95,3.95,3.88,4.03,3.44,4.31
+Assembly,Assembly GC Content (%),39.01,38.98,38.92,39.08,38.7,39.8
+Assembly,N50 Value (bp),138214.6,131054.5,58384.0,165736.25,4868.0,825214.0
+Assembly,N90 Value (bp),37691.55,37631.5,15065.0,47669.5,1391.0,196643.0
+Assembly,L50 (Contig Count),19.01,10.0,8.0,20.0,2.0,227.0
+Assembly,L90 (Contig Count),63.36,31.0,25.0,70.25,7.0,764.0

@@ -5,8 +5,8 @@
 set -e
 
 # --- CONFIGURATION ---
-INPUT_TREE="../results/iqtree_out/final_core.treefile"
-OUTPUT_TREE="../results/iqtree_out/final_core.tre"
+INPUT_TREE="results/iqtree_out_362/core_362.treefile"
+OUTPUT_TREE="results/iqtree_out_362/core_362.tre"
 
 # 1. Check if file exists
 if [ ! -f "$INPUT_TREE" ]; then

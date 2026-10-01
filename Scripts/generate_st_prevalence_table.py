@@ -7,12 +7,9 @@ import pandas as pd
 import os
 
 # --- Configuration ---
-# Inputs
-WIDE_MATRIX_FILE = "results/amr_results_wide_filtered.csv"
-METADATA_FILE = "data/microreact_metadata_final_Copy.xlsx"
-
-# Output
-OUTPUT_FILE = "results/Table_4_4_ST_Prevalence.csv"
+WIDE_MATRIX_FILE = "results/362/amr_results_wide_filtered.csv"
+METADATA_FILE    = "data/362/microreact_metadata.xlsx"
+OUTPUT_FILE      = "results/362/Table_4_4_ST_Prevalence.csv"
 # Parameters
 MAJOR_STS = [1, 2, 10, 25, 85, 164]
 KEY_GENES = ["ant(3'')-IIa", "blaOXA-23", "sul2", "msr(E)", "tet(B)", "blaNDM-1", "armA"]

@@ -9,8 +9,8 @@ import os
 
 # --- Configuration ---
 # Input: The "Super-Table" created in Script 06
-INPUT_FILE = "../results/amr_plus_mob_merged.csv"
-OUTPUT_FILE = "../results/Table_4_5_Plasmid_Association.csv"
+INPUT_FILE  = "results/362/amr_plus_mob_merged.csv"
+OUTPUT_FILE = "results/362/Table_4_5_Plasmid_Association.csv"
 
 # Genes of interest to highlight (Top 20 or specific ones from your Jottings)
 KEY_GENES = [

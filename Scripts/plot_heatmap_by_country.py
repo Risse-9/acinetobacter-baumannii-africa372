@@ -9,10 +9,9 @@ import matplotlib.pyplot as plt
 import os
 
 # --- Configuration ---
-WIDE_FILE = "../results/amr_results_wide_filtered.csv"
-# Note: Using the Excel file as specified in your setup
-META_FILE = "../data/microreact_metadata_final_Copy.xlsx"
-OUTPUT_IMAGE = "../results/figures/Figure_4_3_Country_Heatmap.png"
+WIDE_FILE    = "results/362/amr_results_wide_filtered.csv"
+META_FILE    = "data/362/microreact_metadata.xlsx"
+OUTPUT_IMAGE = "results/362/figures/Figure_4_3_Country_Heatmap.png"
 
 os.makedirs(os.path.dirname(OUTPUT_IMAGE), exist_ok=True)
 

@@ -8,8 +8,8 @@ from matplotlib.ticker import MaxNLocator
 import os
 
 # --- Configuration ---
-INPUT_FILE = "results/amr_results_wide_filtered.csv"
-OUTPUT_IMAGE = "results/figures/Figure_4_1_Gene_Burden.png"
+INPUT_FILE   = "results/362/amr_results_wide_filtered.csv"
+OUTPUT_IMAGE = "results/362/figures/Figure_4_1_Gene_Burden.png"
 
 # Ensure figure directory exists
 os.makedirs(os.path.dirname(OUTPUT_IMAGE), exist_ok=True)

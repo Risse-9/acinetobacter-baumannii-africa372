@@ -13,9 +13,19 @@ __pycache__/
 .ipynb_checkpoints
 .venv/
 env/
+.vscode/
 
 # Too large for GitHub
 *.zip
 *.rocrate.zip
 results/multiqc/multiqc_data/*.json
 results/snippy_final_core/core.full.aln
+results/snippy_out_362/
+results/snippy_out_362/
+results/snippy_final_core_362/core.full.aln
+# 362-genome run
+results/snippy_out_362/
+results/snippy_final_core_362/core.full.aln
+results/snippy_final_core_362/core.vcf
+results/snippy_final_core_362/core.tab
+results/iqtree_out_362/core_362.uniqueseq.phy
