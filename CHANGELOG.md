@@ -4,7 +4,7 @@ All notable changes to this repository are recorded here.
 
 ## [v2.0] — 362-genome dataset
 
-Prepared for manuscript submission. The previous state is preserved under the `v1` tag, and its
+Prepared for manuscript submission. The previous state is preserved under the `thesis-v1` tag, and its
 outputs remain in place unchanged.
 
 ### Changed
@@ -68,6 +68,6 @@ unchanged.
 - FastQC and MultiQC outputs cover one genome (`ERR6938737`) that was never assembled or included
   in the dataset. It is removed by `Scripts/11_filter_inputs_362.py`.
 
-## [v1.0] — 372-genome dataset
+## [thesis-v1.0] — 372-genome dataset
 
 The state of the repository as originally submitted.

@@ -2,7 +2,7 @@
 
 This repository contains the bioinformatics pipeline, data processing scripts, and downstream analysis used to investigate the antimicrobial resistance (AMR) profiles and phylogenetic relationships of *Acinetobacter baumannii* genomes collected from across Africa.
 
-The analysis dataset comprises **362 genomes**. An earlier version used 372; ten genomes were excluded following metadata and assembly-quality verification. See [CHANGELOG.md](CHANGELOG.md) for the list and the reason for each. The earlier state is preserved under the `v1` tag.
+The analysis dataset comprises **362 genomes**. An earlier version used 372; ten genomes were excluded following metadata and assembly-quality verification. See [CHANGELOG.md](CHANGELOG.md) for the list and the reason for each. The earlier state is preserved under the `thesis-v1` tag.
 
 ## Project Overview
 
